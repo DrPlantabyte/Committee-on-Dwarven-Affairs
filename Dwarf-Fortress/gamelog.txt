@@ -1,0 +1,11 @@
+*** STARTING NEW GAME ***
+Generating world using parameter set CREATE WORLD NOW = 1234444
+ Seed: 64IWkwQqo2kOO6C4064k
+ History Seed: yUImc8wCo4ssoyOIUgII
+ Name Seed: GqOEeWIQISKcMgUGygMY
+ Creature Seed: MkYAqMGI44Ig4cqgEgIq
+*** STARTING NEW GAME ***
+** Starting New Outpost **
+Id Dumatuzol, Fish Cleaner cancels Extract from Plants: Needs unrotten extract-bearing plant plants.
+x2
+*** STARTING NEW GAME ***
