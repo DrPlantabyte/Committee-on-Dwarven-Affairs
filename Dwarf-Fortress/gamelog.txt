@@ -9,3 +9,16 @@ Generating world using parameter set CREATE WORLD NOW = 1234444
 Id Dumatuzol, Fish Cleaner cancels Extract from Plants: Needs unrotten extract-bearing plant plants.
 x2
 *** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+** Loading Fortress **
+The weather has cleared.
+`Handyman' Duthalurvad, Woodworker cancels Construct wooden Bin: Needs logs.
+`Handyman' Duthalurvad, Woodworker cancels Make wooden Barrel: Needs logs.
+x2
+`Barbie McStrongarm' Logemdesis, Miner cancels Dig Channel: Dangerous terrain.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+`Lady Chop' Atåstenshed has become a Planter.
+`Dr Sparklez' ïnulison has become a Planter.
+*** STARTING NEW GAME ***
+** Loading Fortress **

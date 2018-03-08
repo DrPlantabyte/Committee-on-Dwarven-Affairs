@@ -1,3 +1,7 @@
 */
 !shared game/
 !UNAVAILABLE/
+
+!*/
+!shared game/*
+!UNAVAILABLE/*
