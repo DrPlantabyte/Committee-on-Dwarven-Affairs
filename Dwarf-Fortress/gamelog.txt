@@ -106,3 +106,37 @@ The weather has cleared.
 It has started raining.
 Autumn has come.
 The weather has cleared.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Stray Horse (Tame) has given birth to a horse foal.
+The outpost liaison Kumil Gatizk–buk from Bomrek Riril has arrived.
+A caravan from Bomrek Riril has arrived.
+Their wagons have bypassed your inaccessible site.
+The merchants need a trade depot to unload their goods.
+`Barbie McStrongarm' Logemdesis, Miner cancels Prepare a Raw Fish: Needs unrotten raw fish.
+Some migrants have arrived.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+`Handyman' Duthalurvad, Herbalist cancels Process Plants: Needs unrotten processable plants.
+Merchants have arrived and are unloading their goods.
+Asmel •nuluthmik has become a broker.
+It has started raining.
+A section of the cavern has collapsed!
+The spinner's left upper leg takes the full force of the impact, but it is deflected by the spinner's (giant cave spider silk cloak)!
+The spinner's left lower arm takes the full force of the impact, but it is deflected by the spinner's (giant cave spider silk cloak)!
+The spinner is caught in a cloud of peat!
+The spinner is caught in a cloud of sandy clay loam!
+The spinner is caught in a cloud of peat!
+The spinner is caught in a cloud of sandy clay loam!
+The spinner slams into an obstacle!
+The spinner's right lower leg takes the full force of the impact, but it is deflected by the spinner's (pig tail trousers)!
+The spinner is caught in a cloud of peat!
+The spinner is caught in a burst of chalk!
+The stonecrafter's upper body takes the full force of the impact, but it is deflected by the stonecrafter's (pig tail cloak)!
+The stonecrafter regains consciousness.
+The stonecrafter stands up.
+The spinner regains consciousness.
+The spinner stands up.
+The stonecrafter is no longer stunned.
+The spinner is no longer stunned.
+Datan Sanusid, Stonecrafter has been found dead, drowned.

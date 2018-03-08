@@ -1,0 +1,2 @@
+DOUBLE TAGGED ITEM: Store Item in Stockpile, ashen casket
+loop path fail: <same square> creeping eye,19,139,17 -> 21,139,17: Id #429:Path Goal Seek Station:Station Owner at 13,137,17

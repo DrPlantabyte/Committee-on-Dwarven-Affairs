@@ -2,8 +2,8 @@
 echo "checking out..."
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd "$DIR"
-DIR_A="$DIR/Dwarf-Fortress/data/save/shared game"
-DIR_B="$DIR/Dwarf-Fortress/data/save/UNAVAILABLE"
+DIR_A="Dwarf-Fortress/data/save/shared game"
+DIR_B="Dwarf-Fortress/data/save/UNAVAILABLE"
 git fetch origin master
 git reset --hard FETCH_HEAD
 git clean -df
