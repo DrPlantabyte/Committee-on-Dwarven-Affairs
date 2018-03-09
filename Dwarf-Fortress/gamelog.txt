@@ -220,3 +220,6 @@ The dwarves suspended the construction of Wall.
 The dwarves suspended the construction of Wall.
 `Lady Stonesmasher' Debbenurist, militia commander cancels Construct Building: Dangerous terrain.
 The dwarves suspended the construction of Wall.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+It has started raining.
