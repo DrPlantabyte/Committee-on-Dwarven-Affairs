@@ -1842,3 +1842,501 @@ Oddom ìnamlikot has become a militia captain.
 `Liz McCrafty' Zuntårked has become a Carpenter.
 `Lady Stonesmasher' Debbenurist has become a militia commander.
 `Lady Stonesmasher' Debbenurist, militia commander cancels Store Item in Bin: Resting injury.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+It has started raining.
+A rhesus macaque has stolen a (giant cave spider silk robe)!
+A rhesus macaque has stolen a (giant cave spider silk hood)!
+A rhesus macaque has stolen a (alpaca wool trousers)!
+A rhesus macaque has stolen a x(pig tail right mitten)x!
+A rhesus macaque has stolen a x(alpaca wool right glove)x!
+A elven caravan from Osiula has arrived.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Immobilize Break: Need splint.
+Merchants have arrived and are unloading their goods.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Clean Patient: Need empty bucket.
+x2
+Degâl StÉkudmegid, Pump Operator cancels Construct Building: Could not find path.
+The dwarves suspended the construction of Wall.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+Oddom ìnamlikot, militia captain has given birth to a boy.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+x2
+x3
+`Liz McCrafty' Zuntårked, Carpenter cancels Construct Traction Bench: Needs mechanisms.
+`Lady Stonesmasher' Debbenurist, militia commander cancels Construct rock Mechanisms: Needs non-economic hard rock.
+The weather has cleared.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+x2
+x3
+An animal has grown to become a Stray Reindeer Bull.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Construct rock Mechanisms: Needs non-economic hard rock.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+x2
+x3
+x4
+Some migrants have arrived.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+The merchants from Osiula will be leaving soon.
+`Lady Stonesmasher' Debbenurist, militia commander cancels Construct Building: Creature occupying site.
+The dwarves suspended the construction of Wall.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+`Liz McCrafty' Zuntårked, Carpenter cancels Construct rock Mechanisms: Needs non-economic hard rock.
+`Lady Stonesmasher' Debbenurist, militia commander cancels Construct rock Mechanisms: Needs non-economic hard rock.
+`Lady Stonesmasher' Debbenurist, militia commander cancels Construct Traction Bench: Needs mechanisms.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+x2
+`Lady Stonesmasher' Debbenurist, militia commander cancels Construct rock Mechanisms: Needs non-economic hard rock.
+`Lady Stonesmasher' Debbenurist, militia commander cancels Construct Traction Bench: Needs mechanisms.
+The merchants from Osiula have embarked on their journey.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Construct rock Mechanisms: Needs non-economic hard rock.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Construct Traction Bench: Needs mechanisms.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+x2
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Construct rock Mechanisms: Needs non-economic hard rock.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Construct Traction Bench: Needs mechanisms.
+Degâl StÉkudmegid, Pump Operator cancels Construct rock Mechanisms: Needs non-economic hard rock.
+Degâl StÉkudmegid, Pump Operator cancels Construct Traction Bench: Needs table.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+`Liz McCrafty' Zuntårked, Carpenter cancels Construct rock Mechanisms: Needs non-economic hard rock.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+`Liz McCrafty' Zuntårked, Carpenter cancels Construct Traction Bench: Needs mechanisms.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+`Liz McCrafty' Zuntårked, Carpenter cancels Construct rock Mechanisms: Needs non-economic hard rock.
+`Liz McCrafty' Zuntårked, Carpenter cancels Construct Traction Bench: Needs mechanisms.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+x2
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Construct rock Mechanisms: Needs non-economic hard rock.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Construct Traction Bench: Needs mechanisms.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Construct rock Mechanisms: Needs non-economic hard rock.
+Make wooden Pipe Section (6) has been completed.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Construct Traction Bench: Needs mechanisms.
+`Lady Stonesmasher' Debbenurist, militia commander cancels Construct rock Mechanisms: Needs non-economic hard rock.
+`Lady Stonesmasher' Debbenurist, militia commander cancels Construct Traction Bench: Needs mechanisms.
+`Lady Stonesmasher' Debbenurist, militia commander cancels Construct rock Mechanisms: Needs non-economic hard rock.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+`Lady Stonesmasher' Debbenurist, militia commander cancels Construct Traction Bench: Needs mechanisms.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+x2
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Construct rock Mechanisms: Needs non-economic hard rock.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Construct Traction Bench: Needs mechanisms.
+Collect Clay (30) has been completed.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Construct rock Mechanisms: Needs non-economic hard rock.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Construct Traction Bench: Needs mechanisms.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+x2
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Construct rock Mechanisms: Needs non-economic hard rock.
+`Liz McCrafty' Zuntårked, Carpenter cancels Construct Traction Bench: Needs mechanisms.
+`Liz McCrafty' Zuntårked, Carpenter cancels Construct rock Mechanisms: Needs non-economic hard rock.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+`Liz McCrafty' Zuntårked, Carpenter cancels Construct rock Mechanisms: Needs non-economic hard rock.
+`Liz McCrafty' Zuntårked, Carpenter cancels Construct Traction Bench: Needs table.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+`Lady Stonesmasher' Debbenurist, militia commander cancels Construct rock Mechanisms: Needs non-economic hard rock.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+It has started raining.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+Degâl StÉkudmegid, Pump Operator cancels Construct Traction Bench: Needs mechanisms.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Construct rock Mechanisms: Needs non-economic hard rock.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+Collect Clay (50) has been completed.
+`Lady Stonesmasher' Debbenurist, militia commander cancels Construct rock Mechanisms: Needs non-economic hard rock.
+`Lady Stonesmasher' Debbenurist, militia commander cancels Construct Traction Bench: Needs mechanisms.
+`Lady Stonesmasher' Debbenurist, militia commander cancels Construct rock Mechanisms: Needs non-economic hard rock.
+Kol Rovodsedur, Woodcrafter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+Degâl StÉkudmegid, Pump Operator cancels Construct rock Mechanisms: Needs non-economic hard rock.
+Degâl StÉkudmegid, Pump Operator cancels Construct Traction Bench: Needs mechanisms.
+`Lady Stonesmasher' Debbenurist, militia commander cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+`Liz McCrafty' Zuntårked, Carpenter cancels Operate Pump: Exhausted.
+`Liz McCrafty' Zuntårked, Carpenter cancels Construct rock Mechanisms: Needs non-economic hard rock.
+`Liz McCrafty' Zuntårked, Carpenter cancels Construct Traction Bench: Needs mechanisms.
+`Liz McCrafty' Zuntårked, Carpenter cancels Construct rock Mechanisms: Needs non-economic hard rock.
+`Lady Stonesmasher' Debbenurist, militia commander cancels Construct Building: Dangerous terrain.
+The dwarves suspended the construction of Wall.
+`Lady Stonesmasher' Debbenurist, militia commander cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+Rith Mîrulkel, manager cancels Operate Pump: Exhausted.
+`Lady Stonesmasher' Debbenurist, militia commander cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+`Lady Stonesmasher' Debbenurist, militia commander cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+`Liz McCrafty' Zuntårked, Carpenter cancels Construct rock Mechanisms: Needs non-economic hard rock.
+`Lady Stonesmasher' Debbenurist, militia commander cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+`Liz McCrafty' Zuntårked, Carpenter cancels Construct Traction Bench: Needs mechanisms.
+Asmel ïnuluthmik has become a broker.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+Stray Horse (Tame) has given birth to a horse foal.
+`Liz McCrafty' Zuntårked, Carpenter cancels Construct rock Mechanisms: Needs non-economic hard rock.
+`Liz McCrafty' Zuntårked, Carpenter cancels Construct Traction Bench: Needs mechanisms.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+`Lady Stonesmasher' Debbenurist, militia commander cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+`Liz McCrafty' Zuntårked, Carpenter cancels Construct rock Mechanisms: Needs non-economic hard rock.
+`Liz McCrafty' Zuntårked, Carpenter cancels Construct Traction Bench: Needs mechanisms.
+An animal has grown to become a Stray Ewe.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+`Liz McCrafty' Zuntårked, Carpenter cancels Construct rock Mechanisms: Needs non-economic hard rock.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+`Liz McCrafty' Zuntårked, Carpenter cancels Construct Traction Bench: Needs mechanisms.
+Dastot Edâmmeng, Woodcrafter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+Dastot Edâmmeng, Woodcrafter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+Dastot Edâmmeng, Woodcrafter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+`Liz McCrafty' Zuntårked, Carpenter cancels Construct rock Mechanisms: Needs non-economic hard rock.
+Dastot Edâmmeng, Woodcrafter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+The weather has cleared.
+Dastot Edâmmeng, Woodcrafter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+`Liz McCrafty' Zuntårked, Carpenter cancels Construct Traction Bench: Needs mechanisms.
+It is now summer.
+Dastot Edâmmeng, Woodcrafter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+Likot Ozsitdod¢k, Animal Caretaker cancels Eat: Dangerous terrain.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+`Liz McCrafty' Zuntårked, Carpenter cancels Construct rock Mechanisms: Needs non-economic hard rock.
+`Liz McCrafty' Zuntårked, Carpenter cancels Construct Traction Bench: Needs mechanisms.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+Dastot Edâmmeng, Woodcrafter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+`Liz McCrafty' Zuntårked, Carpenter cancels Construct rock Mechanisms: Needs non-economic hard rock.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+`Liz McCrafty' Zuntårked, Carpenter cancels Construct Traction Bench: Needs mechanisms.
+Dastot Edâmmeng, Woodcrafter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+Likot Ozsitdod¢k has become a Pump Operator.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+It has started raining.
+Onol Ubbulbakust, Carpenter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+Onol Ubbulbakust, Carpenter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+Dastot Edâmmeng, Woodcrafter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+Tosid Ginetkogan, Trapper cancels Drink: Taken by mood.
+Tosid Ginetkogan, Trapper has been possessed!
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+Degâl StÉkudmegid, Pump Operator cancels Construct rock Mechanisms: Needs non-economic hard rock.
+Degâl StÉkudmegid, Pump Operator cancels Construct Traction Bench: Needs mechanisms.
+Dastot Edâmmeng, Woodcrafter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+Degâl StÉkudmegid, Pump Operator cancels Construct rock Mechanisms: Needs non-economic hard rock.
+Degâl StÉkudmegid, Pump Operator cancels Construct Traction Bench: Needs mechanisms.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+Dastot Edâmmeng, Woodcrafter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+és Sanrebimush, Woodcutter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+Onol Ubbulbakust, Carpenter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+Degâl StÉkudmegid, Pump Operator cancels Construct rock Mechanisms: Needs non-economic hard rock.
+`Handyman' Duthalurvad, Herbalist cancels Drink: Shaken.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+Degâl StÉkudmegid, Pump Operator cancels Construct Traction Bench: Needs mechanisms.
+Degâl StÉkudmegid, Pump Operator cancels Construct rock Mechanisms: Needs non-economic hard rock.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+The weather has cleared.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+Onol Ubbulbakust has become a Pump Operator.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+`Barbie McStrongarm' Logemdesis, Miner cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+Dastot Edâmmeng, Woodcrafter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+Dastot Edâmmeng, Woodcrafter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+`Handyman' Duthalurvad, Herbalist cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+Cerol Olinzokun has become a expedition leader.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+Dastot Edâmmeng, Woodcrafter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+Dastot Edâmmeng, Woodcrafter cancels Construct Building: Dangerous terrain.
+The dwarves suspended the construction of Wall.
+Dastot Edâmmeng, Woodcrafter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+Dastot Edâmmeng, Woodcrafter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+Degâl StÉkudmegid, Pump Operator cancels Construct rock Mechanisms: Needs non-economic hard rock.
+It has started raining.
+Rith Mîrulkel, manager cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+Degâl StÉkudmegid, Pump Operator cancels Construct Traction Bench: Needs mechanisms.
+Datan Zonvod, Armorer cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+Degâl StÉkudmegid, Pump Operator cancels Construct rock Mechanisms: Needs non-economic hard rock.
+Rith Mîrulkel, manager cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+Kol Rovodsedur, Woodcrafter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+Kol Rovodsedur, Woodcrafter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+Kol Rovodsedur, Woodcrafter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+Kol Rovodsedur, Woodcrafter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+Kol Rovodsedur, Woodcrafter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+Kol Rovodsedur, Woodcrafter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+`Dr Sparklez' ïnulison has become a chief medical dwarf.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+Kol Rovodsedur, Woodcrafter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+Kol Rovodsedur, Woodcrafter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+Kol Rovodsedur, Woodcrafter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+`Lady Stonesmasher' Debbenurist, militia commander cancels Construct rock Mechanisms: Needs non-economic hard rock.
+Kol Rovodsedur, Woodcrafter cancels Construct Building: Dangerous terrain.
+The dwarves suspended the construction of Wall.
+Kol Rovodsedur, Woodcrafter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+Kol Rovodsedur, Woodcrafter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+`Lady Stonesmasher' Debbenurist, militia commander cancels Construct Traction Bench: Needs mechanisms.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+`Barbie McStrongarm' Logemdesis, Miner cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+Kol Rovodsedur, Woodcrafter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+Dastot Edâmmeng, Woodcrafter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+Dastot Edâmmeng, Woodcrafter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+Degâl StÉkudmegid, Pump Operator cancels Construct rock Mechanisms: Needs non-economic hard rock.
+Degâl StÉkudmegid, Pump Operator cancels Construct Traction Bench: Needs mechanisms.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+x2
+x3
+x4
+Construct wooden Blocks (20) has been completed.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+x2
+The weather has cleared.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+x2
+x3
+x4
+`Liz McCrafty' Zuntårked, Carpenter cancels Brew drink from plant: Interrupted by a gray langur.
+Datan Zonvod, Armorer cancels Construct Building: Interrupted by a gray langur.
+The dwarves suspended the construction of Wall.
+Likot Ozsitdod¢k, Pump Operator cancels Construct Building: Interrupted by a gray langur.
+The dwarves suspended the construction of Wall.
+Degâl StÉkudmegid, Pump Operator cancels Construct Building: Interrupted by a gray langur.
+The dwarves suspended the construction of Wall.
+`Handyman' Duthalurvad, Herbalist cancels Gather Plants: Interrupted by a gray langur.
+`Barbie McStrongarm' Logemdesis, Miner cancels Construct Building: Interrupted by a gray langur.
+The dwarves suspended the construction of Wall.
+The dog attacks the gray langur but She jumps away!
+The dog misses the gray langur!
+Kol Rovodsedur, Woodcrafter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+The dog misses the gray langur!
+és Sanrebimush, Woodcutter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+The dog attacks the gray langur but She jumps away!
+The dog scratches the gray langur in the left front foot, denting the skin and bruising the fat!
+The dog misses the gray langur!
+The dog scratches the gray langur in the head, denting the skin and bruising the muscle!
+The force twists the neck!
+The dog attacks the gray langur but She jumps away!
+The dog charges at the gray langur!
+The dog collides with the gray langur!
+The gray langur is knocked over!
+The gray langur is no longer stunned.
+The dog attacks the gray langur but He jumps away!
+The dog misses the gray langur!
+The gray langur scratches the dog in the lower body, tearing the fat and bruising the muscle and bruising the pancreas!
+The dog misses the gray langur!
+The gray langur scratches the dog in the right front paw, denting the skin and bruising the fat!
+The dog misses the gray langur!
+The gray langur grabs the dog by the fourth left rear toe with his left front foot!
+The gray langur releases the grip of The gray langur's left front foot from The dog's fourth left rear toe.
+The dog misses the gray langur!
+The gray langur scratches the dog in the right front leg, tearing the fat and bruising the muscle!
+The dog attacks the gray langur but He jumps away!
+The gray langur scratches the dog in the left eye, tearing it!
+The force pulls the head, bruising the skin!
+The gray langur scratches the dog in the upper body, denting the skin and bruising the fat!
+The gray langur scratches the dog in the left front paw, denting the skin and bruising the fat!
+The dog misses the gray langur!
+The gray langur scratches the dog in the left rear paw, tearing the fat!
+Degâl StÉkudmegid, Pump Operator cancels Construct rock Mechanisms: Needs non-economic hard rock.
+Degâl StÉkudmegid, Pump Operator cancels Construct Traction Bench: Needs mechanisms.
+The dog misses the gray langur!
+The dog attacks the gray langur but He jumps away!
+The gray langur grabs the dog by the second right rear toe with his right front foot!
+The gray langur scratches the dog in the head, tearing the fat and bruising the muscle!
+The dog breaks the grip of The gray langur's right front foot from The dog's second right rear toe!
+The dog misses the gray langur!
+The gray langur attacks the dog but She jumps away!
+The dog misses the gray langur!
+The gray langur attacks the dog but She jumps away!
+The dog misses the gray langur!
+The gray langur scratches the dog in the right front paw, tearing the fat and bruising the muscle!
+The force twists the right front leg!
+`Lady Chop' Atåstenshed, Farmer cancels Plant Seeds: Interrupted by a gray langur.
+Degâl StÉkudmegid, Pump Operator cancels Store Item in Barrel: Interrupted by a gray langur.
+és Sanrebimush, Woodcutter cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+It has started raining.
+Zasit Tomusgusil, Engraver cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+Zasit Tomusgusil, Engraver cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+Degâl StÉkudmegid, Pump Operator cancels Construct rock Mechanisms: Needs non-economic hard rock.
+Degâl StÉkudmegid, Pump Operator cancels Construct Traction Bench: Needs mechanisms.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+Degâl StÉkudmegid, Pump Operator cancels Construct Building: Building site submerged.
+The dwarves suspended the construction of Wall.
+Degâl StÉkudmegid, Pump Operator cancels Construct rock Mechanisms: Needs non-economic hard rock.
+Datan Zonvod, Armorer cancels Operate Pump: Exhausted.
+The gray langur misses the stray ewe!
+The stray ewe attacks the gray langur but He jumps away!
+The gray langur scratches the stray ewe in the left rear leg, denting the skin and bruising the fat!
+The gray langur attacks the stray ewe but She jumps away!
+The gray langur misses the stray ewe!
+Zasit Tomusgusil, Engraver cancels Store Item in Barrel: Interrupted by a gray langur.
+The gray langur attacks the engraver but She jumps away!
+Datan Zonvod, Armorer cancels Store Item in Stockpile: Interrupted by a gray langur.
+Rith Mîrulkel, manager cancels Construct Building: Interrupted by a gray langur.
+The dwarves suspended the construction of Wall.
+`Liz McCrafty' Zuntårked, Carpenter cancels Brew drink from plant: Interrupted by a gray langur.
+`Lady Chop' Atåstenshed, Farmer cancels Harvest Plants: Interrupted by a gray langur.
+`Handyman' Duthalurvad, Herbalist cancels Gather Plants: Interrupted by a gray langur.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Clean Patient: Interrupted by a gray langur.
+The gray langur attacks the stray ewe but She jumps away!
+Dastot Edâmmeng, Woodcrafter cancels Store Item in Bin: Interrupted by a gray langur.
+The gray langur attacks the armorer but He jumps away!
+The engraver punches the gray langur in the nose with her right hand, but the attack glances away!
+The force pulls the head, tearing apart the fat!
+The carpenter punches the gray langur in the upper body with her right hand, bruising the muscle and bruising the right lung!
+The gray langur is having trouble breathing!
+The engraver punches the gray langur in the left rear foot with her right hand, bruising the muscle!
+The gray langur attacks the engraver but She jumps away!
+The engraver grabs the gray langur by the head with her right lower arm!
+The armorer punches the gray langur in the left rear foot with his right hand, bruising the muscle!
+The engraver takes the gray langur down by the head with The engraver's right lower arm!
+The gray langur stands up.
+The carpenter punches the gray langur in the head with her left hand, bruising the muscle and bruising the skull!
+The armorer punches the gray langur in the left front foot with his left hand, bruising the muscle!
+The engraver punches the gray langur in the right front foot with her right hand, bruising the muscle!
+The gray langur scratches the engraver in the left upper leg, bruising the muscle through the X(pig tail cloak)X!
+The armorer punches the gray langur in the right front leg with his right hand, bruising the muscle!
+The carpenter charges at the gray langur!
+The carpenter collides with the gray langur!
+The gray langur is knocked over and tumbles backward!
+The gray langur stands up.
+Zasit Tomusgusil, Engraver: I have improved my fighting.  That was not satisfying.
+The carpenter grabs the gray langur by the teeth with her right hand!
+The engraver grabs the gray langur by the first left toe with her right hand!
+The gray langur misses the carpenter!
+The armorer charges at the carpenter!
+The armorer collides with the carpenter!
+They tangle together and fall over!
+The engraver takes the gray langur down by the first left toe with The engraver's right hand!
+The carpenter stands up.
+The gray langur stands up.
+The engraver takes the gray langur down by the first left toe with The engraver's right hand!
+The gray langur stands up.
+The manager punches the gray langur in the left front leg with his right hand, bruising the muscle!
+The engraver takes the gray langur down by the first left toe with The engraver's right hand!
+The gray langur stands up.
+The carpenter punches the gray langur in the right rear leg with her left hand, bruising the muscle!
+The gray langur misses the carpenter!
+The engraver releases the grip of The engraver's right hand from The gray langur's first left toe.
+The manager grabs the gray langur by the left eye tooth with his left upper arm!
+The manager releases the grip of The manager's left upper arm from The gray langur's left eye tooth.
+Zasit Tomusgusil, Engraver: I have a part in this.  There is no need to feel vengeful.
+The carpenter takes the gray langur down by the teeth with The carpenter's right hand!
+`Liz McCrafty' Zuntårked, Carpenter: I cannot just stand by.  I will take revenge!
+The gray langur scratches the carpenter in the left upper arm, bruising the muscle through the x(pig tail cloak)x!
+The gray langur stands up.
+The manager punches the gray langur in the upper body with his left hand, bruising the muscle and bruising the right lung!
+The gray langur is having trouble breathing!
+The carpenter takes the gray langur down by the teeth with The carpenter's right hand!
+The gray langur stands up.
+The engraver punches the gray langur in the right rear foot with her left hand and the injured part collapses into a lump of gore!
+An artery has been opened by the attack!
+The force twists the right rear leg, tearing apart the skin and bruising the lower spine's nervous tissue!
+A tendon in the lower spine has been bruised!
+The farmer punches the gray langur in the right front leg with her left hand, bruising the muscle!
+The gray langur falls over.
+The manager punches the gray langur in the left front leg with his left hand, bruising the muscle!
+The gray langur misses the stray ewe!
+The carpenter releases the grip of The carpenter's right hand from The gray langur's teeth.
+The gray langur scratches the farmer in the lower lip, bruising the muscle through the X(pig tail cloak)X!
+The force bends the head!
+The stray ewe kicks the gray langur in the upper body with her left front hoof, bruising the muscle!
+The carpenter stands up.
+The armorer stands up.
+The manager charges at the carpenter!
+The manager collides with the carpenter!
+The carpenter is knocked over!
+The carpenter is no longer stunned.
+The carpenter stands up.
+The engraver charges at the carpenter!
+The engraver collides with the carpenter!
+They tangle together and tumble forward!
+The carpenter stands up.
+The gray langur misses the stray ewe!
+The stray ewe kicks the gray langur in the upper body with her right front hoof, bruising the muscle and bruising the liver!
+`Lady Chop' Atåstenshed, Farmer: I was attacked.  I'm really starting to panic.
+The engraver stands up.
+The gray langur scratches the stray ewe in the head, denting the skin and bruising the muscle!
+The force bends the neck!
+The stray ewe attacks the gray langur but He jumps away!
+The gray langur attacks the stray ewe but She jumps away!
+The engraver is no longer stunned.
+The gray langur attacks the stray ewe but She jumps away!
+The stray ewe attacks the gray langur but He jumps away!
+The stray ewe kicks the gray langur in the left front foot with her left rear hoof, bruising the muscle!
+The force twists the left front leg, bruising the skin!
+The stray ewe attacks the gray langur but He jumps away!
+The stray ewe kicks the gray langur in the upper body with her left rear hoof, bruising the muscle and bruising the right floating ribs!
+The stray ewe attacks the gray langur but He jumps away!
+The gray langur misses the stray ewe!
+The stray ewe kicks the gray langur in the head with her left front hoof, bruising the muscle!
+The force twists the neck, tearing apart the skin!
+The gray langur scratches the stray ewe in the left front leg, denting the skin!
+The gray langur collapses and falls to the ground from over-exertion.
+The gray langur stands up.
+The gray langur misses the stray ewe!
+The gray langur collapses and falls to the ground from over-exertion.
+The stray ewe kicks the gray langur in the upper body with her right rear hoof, bruising the muscle and bruising the right lung!
+The gray langur stands up.
+The gray langur attacks the stray ewe but She jumps away!
+The gray langur collapses and falls to the ground from over-exertion.
+Datan Zonvod, Armorer: I feel pretty good.
+The engraver stands up.
+The gray langur attacks the stray ewe but She jumps away!
+Rith Mîrulkel, manager cancels Collect Clay: Interrupted by a gray langur.
+The stray ewe stands up.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+Degâl StÉkudmegid, Pump Operator cancels Construct Traction Bench: Needs mechanisms.
+`Lady Stonesmasher' Debbenurist, militia commander cancels Construct rock Mechanisms: Needs non-economic hard rock.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+Collect Clay (35) has been completed.
+Degâl StÉkudmegid, Pump Operator cancels Construct rock Mechanisms: Needs non-economic hard rock.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Place In Traction: No available traction bench.
+Degâl StÉkudmegid, Pump Operator cancels Construct Traction Bench: Needs mechanisms.
+Digging designation cancelled: damp stone located.
+x2
