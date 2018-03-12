@@ -4899,3 +4899,14 @@ Nomal Edtñldeduk, Farmer cancels Plant Seeds: Needs rock nuts.
 x2
 *** STARTING NEW GAME ***
 ** Loading Fortress **
+*** STARTING NEW GAME ***
+** Loading Fortress **
+x3
+x4
+Rith Mîrulkel has become a manager.
+You have struck black opal!
+The weather has cleared.
+Collect Clay (50) has been completed.
+`Handyman' Duthalurvad, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+Ingish èblelmuzish, Weaponsmith cancels Store Item in Stockpile: Taken by mood.
+Ingish èblelmuzish, Weaponsmith is taken by a fey mood!
