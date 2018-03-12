@@ -4853,3 +4853,49 @@ Cerol Olinzokun, expedition leader cancels Place In Traction: No available tract
 Adil Edâmadag has created a masterpiece highwood barrel!
 Cerol Olinzokun, expedition leader cancels Place In Traction: No available traction bench.
 Zan Avalimush, Dog (Tame) has been found dead.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Construct rock Quern (1) has been completed.
+`Handyman' Duthalurvad, Herbalist cancels Make clay bricks: Needs FIRED_MAT-producing stones.
+x2
+x3
+Construct rock Mechanisms (3) has been completed.
+Nomal Edtñldeduk, Farmer cancels Spin Thread: Needs unrotten hair/wool body part.
+Zasit Tomusgusil, Engraver cancels Prepare a Raw Fish: Needs unrotten raw fish.
+`Liz McCrafty' Zuntårked, Carpenter cancels Brew drink from plant: Needs empty food storage item.
+Autumn has come.
+`Liz McCrafty' Zuntårked, Carpenter cancels Brew drink from plant: Needs empty food storage item.
+The weather has cleared.
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Plant Seeds: Needs hemp seeds.
+`Liz McCrafty' Zuntårked, Carpenter cancels Brew drink from plant: Needs empty food storage item.
+Cerol Olinzokun, expedition leader cancels Make clay bricks: Needs FIRED_MAT-producing stones.
+x2
+`Dr Sparklez' ïnulison, chief medical dwarf cancels Plant Seeds: Needs pig tail seeds.
+Make Charcoal (12) has been completed.
+Cerol Olinzokun, expedition leader cancels Make clay bricks: Needs FIRED_MAT-producing stones.
+x2
+Limul Mosuskeng, Gelder cancels Mill Plants: Needs millable unrotten plants.
+Cerol Olinzokun, expedition leader cancels Make clay bricks: Needs FIRED_MAT-producing stones.
+Zan Udiburmim, Planter cancels Plant Seeds: Needs hemp seeds.
+`Liz McCrafty' Zuntårked, Carpenter cancels Brew drink from plant: Needs empty food storage item.
+It has started raining.
+Cerol Olinzokun, expedition leader cancels Make clay bricks: Needs FIRED_MAT-producing stones.
+`Liz McCrafty' Zuntårked, Carpenter cancels Brew drink from plant: Needs empty food storage item.
+The weather has cleared.
+`Handyman' Duthalurvad, Herbalist cancels Brew drink from plant: Needs empty food storage item.
+An animal has grown to become a Stray Horse.
+It has started raining.
+Make wooden Barrel (12) has been completed.
+The outpost liaison Kumil Gatizkñbuk from Bomrek Riril has arrived.
+A caravan from Bomrek Riril has arrived.
+Merchants have arrived and are unloading their goods.
+Brew drink from plant (30) has been completed.
+Some migrants have arrived.
+Dumat Rigïthstibmer, Woodcutter cancels Trade at Depot: Not responsible for trade.
+Make clay bricks (12) has been completed.
+Collect Clay (32) has been completed.
+Nomal Edtñldeduk, Farmer cancels Plant Seeds: Needs rock nuts.
+`Lady Chop' Atåstenshed, Farmer cancels Plant Seeds: Needs rock nuts.
+x2
+*** STARTING NEW GAME ***
+** Loading Fortress **
