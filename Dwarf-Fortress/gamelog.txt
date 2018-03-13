@@ -4910,3 +4910,84 @@ Collect Clay (50) has been completed.
 `Handyman' Duthalurvad, Herbalist cancels Brew drink from plant: Needs empty food storage item.
 Ingish èblelmuzish, Weaponsmith cancels Store Item in Stockpile: Taken by mood.
 Ingish èblelmuzish, Weaponsmith is taken by a fey mood!
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Kib Ducimtholest, Miner cancels Construct Building: Cannot reach site.
+The dwarves suspended the construction of Wall.
+You have struck milk quartz!
+The merchants from Bomrek Riril will be leaving soon.
+It has started raining.
+Collect Clay (50) has been completed.
+Dumat Rigïthstibmer, Woodcutter cancels Make shell helm: Job item lost or destroyed.
+The merchants from Bomrek Riril have embarked on their journey.
+`Barbie McStrongarm' Logemdesis, Miner cancels Mill Plants: Needs millable unrotten plants.
+You have struck hornblende!
+The weather has cleared.
+Limul Mosuskeng, Gelder cancels Mill Plants: Needs millable unrotten plants.
+Collect Clay (50) has been completed.
+Adil Edâmadag has created a masterpiece cherry wood bin!
+Make wooden Wheelbarrow (5) has been completed.
+Limul Mosuskeng, Gelder cancels Construct Building: Could not find path.
+The dwarves suspended the construction of Wall.
+Limul Mosuskeng, Gelder cancels Mill Plants: Needs millable unrotten plants.
+You have struck honey yellow beryl!
+Limul Mosuskeng, Gelder cancels Mill Plants: Needs millable unrotten plants.
+Asmel ïnuluthmik, broker cancels Mill Plants: Needs millable unrotten plants.
+Adil Edâmadag has created a masterpiece cherry wood barrel!
+You have struck rose quartz!
+Nomal Edtñldeduk has become a Planter.
+Limul Mosuskeng, Gelder cancels Mill Plants: Needs millable unrotten plants.
+Collect Clay (50) has been completed.
+`Liz McCrafty' Zuntårked, Carpenter cancels Load Cage Trap: Needs empty cage.
+Limul Mosuskeng, Gelder cancels Mill Plants: Needs millable unrotten plants.
+Construct wooden Bin (10) has been completed.
+és Sanrebimush, Woodcutter cancels Load Cage Trap: Needs empty cage.
+`Liz McCrafty' Zuntårked, Carpenter cancels Load Cage Trap: Needs empty cage.
+Make wooden Barrel (10) has been completed.
+You have struck amethyst!
+The giant jumping spider attacks the cavy pup but She jumps away!
+The cavy pup scratches the giant jumping spider in the right first leg, fracturing the chitin!
+A tendon has been strained!
+The cavy pup scratches the giant jumping spider in the cephalothorax, chipping the chitin and bruising the muscle!
+The giant jumping spider attacks the cavy pup but She jumps away!
+The giant jumping spider misses the cavy pup!
+The cavy pup scratches the giant jumping spider in the right second leg, chipping the chitin!
+A tendon has been strained!
+The giant jumping spider attacks the cavy pup but She jumps away!
+The cavy pup scratches the giant jumping spider in the left second foot, chipping the chitin and bruising the muscle!
+A tendon has been strained!
+The giant jumping spider attacks the cavy pup but She jumps away!
+The cavy pup misses the giant jumping spider!
+The giant jumping spider misses the cavy pup!
+The cavy pup attacks the giant jumping spider but She jumps away!
+The giant jumping spider attacks the cavy pup but She jumps away!
+The giant jumping spider misses the cavy pup!
+The giant jumping spider attacks the cavy pup but She jumps away!
+The cavy pup scratches the giant jumping spider in the left second foot, chipping the chitin!
+A tendon has been strained!
+The giant jumping spider misses the cavy pup!
+`Barbie McStrongarm' Logemdesis, Miner cancels Mill Plants: Needs millable unrotten plants.
+Collect Clay (50) has been completed.
+Solon Urrãthrith, Wood Burner cancels Construct Building: Interrupted by a giant jumping spider.
+The dwarves suspended the construction of Wall.
+The giant jumping spider misses the wood burner!
+The wood burner punches the giant jumping spider in the right second leg with her left hand, tearing the fat!
+The giant jumping spider misses the wood burner!
+The wood burner punches the giant jumping spider in the right fourth foot with her left hand, chipping the chitin!
+The giant jumping spider falls over.
+Solon Urrãthrith, Wood Burner: Has the tide turned?  I am not scared!
+It has started raining.
+és Sanrebimush, Woodcutter cancels Load Cage Trap: Needs empty cage.
+x2
+`Barbie McStrongarm' Logemdesis, Miner cancels Mill Plants: Needs millable unrotten plants.
+Olin Nilrodim, Lye Maker cancels Construct Building: Creature occupying site.
+The dwarves suspended the construction of Wall.
+`Barbie McStrongarm' Logemdesis, Miner cancels Mill Plants: Needs millable unrotten plants.
+Degâl StÉkudmegid, Pump Operator cancels Load Cage Trap: Needs empty cage.
+x2
+`Barbie McStrongarm' Logemdesis, Miner cancels Mill Plants: Needs millable unrotten plants.
+Limul Mosuskeng, Gelder cancels Construct Building: Could not find path.
+The dwarves suspended the construction of Wall.
+`Barbie McStrongarm' Logemdesis, Miner cancels Mill Plants: Needs millable unrotten plants.
+x2
+** Loading Fortress **
