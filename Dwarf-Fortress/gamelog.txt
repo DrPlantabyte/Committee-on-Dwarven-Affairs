@@ -4991,3 +4991,13 @@ The dwarves suspended the construction of Wall.
 `Barbie McStrongarm' Logemdesis, Miner cancels Mill Plants: Needs millable unrotten plants.
 x2
 ** Loading Fortress **
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Deg‰l Stƒkudmegid, Pump Operator cancels Load Cage Trap: Needs empty cage.
+x2
+Collect Clay (50) has been completed.
+Deg‰l Stƒkudmegid, Pump Operator cancels Load Cage Trap: Needs empty cage.
+x2
+Asmel •nuluthmik, broker cancels Mill Plants: Needs millable unrotten plants.
+Deg‰l Stƒkudmegid, Pump Operator cancels Load Cage Trap: Needs empty cage.
+x2
