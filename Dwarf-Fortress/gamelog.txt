@@ -5001,3 +5001,134 @@ x2
 Asmel ïnuluthmik, broker cancels Mill Plants: Needs millable unrotten plants.
 Degâl StÉkudmegid, Pump Operator cancels Load Cage Trap: Needs empty cage.
 x2
+*** STARTING NEW GAME ***
+** Loading Fortress **
+The weather has cleared.
+`Lady Chop' Atåstenshed has become a Planter.
+Cerol Olinzokun, expedition leader cancels Make large clay pot: Needs refined coal.
+Cerol Olinzokun, expedition leader cancels Make clay jug: Needs refined coal.
+There is nothing to catch in the eastern swamps.
+Cerol Olinzokun, expedition leader cancels Make clay jug: Needs refined coal.
+Cerol Olinzokun, expedition leader cancels Make large clay pot: Needs refined coal.
+`Handyman' Duthalurvad, Herbalist cancels Make clay jug: Needs refined coal.
+Ingish èblelmuzish, Weaponsmith cancels Strange Mood: Went insane.
+Ingish èblelmuzish, Weaponsmith is stricken by melancholy!
+Cerol Olinzokun, expedition leader cancels Make large clay pot: Needs refined coal.
+Solon Urrãthrith, Wood Burner cancels Make large clay pot: Needs refined coal.
+Solon Urrãthrith, Wood Burner cancels Make clay jug: Needs refined coal.
+Winter is upon you.
+Cerol Olinzokun, expedition leader cancels Make clay jug: Needs refined coal.
+x2
+Adil Edâmadag has created a masterpiece ginkgo wood cage!
+`Handyman' Duthalurvad, Herbalist cancels Glaze clay/stone jug: Needs refined coal.
+`Handyman' Duthalurvad, Herbalist cancels Make large clay pot: Needs refined coal.
+There is nothing to catch in the eastern swamps.
+Cerol Olinzokun, expedition leader cancels Make clay jug: Needs refined coal.
+`Liz McCrafty' Zuntårked, Carpenter cancels Glaze clay/stone jug: Needs refined coal.
+`Liz McCrafty' Zuntårked, Carpenter cancels Make large clay pot: Needs refined coal.
+`Liz McCrafty' Zuntårked, Carpenter cancels Make clay jug: Needs refined coal.
+Make Ash (5) has been completed.
+`Liz McCrafty' Zuntårked, Carpenter cancels Glaze clay/stone jug: Needs refined coal.
+`Liz McCrafty' Zuntårked, Carpenter cancels Make large clay pot: Needs refined coal.
+`Liz McCrafty' Zuntårked, Carpenter cancels Make clay jug: Needs refined coal.
+x2
+`Liz McCrafty' Zuntårked, Carpenter cancels Glaze clay/stone jug: Needs refined coal.
+Cerol Olinzokun, expedition leader cancels Make large clay pot: Needs refined coal.
+Make Charcoal (8) has been completed.
+It has started raining.
+You have struck amethyst!
+Dumat Rigïthstibmer, Woodcutter cancels Make shell helm: Needs unrotten shell body part.
+Make clay jug (5) has been completed.
+Make wooden Cage (5) has been completed.
+Cerol Olinzokun, expedition leader cancels Make large clay pot: Needs refined coal.
+x2
+You have struck pyrolusite!
+The weather has cleared.
+Solon Urrãthrith, Wood Burner cancels Make large clay pot: Needs refined coal.
+`Handyman' Duthalurvad, Herbalist cancels Glaze clay/stone jug: Needs refined coal.
+Cerol Olinzokun, expedition leader cancels Make large clay pot: Needs refined coal.
+x2
+`Handyman' Duthalurvad, Herbalist cancels Glaze clay/stone jug: Needs refined coal.
+Cerol Olinzokun, expedition leader cancels Make large clay pot: Needs refined coal.
+You have struck native gold!
+Cerol Olinzokun, expedition leader cancels Make large clay pot: Needs refined coal.
+`Handyman' Duthalurvad, Herbalist cancels Glaze clay/stone jug: Needs refined coal.
+Cerol Olinzokun, expedition leader cancels Make large clay pot: Needs refined coal.
+You have struck microcline!
+Cerol Olinzokun, expedition leader cancels Make large clay pot: Needs refined coal.
+You have struck native gold!
+`Handyman' Duthalurvad, Herbalist cancels Glaze clay/stone jug: Needs refined coal.
+It has started raining.
+Cerol Olinzokun, expedition leader cancels Make large clay pot: Needs refined coal.
+Construct wooden Bin (10) has been completed.
+Litast Tîraskol has grown to become a Guineahen.
+Cerol Olinzokun, expedition leader cancels Make large clay pot: Needs refined coal.
+`Handyman' Duthalurvad, Herbalist cancels Glaze clay/stone jug: Needs refined coal.
+Cerol Olinzokun, expedition leader cancels Make large clay pot: Needs refined coal.
+You have struck purple spinel!
+Adil Edâmadag has created a masterpiece pecan wood barrel!
+Make wooden Barrel (10) has been completed.
+Cerol Olinzokun, expedition leader cancels Make large clay pot: Needs refined coal.
+Adil Edâmadag has created a masterpiece pecan wood bin!
+`Liz McCrafty' Zuntårked, Carpenter cancels Make large clay pot: Needs refined coal.
+Adil Edâmadag has created a masterpiece pecan wood door!
+`Handyman' Duthalurvad, Herbalist cancels Glaze clay/stone jug: Needs refined coal.
+`Handyman' Duthalurvad, Herbalist cancels Make large clay pot: Needs refined coal.
+x2
+The weather has cleared.
+Solon Urrãthrith, Wood Burner cancels Make large clay pot: Needs refined coal.
+Adil Edâmadag has created a masterpiece pecan wood bin!
+Cerol Olinzokun, expedition leader cancels Make large clay pot: Needs refined coal.
+`Handyman' Duthalurvad, Herbalist cancels Construct Building: Could not find path.
+The dwarves suspended the construction of Wall.
+Adil Edâmadag, Carpenter cancels Construct wooden Bin: Needs logs.
+Adil Edâmadag, Carpenter cancels Construct wooden Door: Needs logs.
+`Handyman' Duthalurvad, Herbalist cancels Construct wooden Bin: Needs logs.
+It has started raining.
+`Handyman' Duthalurvad, Herbalist cancels Construct wooden Door: Needs logs.
+Solon Urrãthrith, Wood Burner cancels Make large clay pot: Needs refined coal.
+`Handyman' Duthalurvad, Herbalist cancels Glaze clay/stone jug: Needs refined coal.
+`Handyman' Duthalurvad, Herbalist cancels Construct wooden Bin: Needs logs.
+`Handyman' Duthalurvad, Herbalist cancels Construct wooden Door: Needs logs.
+You have struck purple spinel!
+`Handyman' Duthalurvad, Herbalist cancels Make large clay pot: Needs refined coal.
+x2
+`Handyman' Duthalurvad, Herbalist cancels Construct wooden Bin: Needs logs.
+`Handyman' Duthalurvad, Herbalist cancels Construct wooden Door: Needs logs.
+`Handyman' Duthalurvad, Herbalist cancels Make large clay pot: Needs refined coal.
+`Handyman' Duthalurvad, Herbalist cancels Glaze clay/stone jug: Needs refined coal.
+`Handyman' Duthalurvad, Herbalist cancels Make large clay pot: Needs refined coal.
+`Lady Chop' Atåstenshed, Planter cancels Construct wooden Bin: Needs logs.
+`Lady Chop' Atåstenshed, Planter cancels Construct wooden Door: Needs logs.
+Datan Zonvod, Armorer cancels Construct Building: Cannot reach site.
+The dwarves suspended the construction of Wall.
+Solon Urrãthrith, Wood Burner cancels Make large clay pot: Needs refined coal.
+Onol Ubbulbakust, Pump Operator cancels Construct Building: Could not find path.
+The dwarves suspended the construction of Wall.
+Adil Edâmadag, Carpenter cancels Construct Building: Could not find path.
+The dwarves suspended the construction of Wall.
+Cog Kuletudesh, Peasant cancels Construct Building: Could not find path.
+The dwarves suspended the construction of Wall.
+The weather has cleared.
+`Carver Likot' Ozsitdod¢k, Pump Operator cancels Process Plants: Needs unrotten processable plants.
+`Handyman' Duthalurvad, Herbalist cancels Construct Building: Could not find path.
+The dwarves suspended the construction of Wall.
+Cerol Olinzokun, expedition leader cancels Make large clay pot: Needs refined coal.
+There is nothing to catch in the northwestern swamps.
+Glaze clay/stone jug (5) has been completed.
+Construct wooden Door (8) has been completed.
+It has started raining.
+Make large clay pot (5) has been completed.
+Collect Clay (50) has been completed.
+Kol Rovodsedur, Woodcrafter has given birth to a girl.
+Kol Rovodsedur, Woodcrafter cancels Detail Wall: Seeking Infant.
+Adil Edâmadag has created a masterpiece pear wood bin!
+The weather has cleared.
+Dastot Edâmmeng, Woodcrafter cancels Remove Stairs/Ramps: Inappropriate dig square.
+Adil Edâmadag has created a masterpiece peach wood bin!
+Construct wooden Bin (10) has been completed.
+Ingish èblelmuzish, Weaponsmith has been found dead, dehydrated.
+It has started raining.
+The weather has cleared.
+Asmel ïnuluthmik, broker cancels Make Charcoal: Needs logs.
+It has started raining.
