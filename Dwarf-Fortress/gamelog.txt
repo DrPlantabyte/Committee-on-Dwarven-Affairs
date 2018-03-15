@@ -5651,3 +5651,381 @@ Avuz Duradoslan, Hunter cancels Make Charcoal: Needs logs.
 Solon Urrãthrith, Wood Burner cancels Make Charcoal: Needs logs.
 Onol Ubbulbakust, Pump Operator cancels Make wooden Barrel: Needs logs.
 Onol Ubbulbakust, Pump Operator cancels Construct wooden Hatch Cover: Needs logs.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Onol Ubbulbakust, Pump Operator cancels Make wooden Cage: Needs logs.
+és Sanrebimush, Woodcutter cancels Load Cage Trap: Needs empty cage.
+Edâm Mîrulakath, Carpenter cancels Make wooden Barrel: Needs logs.
+Avuz Duradoslan, Hunter cancels Make Charcoal: Needs logs.
+Solon Urrãthrith, Wood Burner cancels Make Charcoal: Needs logs.
+Edâm Mîrulakath, Carpenter cancels Construct wooden Hatch Cover: Needs logs.
+A human caravan from Omon Idem has arrived.
+The weather has cleared.
+Edâm Mîrulakath, Carpenter cancels Make wooden Cage: Needs logs.
+Degâl StÉkudmegid, Pump Operator cancels Load Cage Trap: Needs empty cage.
+Merchants have arrived and are unloading their goods.
+Degâl StÉkudmegid, Pump Operator cancels Load Cage Trap: Needs empty cage.
+The human spearman stabs the giant jumping spider in the left second leg with her ({silver spear}), tearing the muscle!
+A ligament has been torn and a tendon has been torn!
+The giant jumping spider strikes at the human spearman but the shot is blocked!
+The giant jumping spider charges at the human spearman!
+The human spearman jumps away!
+The giant jumping spider misses the human spearman!
+The human spearman stabs the giant jumping spider in the right third foot with her ({silver spear}), tearing the fat!
+A ligament has been torn and a tendon has been torn!
+The giant jumping spider strikes at the human spearman but the shot is blocked!
+The human spearman stabs the giant jumping spider in the right third foot with her ({silver spear}), tearing the muscle!
+A ligament has been torn and a tendon has been torn!
+The force twists the right third leg!
+The flying ({silver bolt}) strikes the giant jumping spider in the abdomen, tearing the muscle!
+A ligament has been torn and a tendon has been torn!
+The giant jumping spider charges at the human spearman!
+The human spearman jumps away!
+The giant jumping spider misses the human spearman!
+The human spearman bashes the giant jumping spider in the abdomen with the shaft of her ({silver spear}), fracturing the chitin!
+The giant jumping spider strikes at the human spearman but the shot is blocked!
+The giant jumping spider charges at the human spearman!
+The human spearman jumps away!
+The human spearman bashes the giant jumping spider in the cephalothorax with the shaft of her ({silver spear}), fracturing the chitin!
+The giant jumping spider misses the human spearman!
+The human spearman stabs the giant jumping spider in the left fourth leg with her ({silver spear}), tearing the muscle!
+A ligament has been torn and a tendon has been torn!
+The giant jumping spider misses the human spearman!
+The giant jumping spider charges at the human spearman!
+The giant jumping spider collides with the human spearman!
+The human spearman is knocked over and tumbles backward!
+The human spearman stands up.
+The human pikeman stabs the giant jumping spider in the left first foot with his ({iron pike}), tearing the muscle!
+A ligament has been torn and a tendon has been torn!
+The ({iron pike}) has lodged firmly in the wound!
+The giant jumping spider falls over.
+The giant jumping spider misses the human pikeman!
+The human spearman stabs the giant jumping spider in the abdomen with her ({silver spear}), tearing the muscle!
+A ligament has been torn and a tendon has been torn!
+The human pikeman pulls on the embedded ({iron pike}).
+The human pikeman gains possession of the ({iron pike}).
+The human pikeman stabs the giant jumping spider in the left third leg with his ({iron pike}), tearing the muscle!
+A ligament has been torn and a tendon has been torn!
+The giant jumping spider misses the human pikeman!
+The human spearman stabs the giant jumping spider in the abdomen with her ({silver spear}), tearing the muscle and tearing the guts!
+A ligament has been torn and a tendon has been torn!
+The giant jumping spider looks sick!
+The human spearman strikes the giant jumping spider in the right first leg with her ({iron shield}), tearing the fat and bruising the muscle!
+The human maceman bashes the giant jumping spider in the left fourth foot with his ({copper mace}), tearing the fat and bruising the muscle!
+The force twists the left fourth leg!
+The human spearman punches the giant jumping spider in the left first leg with her right hand, tearing the fat and bruising the muscle!
+The giant jumping spider misses the human maceman!
+The human maceman bashes the giant jumping spider in the left second foot with his ({copper mace}), tearing the fat and bruising the muscle!
+The force bends the left second leg!
+Esu Meteirum, Human Spearman: I have improved my spear.  That was very satisfying!
+The giant jumping spider misses the human maceman!
+The human pikeman stabs the giant jumping spider in the right second leg with his ({iron pike}), tearing the muscle!
+A ligament has been torn and a tendon has been torn!
+The giant jumping spider misses the human maceman!
+The human maceman bashes the giant jumping spider in the left third leg with his ({copper mace}), tearing the fat and bruising the muscle!
+The human spearman punches the giant jumping spider in the right fourth leg with her right hand, tearing the fat and bruising the muscle!
+The human pikeman punches the giant jumping spider in the left fourth leg with his right hand, tearing the fat and bruising the muscle!
+The giant jumping spider misses the human maceman!
+The human maceman bashes the giant jumping spider in the right fourth foot with his ({copper mace}), tearing the fat and bruising the muscle!
+The force pulls the right fourth leg!
+The giant jumping spider misses the human maceman!
+The human spearman stabs the giant jumping spider in the right fourth leg with her ({silver spear}), tearing the muscle!
+A ligament has been torn and a tendon has been torn!
+The human maceman bashes the giant jumping spider in the left second leg with his ({copper mace}), tearing the fat and bruising the muscle!
+The human pikeman kicks the giant jumping spider in the left third leg with his left foot, tearing the fat and bruising the muscle!
+The giant jumping spider vomits.
+The giant jumping spider misses the human maceman!
+The human spearman stabs the giant jumping spider in the abdomen with her ({silver spear}), tearing the muscle!
+A ligament has been torn and a tendon has been torn!
+The human maceman bites the giant jumping spider in the left fourth leg, chipping the chitin and bruising the muscle!
+A tendon has been torn!
+The human maceman latches on firmly!
+The human spearman stabs the giant jumping spider in the left third leg with her ({silver spear}), tearing the muscle!
+A ligament has been torn and a tendon has been torn!
+The human pikeman stabs the giant jumping spider in the left third leg with his ({iron pike}), tearing the muscle!
+A ligament has been torn and a tendon has been torn!
+The giant jumping spider breaks the grip of the human maceman's upper front teeth on The giant jumping spider's left fourth leg.
+The human spearman kicks the giant jumping spider in the right third leg with her left foot, tearing the fat and bruising the muscle!
+The giant jumping spider strikes at the human maceman but the shot is blocked!
+The human maceman bashes the giant jumping spider in the left third foot with his ({copper mace}), tearing the fat and bruising the muscle!
+The force twists the left third leg!
+The human pikeman stabs the giant jumping spider in the abdomen with his ({iron pike}), tearing the muscle and tearing the guts!
+A ligament has been torn and a tendon has been torn!
+The giant jumping spider looks even more sick!
+The human pikeman stabs the giant jumping spider in the abdomen with his ({iron pike}), tearing the muscle and tearing the guts!
+The giant jumping spider looks even more sick!
+The ({iron pike}) has lodged firmly in the wound!
+The giant jumping spider misses the human maceman!
+The human spearman punches the giant jumping spider in the right first foot with her right hand, tearing the fat and bruising the muscle!
+The force pulls the right first leg!
+The giant jumping spider retches.
+The human maceman bashes the giant jumping spider in the right first foot with his ({copper mace}), tearing the fat and bruising the muscle!
+The force pulls the right first leg!
+The human pikeman pulls on the embedded ({iron pike}).
+The human pikeman gains possession of the ({iron pike}).
+The giant jumping spider misses the human maceman!
+The human spearman punches the giant jumping spider in the left first foot with her right hand, tearing the fat and bruising the muscle!
+The force twists the left first leg!
+The human pikeman stabs the giant jumping spider in the left third leg with his ({iron pike}), tearing the muscle!
+The human maceman bashes the giant jumping spider in the left second leg with his ({copper mace}), tearing the fat and bruising the muscle!
+The giant jumping spider misses the human maceman!
+The human spearman stabs the giant jumping spider in the right second leg with her ({silver spear}), tearing the muscle!
+A ligament has been torn and a tendon has been torn!
+The flying ({silver bolt}) strikes the giant jumping spider in the left second leg, tearing the muscle!
+A ligament has been torn and a tendon has been torn!
+The human pikeman stabs the giant jumping spider in the left second leg with his ({iron pike}), tearing the muscle!
+A ligament has been torn and a tendon has been torn!
+The ({iron pike}) has lodged firmly in the wound!
+The giant jumping spider misses the human maceman!
+The human maceman bashes the giant jumping spider in the left third leg with his ({copper mace}), bruising the muscle!
+The human spearman bashes the giant jumping spider in the left third foot with the shaft of her ({silver spear}) and the injured part explodes into gore!
+An artery has been opened by the attack!
+The force bends the left third leg!
+The human pikeman pulls on the embedded ({iron pike}).
+The human pikeman gains possession of the ({iron pike}).
+The giant jumping spider retches.
+The giant jumping spider misses the human maceman!
+Shadu Umilsiru, Human Crossbowman: I have improved my crossbow.  That was very satisfying!
+The human pikeman bashes the giant jumping spider in the left fourth leg with the shaft of his ({iron pike}), fracturing the chitin!
+The human maceman strikes the giant jumping spider in the right third foot with his ({iron shield}) and the injured part is crushed!
+An artery has been opened by the attack!
+The force bends the right third leg!
+The human spearman stabs the giant jumping spider in the abdomen with her ({silver spear}) and it is mostly cut away from the rest of the torso!
+An artery has been opened by the attack, a ligament has been torn and a tendon has been torn!
+Melbil AlÜthetur, Clerk has been elected mayor.
+Kol Rovodsedur, Miner cancels Dump Item: Interrupted by a giant adder.
+és Sanrebimush, Woodcutter cancels Load Cage Trap: Needs empty cage.
+x2
+x3
+Cerol Olinzokun has become a Potter.
+An animal has grown to become a Stray Donkey.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Edâm Mîrulakath, Carpenter cancels Gather Plants: Interrupted by a giant adder.
+Asmel ïnuluthmik, broker cancels Drink: Interrupted by a giant adder.
+The carpenter attacks the giant adder but He jumps away!
+The carpenter hacks the giant adder in the tail with his (bismuth bronze battle axe), tearing apart the muscle!
+Edâm Mîrulakath, Carpenter: I have a part in this.  I will take revenge!
+The carpenter punches the giant adder in the left eye with his left hand and the injured part collapses!
+The force pulls the head!
+Edâm Mîrulakath, Carpenter: This is my fight too.  I will take revenge!
+The carpenter strikes the giant adder in the head with the pommel of his (bismuth bronze battle axe), bruising the fat!
+Edâm Mîrulakath, Carpenter: I have a part in this.  I will take revenge!
+Edâm Mîrulakath, Carpenter: I cannot just stand by.  I will take revenge!
+Edâm Mîrulakath, Carpenter: This is my fight too.  I will take revenge!
+The flying ({silver bolt}) strikes the giant adder in the body, tearing the muscle and tearing the guts!
+The giant adder looks sick!
+Edâm Mîrulakath, Carpenter: This is my fight too.  I will take revenge!
+The human spearman kicks the giant adder in the head with her left foot, bruising the muscle!
+The human pikeman scratches the giant adder in the teeth, but the attack glances away!
+The force pulls the head!
+The human spearman stabs the giant adder in the tail with her ({silver spear})!
+A tendon has been torn!
+The broker attacks the giant adder but He jumps away!
+Edâm Mîrulakath, Carpenter: This is a fight!  I laugh in the face of death!
+The human spearman stabs the giant adder in the tail with her ({silver spear})!
+A tendon has been torn!
+The human pikeman stabs the giant adder in the tail with his ({iron pike}), fracturing the bone!
+A tendon has been torn!
+Asmel ïnuluthmik, broker: Has the tide turned?  I laugh in the face of death!
+The human pikeman stabs the giant adder in the tail with his ({iron pike}), fracturing the bone!
+A tendon has been torn!
+The broker punches the giant adder in the head with his left hand, bruising the muscle!
+The human spearman strikes the giant adder in the left eye with her ({iron shield}) and the injured part explodes into gore!
+The force bends the head!
+The giant adder vomits.
+Isman Ilpiona, Human Pikeman: I have improved my pike.  That was not satisfying.
+The human spearman stabs the giant adder in the body with her ({silver spear}), tearing the muscle!
+The human pikeman stabs the giant adder in the body with his ({iron pike}), tearing the muscle and tearing the middle spine's nervous tissue!
+A tendon in the middle spine has been torn!
+The broker bites the giant adder in the tail, tearing the scale and bruising the muscle!
+The broker latches on firmly!
+The giant adder breaks the grip of The broker's upper front teeth from The giant adder's tail!
+The broker punches the giant adder in the head with his left hand, bruising the muscle!
+The giant adder has been stunned!
+The human pikeman scratches the giant adder in the tail, tearing the muscle!
+The carpenter hacks the giant adder in the tail with his (bismuth bronze battle axe), tearing apart the muscle!
+An artery has been opened by the attack!
+The giant adder collapses and falls to the ground from over-exertion.
+The broker punches the giant adder in the body with his right hand, bruising the muscle and bruising the guts!
+The human pikeman bashes the giant adder in the mouth with the shaft of his ({iron pike}) and the injured part is crushed!
+The force bends the head, tearing apart the scale!
+The carpenter scratches the giant adder in the head, tearing the muscle!
+The giant adder retches.
+The human spearman stabs the giant adder in the body with her ({silver spear}), tearing the muscle and tearing the stomach!
+The human spearman punches the giant adder in the head with her left hand, bruising the muscle!
+The giant adder has been knocked unconscious!
+The human pikeman stands up.
+The broker punches the giant adder in the head with his right hand, bruising the muscle!
+The human spearman stabs the giant adder in the head with her ({silver spear}), tearing the muscle and fracturing the skull!
+A tendon in the skull has been torn!
+The giant adder vomits.
+The broker punches the giant adder in the head with his left hand, bruising the muscle!
+The human spearman stabs the giant adder in the head with her ({silver spear}), tearing the muscle, fracturing the skull!
+A tendon in the skull has been torn!
+The ({silver spear}) has lodged firmly in the wound!
+The carpenter hacks the giant adder in the head with his (bismuth bronze battle axe), tearing apart the muscle and fracturing the skull!
+An artery has been opened by the attack!
+A tendon in the skull has been torn!
+The (bismuth bronze battle axe) has lodged firmly in the wound!
+The broker punches the giant adder in the head with his left hand, bruising the muscle!
+The flying ({silver bolt}) strikes the giant adder in the body, tearing the muscle and tearing the right kidney!
+The giant adder retches.
+The human spearman pulls on the embedded ({silver spear}).
+The human spearman gains possession of the ({silver spear}).
+The broker punches the giant adder in the head with his left hand, bruising the muscle!
+The carpenter pulls on the embedded (bismuth bronze battle axe).
+The carpenter gains possession of the (bismuth bronze battle axe).
+The human spearman stabs the giant adder in the head with her ({silver spear}), tearing apart the muscle and fracturing the skull!
+A tendon in the skull has been torn!
+The carpenter hacks the giant adder in the head with his (bismuth bronze battle axe), tearing apart the muscle and fracturing the skull!
+An artery has been opened by the attack!
+A tendon in the skull has been torn!
+The human maceman bashes the giant adder in the head with his ({copper mace}) and the injured part explodes into gore!
+An artery has been opened by the attack!
+`Liz McCrafty' Zuntårked has become a Stoneworker.
+An animal has grown to become a Stray Llama.
+An animal has grown to become a Stray Blue Peacock.
+You have struck citrine!
+You have struck clear zircon!
+At°r Oddomoshosh, Gem Cutter cancels Glaze clay/stone jug: Needs empty unimproved CAN_GLAZE jug.
+The flying ({bronze bolt}) strikes the buck rabbit in the left front leg and the severed part sails off in an arc!
+Oddom ìnamlikot, militia captain cancels Spin Thread: Needs unrotten hair/wool body part.
+At°r Oddomoshosh, Gem Cutter cancels Glaze clay/stone jug: Needs empty unimproved CAN_GLAZE jug.
+Zasit Tomusgusil, Engraver cancels Glaze clay/stone jug: Needs empty unimproved CAN_GLAZE jug.
+Melbil AlÜthetur, mayor has mandated the construction of certain goods.
+Melbil AlÜthetur, mayor cancels Clean: Dangerous terrain.
+Melbil Ifinãteb, Shearer cancels Glaze clay/stone jug: Needs empty unimproved CAN_GLAZE jug.
+Make Ash (12) has been completed.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+At°r Oddomoshosh, Gem Cutter cancels Glaze large clay/stone pot: Needs empty unimproved CAN_GLAZE large pot.
+Tun Razducim, Trapper cancels Construct cloth Bag: Needs 1 unused plant cloth.
+`Handyman' Duthalurvad, Herbalist cancels Make wooden Cage: Needs logs.
+`Handyman' Duthalurvad, Herbalist cancels Make wooden Barrel: Needs logs.
+`Handyman' Duthalurvad, Herbalist cancels Construct wooden Hatch Cover: Needs logs.
+`Handyman' Duthalurvad, Herbalist cancels Construct wooden Bin: Needs logs.
+`Lady Chop' Atåstenshed, Planter cancels Plant Seeds: Needs hemp seeds.
+Limul Mosuskeng, Gelder cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Degâl StÉkudmegid, Pump Operator cancels Construct wooden Bin: Needs logs.
+Limul Mosuskeng, Gelder cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Degâl StÉkudmegid, Pump Operator cancels Make wooden Barrel: Needs logs.
+Degâl StÉkudmegid, Pump Operator cancels Construct wooden Hatch Cover: Needs logs.
+Degâl StÉkudmegid, Pump Operator cancels Make wooden Cage: Needs logs.
+Nomal Edtñldeduk, Planter cancels Plant Seeds: Needs hemp seeds.
+x2
+Tun Razducim, Trapper cancels Construct cloth Bag: Needs 1 unused plant cloth.
+Iden Tangathubbul, Planter cancels Plant Seeds: Needs pig tail seeds.
+x2
+Asmel ïnuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Iden Tangathubbul, Planter cancels Plant Seeds: Needs pig tail seeds.
+Asmel ïnuluthmik, broker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Degâl StÉkudmegid, Pump Operator cancels Construct wooden Bin: Needs logs.
+Degâl StÉkudmegid, Pump Operator cancels Make wooden Barrel: Needs logs.
+Degâl StÉkudmegid, Pump Operator cancels Construct wooden Hatch Cover: Needs logs.
+Degâl StÉkudmegid, Pump Operator cancels Make wooden Cage: Needs logs.
+Dumat Rigïthstibmer, Woodcutter cancels Construct cloth Bag: Needs 1 unused plant cloth.
+Solon Urrãthrith, Wood Burner cancels Shear Animal: No creature.
+Limul Mosuskeng, Gelder cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Dumat Rigïthstibmer, Woodcutter cancels Construct cloth Bag: Needs 1 unused plant cloth.
+`Barbie McStrongarm' Logemdesis, Miner cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Asmel ïnuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Dumat Rigïthstibmer, Woodcutter cancels Construct cloth Bag: Needs 1 unused plant cloth.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+`Handyman' Duthalurvad, Herbalist cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Kogan Asoliden, Butcher cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+The merchants from Omon Idem will be leaving soon.
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Limul Mosuskeng, Gelder cancels Make soap from oil: Needs lye-containing item.
+Nomal Edtñldeduk, Planter cancels Plant Seeds: Needs hemp seeds.
+Limul Mosuskeng, Gelder cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+`Handyman' Duthalurvad, Herbalist cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Nomal Edtñldeduk, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+It has started raining.
+Limul Mosuskeng, Gelder cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Limul Mosuskeng, Gelder cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Limul Mosuskeng, Gelder cancels Make soap from oil: Needs lye-containing item.
+`Handyman' Duthalurvad, Herbalist cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Dumat Rigïthstibmer, Woodcutter cancels Construct cloth Bag: Needs 1 unused plant cloth.
+Kogan Asoliden, Butcher cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+`Barbie McStrongarm' Logemdesis, Miner cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+The merchants from Omon Idem have embarked on their journey.
+Solon Urrãthrith, Wood Burner cancels Construct Building: Could not find path.
+The dwarves suspended the construction of Floor.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Tun Razducim, Trapper cancels Construct cloth Bag: Needs 1 unused plant cloth.
+Tun Razducim, Trapper cancels Make cloth shoe: Needs 1 unused plant cloth.
+Tun Razducim, Trapper cancels Make cloth sock: Needs 1 unused plant cloth.
+Nomal Edtñldeduk, Planter cancels Plant Seeds: Needs pig tail seeds.
+Goden Shemathel has become a Fisherdwarf.
+Mill seeds/nuts to paste (1) has been completed.
+Asmel ïnuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Adil Edâmadag has created a masterpiece maple hatch cover!
+Construct wooden Hatch Cover (6) has been completed.
+`Handyman' Duthalurvad, Herbalist cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Prepare Lavish Meal (20) has been completed.
+Adil Edâmadag has created a masterpiece pecan wood cage!
+Kogan Asoliden, Butcher cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Tun Razducim, Trapper cancels Make cloth robe: Needs 1 unused plant cloth.
+Tun Razducim, Trapper cancels Construct cloth Bag: Needs 1 unused plant cloth.
+Tun Razducim, Trapper cancels Make cloth shoe: Needs 1 unused plant cloth.
+Tun Razducim, Trapper cancels Make cloth sock: Needs 1 unused plant cloth.
+Tun Razducim, Trapper cancels Make cloth trousers: Needs 1 unused plant cloth.
+`Lady Chop' Atåstenshed, Planter cancels Plant Seeds: Needs pig tail seeds.
+x2
+Adil Edâmadag has created a masterpiece pecan wood bed!
+Kogan Asoliden, Butcher cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Kogan Asoliden, Butcher cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Brew drink from fruit (5) has been completed.
+Kogan Asoliden, Butcher cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Kogan Asoliden, Butcher cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Catten Thåkutshetbàth, Fisherdwarf cancels Fish: Interrupted by a giant fly.
+The giant fly grabs the fisherdwarf by the second toe, right foot with her right wing!
+èblel Zanegkulin, Trapper cancels Drink: Interrupted by a giant fly.
+The fisherdwarf punches the giant fly in the left second foot with her right hand, tearing the fat!
+The giant fly misses the fisherdwarf!
+The giant fly takes the fisherdwarf down by the second toe, right foot with The giant fly's right wing!
+Catten Thåkutshetbàth, Fisherdwarf: Has the tide turned?  I laugh in the face of death!
+The fisherdwarf punches the giant fly in the abdomen with her left hand, tearing the fat and bruising the muscle!
+The fisherdwarf stands up.
+The fisherdwarf is unable to break the grip of The giant fly's right wing on The fisherdwarf's second toe, right foot!
+The fisherdwarf stands up.
+The fisherdwarf is unable to break the grip of The giant fly's right wing on The fisherdwarf's second toe, right foot!
+The fisherdwarf stands up.
+The fisherdwarf is unable to break the grip of The giant fly's right wing on The fisherdwarf's second toe, right foot!
+The fisherdwarf stands up.
+The fisherdwarf is unable to break the grip of The giant fly's right wing on The fisherdwarf's second toe, right foot!
+The fisherdwarf stands up.
+The fisherdwarf is unable to break the grip of The giant fly's right wing on The fisherdwarf's second toe, right foot!
+The fisherdwarf stands up.
+The fisherdwarf is unable to break the grip of The giant fly's right wing on The fisherdwarf's second toe, right foot!
+The fisherdwarf stands up.
+The giant fly stands up.
+Catten Thåkutshetbàth, Fisherdwarf cancels Drink: Interrupted by a giant fly.
+The fisherdwarf punches the giant fly in the left second leg with her right hand, tearing the fat!
+The giant fly throws the fisherdwarf by the second toe, right foot with The giant fly's right wing!
+The giant fly misses the fisherdwarf!
+The fisherdwarf's left lower leg skids along the ground, but it is deflected by the fisherdwarf's (dingo leather robe)!
+The fisherdwarf slams into an obstacle!
+The fisherdwarf stands up.
+èblel Zanegkulin, Trapper cancels Drink: Interrupted by a giant fly.
+The fisherdwarf is no longer stunned.
+Some migrants have arrived.
+Kogan Asoliden, Butcher cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Kogan Asoliden, Butcher cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+Adil Edâmadag has created a masterpiece maple bed!
+Kogan Asoliden, Butcher cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Kogan Asoliden, Butcher cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Solon Ishlumoltar, Miner cancels Make cloth shoe: Needs 1 unused plant cloth.
+Solon Ishlumoltar, Miner cancels Make cloth sock: Needs 1 unused plant cloth.

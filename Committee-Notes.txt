@@ -54,6 +54,7 @@ The ghost of Datan haunts us. Literally. That moron is wailing about not having 
 The soap tower is complete! However, I will not be able to extract oil from the local nuts until I have stone to make a screw press. Now to do something about that darn ghost.
 -McFancyPants
 
+
 ~~~ Year 60 ~~~
 
 	1st of Granite
@@ -110,7 +111,10 @@ I don't know who the last fort supervisor was, but apparently he or she has an o
 I'm cancelling that nonesense (and suspending wall construction) so that someone can finally make me some elfin' soap!
 -McFancypants
 
-    12th Hematite, 61
+
+~~~ Year 61 ~~~
+
+    12th Hematite
 Mr Fancypants was right. The time for obsession of food is over. It's time to obsess about DINING ROOMS. The new dining room has been carved, it's fantastic. Overhead stockpiles lined with empty barrels of food and drink! Grand tables where dwarves sit admiring the fine establishment and wondering why we don't have food.
 
 A massive migrant wave arrived and swelled our numbers, all put to work immediatly on the sewers of course. Perhaps at some point we should build them a true, IDP barracks?
@@ -121,3 +125,9 @@ I'll leave this shortcut guide for navigating to the constructions and fortress 
     <F1> => Toplevel
     <F5> => Central fortress
     <F4> => The Grand Sewers
+
+	15th of Hematite
+Humans! A caravan of the tall folk has arrived to trade their wares. Our reputation is growing!
+-McFancypants
+
+
