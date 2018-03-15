@@ -6029,3 +6029,292 @@ x2
 Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
 Solon Ishlumoltar, Miner cancels Make cloth shoe: Needs 1 unused plant cloth.
 Solon Ishlumoltar, Miner cancels Make cloth sock: Needs 1 unused plant cloth.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Solon Ishlumoltar, Miner cancels Make cloth trousers: Needs 1 unused plant cloth.
+Solon Ishlumoltar, Miner cancels Make cloth robe: Needs 1 unused plant cloth.
+Solon Ishlumoltar, Miner cancels Construct cloth Bag: Needs 1 unused plant cloth.
+Bomrek Esoslan, Weaver cancels Weave Thread into Cloth: Needs 1 unused collected plant thread.
+Ushat Idromtosid has become a Farmer.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Asmel ïnuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+`Barbie McStrongarm' Logemdesis, Miner cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Asmel ïnuluthmik, broker cancels Make Lye: Needs empty bucket.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+x2
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+The weather has cleared.
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Zasit Tomusgusil, Engraver cancels Construct Building: Could not find path.
+The dwarves suspended the construction of Floor.
+Mñthkat ¢deshtÉn, Metalcrafter cancels Construct Building: Could not find path.
+The dwarves suspended the construction of Floor.
+`Handyman' Duthalurvad, Herbalist cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+`Carver Likot' Ozsitdod¢k, Pump Operator cancels Construct Building: Cannot reach site.
+The dwarves suspended the construction of Wall.
+`Handyman' Duthalurvad, Herbalist cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Kol Iklistatås, Cook has been found dead, dehydrated.
+Kib Ducimtholest, Miner cancels Construct Building: Could not find path.
+The dwarves suspended the construction of Wall.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Melbil Ifinãteb, Shearer cancels Construct Building: Could not find path.
+The dwarves suspended the construction of Floor.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Nomal Edtñldeduk, Planter cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Olin Nilrodim, Lye Maker cancels Make Lye: Needs empty bucket.
+Make wooden Cage (8) has been completed.
+Asmel ïnuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Lïr Ducimlegon, Woodcutter cancels Construct Building: Could not find path.
+The dwarves suspended the construction of Floor.
+Asmel ïnuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+The flying ({bronze bolt}) strikes the horse in the right front hoof, chipping it!
+The ({bronze bolt}) has lodged firmly in the wound!
+The force bends the right front leg!
+Avuz Duradoslan, Hunter: I have improved my archery.  That was not satisfying.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Avuz Duradoslan, Hunter: I have improved my crossbow.  That was not satisfying.
+At°r Oddomoshosh, Gem Cutter cancels Construct Building: Could not find path.
+The dwarves suspended the construction of Floor.
+The flying ({bronze bolt}) strikes the horse in the lower body, tearing the muscle and tearing the lower spine's nervous tissue!
+A tendon in the lower spine has been torn!
+The horse falls over.
+Urist Atåslek, Farmer cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+The flying ({bronze bolt}) strikes the horse in the lower body, tearing the muscle and tearing the stomach!
+It is a gelding strike!
+The ({bronze bolt}) has lodged firmly in the wound!
+Urist Atåslek, Farmer cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+The flying ({bronze bolt}) strikes the horse in the right front leg, chipping the bone!
+A tendon has been torn!
+Urist Atåslek, Farmer cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+`Lady Stonesmasher' Debbenurist has created a masterpiece diorite hatch cover!
+The flying ({bronze bolt}) strikes the horse in the lower body, tearing the muscle and tearing the guts!
+The horse looks sick!
+The ({bronze bolt}) has lodged firmly in the wound!
+The flying ({bronze bolt}) strikes the horse in the right rear leg, chipping the bone!
+A tendon has been torn!
+The flying ({bronze bolt}) strikes the horse in the right rear leg, chipping the bone!
+A tendon has been torn!
+The flying ({bronze bolt}) strikes the horse in the upper body, tearing the muscle and chipping the right true ribs!
+A tendon in the right true ribs has been torn!
+The ({bronze bolt}) has lodged firmly in the wound!
+Avuz Duradoslan, Hunter cancels Hunt: No ammunition.
+Avuz Duradoslan, Hunter: I must withdraw!
+Tun Razducim, Trapper cancels Make cloth robe: Needs 1 unused plant cloth.
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Tun Razducim, Trapper cancels Construct cloth Bag: Needs 1 unused plant cloth.
+Kogan Asoliden, Butcher cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Tun Razducim, Trapper cancels Make cloth shoe: Needs 1 unused plant cloth.
+Tun Razducim, Trapper cancels Make cloth sock: Needs 1 unused plant cloth.
+Make wooden Barrel (10) has been completed.
+Tun Razducim, Trapper cancels Make cloth trousers: Needs 1 unused plant cloth.
+Construct rock Door (8) has been completed.
+Solon Ishlumoltar, Miner cancels Make rock Jug: Taken by mood.
+Solon Ishlumoltar, Miner has been possessed!
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Solon Ishlumoltar has claimed a Mason's Workshop.
+Nomal Edtñldeduk, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Construct wooden Bin (10) has been completed.
+Limul Mosuskeng, Gelder cancels Make soap from oil: Needs lye-containing item.
+Limul Mosuskeng, Gelder cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Asmel ïnuluthmik, broker cancels Make Lye: Needs empty bucket.
+Urist Atåslek, Farmer cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Edâm Mîrulakath has created a masterpiece hazel wood barrel!
+Urist Atåslek, Farmer cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Limul Mosuskeng, Gelder cancels Make soap from oil: Needs lye-containing item.
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+`Handyman' Duthalurvad, Herbalist cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+You have struck honey yellow beryl!
+Construct cloth Bag (6) has been completed.
+Tun Razducim, Trapper cancels Make cloth shoe: Needs 1 unused plant cloth.
+Tun Razducim, Trapper cancels Make cloth sock: Needs 1 unused plant cloth.
+Tun Razducim, Trapper cancels Make cloth trousers: Needs 1 unused plant cloth.
+Tun Razducim, Trapper cancels Make cloth robe: Needs 1 unused plant cloth.
+Urist Atåslek, Farmer cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Tun Razducim, Trapper cancels Make cloth shoe: Needs 1 unused plant cloth.
+Asmel ïnuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Urist Atåslek, Farmer cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Tun Razducim, Trapper cancels Make cloth sock: Needs 1 unused plant cloth.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Tun Razducim, Trapper cancels Make cloth trousers: Needs 1 unused plant cloth.
+Tun Razducim, Trapper cancels Make cloth robe: Needs 1 unused plant cloth.
+Make Lye (5) has been completed.
+Urist Atåslek, Farmer cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+Nomal Edtñldeduk, Planter cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Bomrek Esoslan, Weaver cancels Make cloth sock: Needs 1 unused plant cloth.
+Bomrek Esoslan, Weaver cancels Make cloth trousers: Needs 1 unused plant cloth.
+Bomrek Esoslan, Weaver cancels Make cloth robe: Needs 1 unused plant cloth.
+Urist Atåslek, Farmer cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Tun Razducim, Trapper cancels Make cloth shoe: Needs 1 unused plant cloth.
+Asmel ïnuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Urist Atåslek, Farmer cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Tun Razducim, Trapper cancels Make cloth sock: Needs 1 unused plant cloth.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Tun Razducim, Trapper cancels Make cloth trousers: Needs 1 unused plant cloth.
+Avuz Duradoslan, Hunter cancels Weave Thread into Cloth: Needs 1 unused collected plant thread.
+Bomrek Esoslan, Weaver cancels Make cloth shoe: Needs 1 unused plant cloth.
+Urist Atåslek, Farmer cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Avuz Duradoslan, Hunter cancels Weave Thread into Cloth: Needs 1 unused collected plant thread.
+Bomrek Esoslan, Weaver cancels Make cloth sock: Needs 1 unused plant cloth.
+Urist Atåslek, Farmer cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Bomrek Esoslan, Weaver cancels Make cloth trousers: Needs 1 unused plant cloth.
+Bomrek Esoslan, Weaver cancels Make cloth robe: Needs 1 unused plant cloth.
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Urist Atåslek, Farmer cancels Give Water: Need empty bucket.
+Kogan Asoliden, Butcher cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Limul Mosuskeng, Gelder cancels Make soap from oil: Needs lye-containing item.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+`Liz McCrafty' Zuntårked has created a masterpiece granite door!
+Limul Mosuskeng, Gelder cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Limul Mosuskeng, Gelder cancels Make soap from oil: Needs lye-containing item.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+Bomrek Esoslan, Weaver cancels Weave Thread into Cloth: Needs 1 unused collected plant thread.
+Kogan Asoliden, Butcher cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Oddom ìnamlikot, militia captain cancels Spin Thread: Needs unrotten hair/wool body part.
+Autumn has come.
+Tun Razducim, Trapper cancels Make cloth trousers: Needs 1 unused plant cloth.
+Tun Razducim, Trapper cancels Make cloth robe: Needs 1 unused plant cloth.
+Solon Ishlumoltar has begun a mysterious construction!
+Tun Razducim, Trapper cancels Make cloth shoe: Needs 1 unused plant cloth.
+Tun Razducim, Trapper cancels Make cloth sock: Needs 1 unused plant cloth.
+Tun Razducim, Trapper cancels Make cloth trousers: Needs 1 unused plant cloth.
+Tun Razducim, Trapper cancels Make cloth robe: Needs 1 unused plant cloth.
+Onol Ubbulbakust has become a Herbalist.
+Kogan Asoliden, Butcher cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+An animal has grown to become a Stray Mule.
+Make wooden Barrel (10) has been completed.
+Kogan Asoliden, Butcher cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+`Handyman' Duthalurvad, Herbalist cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+Solon Ishlumoltar, Miner has created Ruthîshkobem, a rhyolite cabinet!  He claims it as a family heirloom.
+Urvad Mafoludesh has grown to become a Duck.
+Kogan Asoliden, Butcher cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Edâm Mîrulakath has created a masterpiece hazel wood bed!
+Limul Mosuskeng, Gelder cancels Make soap from oil: Needs lye-containing item.
+x2
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Limul Mosuskeng, Gelder cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Limul Mosuskeng, Gelder cancels Make soap from oil: Needs lye-containing item.
+The Stray Cavy Pup (Tame) has been found, starved to death.
+Urist Atåslek has become a Planter.
+Limul Mosuskeng, Gelder cancels Make soap from oil: Needs lye-containing item.
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+The outpost liaison Kumil Gatizkñbuk from Bomrek Riril has arrived.
+A caravan from Bomrek Riril has arrived.
+Adil Edâmadag has created a masterpiece maple bed!
+Momuz Beridash, Potash Maker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Adil Edâmadag has created a masterpiece sand pear wood barrel!
+Merchants have arrived and are unloading their goods.
+It has started raining.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Asmel ïnuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Limul Mosuskeng has become a Engraver.
+Brew drink from plant (60) has been completed.
+Kogan Asoliden, Butcher cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Tun Razducim, Trapper cancels Make cloth shoe: Needs 1 unused plant cloth.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Tun Razducim, Trapper cancels Make cloth sock: Needs 1 unused plant cloth.
+Tun Razducim, Trapper cancels Make cloth trousers: Needs 1 unused plant cloth.
+Tun Razducim, Trapper cancels Make cloth robe: Needs 1 unused plant cloth.
+The Stray Mule (Tame) has been found, starved to death.
+Momuz Beridash, Potash Maker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Dastot Edâmmeng, Miner cancels Dig: Inappropriate dig square.
+Kol Rovodsedur, Miner cancels Dig: Inappropriate dig square.
+Momuz Beridash, Potash Maker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Kib Ducimtholest, Miner cancels Dig: Inappropriate dig square.
+x2
+Momuz Beridash, Potash Maker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Make rock Jug (5) has been completed.
+You have struck rose quartz!
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+Urist Atåslek, Planter cancels Plant Seeds: Needs hemp seeds.
+x2
+Dastot Edâmmeng, Miner cancels Dig: Inappropriate dig square.
+Limul Mosuskeng, Engraver cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+`Handyman' Duthalurvad, Herbalist cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+Make wooden Jug (5) has been completed.
+The weather has cleared.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+Reg Udildäg, Animal Dissector cancels Dig: Inappropriate dig square.
+x2
+Bomrek Esoslan, Weaver cancels Weave Thread into Cloth: Needs 1 unused collected plant thread.
+x2
+Limul Mosuskeng, Engraver cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+Kol Rovodsedur, Miner cancels Dig: Inappropriate dig square.
+Kib Ducimtholest, Miner cancels Dig: Inappropriate dig square.
+Avuz Duradoslan, Hunter cancels Construct Building: Item blocking site.
+The dwarves suspended the construction of granite Floor Hatch.
+Some migrants have arrived.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+x3
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Kol Rovodsedur, Miner cancels Dig: Inappropriate dig square.
+Momuz Beridash, Potash Maker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+Make wooden Barrel (12) has been completed.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Urist Atåslek, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+`Handyman' Duthalurvad, Herbalist cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Solon Ishlumoltar, Miner cancels Dig: Inappropriate dig square.
+You have struck morion!
+Solon Ishlumoltar, Miner cancels Dig: Inappropriate dig square.
+Tun Razducim, Trapper cancels Make cloth trousers: Needs 1 unused plant cloth.
+Bomrek Esoslan, Weaver cancels Make cloth robe: Needs 1 unused plant cloth.
+Bomrek Esoslan, Weaver cancels Make cloth shoe: Needs 1 unused plant cloth.
+Construct Bed (30) has been completed.
+Bomrek Esoslan, Weaver cancels Make cloth sock: Needs 1 unused plant cloth.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+The Stray Llama (Tame) has been found, starved to death.
+Bomrek Esoslan, Weaver cancels Make cloth shoe: Needs 1 unused plant cloth.
+Momuz Beridash, Potash Maker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Bomrek Esoslan, Weaver cancels Make cloth sock: Needs 1 unused plant cloth.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Bomrek Esoslan, Weaver cancels Make cloth trousers: Needs 1 unused plant cloth.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth robe: Needs 1 unused plant cloth.
+Kib Ducimtholest, Miner cancels Dig: Inappropriate dig square.
+Urist Atåslek, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Solon Ishlumoltar, Miner cancels Dig: Inappropriate dig square.
+Sigun ìmkulet, Miner cancels Dig: Inappropriate dig square.
+Kol Rovodsedur, Miner cancels Dig: Inappropriate dig square.
+Urist Atåslek, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Asmel ïnuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Urist Atåslek, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth sock: Needs 1 unused plant cloth.
+Momuz Beridash, Potash Maker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth trousers: Needs 1 unused plant cloth.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth robe: Needs 1 unused plant cloth.
+Nomal Edtñldeduk, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth shoe: Needs 1 unused plant cloth.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth sock: Needs 1 unused plant cloth.
