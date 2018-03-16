@@ -6318,3 +6318,534 @@ Dumat Rigïthstibmer, Woodcutter cancels Make cloth robe: Needs 1 unused plant cl
 Nomal Edtñldeduk, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
 Dumat Rigïthstibmer, Woodcutter cancels Make cloth shoe: Needs 1 unused plant cloth.
 Dumat Rigïthstibmer, Woodcutter cancels Make cloth sock: Needs 1 unused plant cloth.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+`Liz McCrafty' Zuntårked has become a Mason.
+Onget AvÇdrigïth, Animal Dissector cancels Make cloth shoe: Needs 1 unused plant cloth.
+Momuz Beridash, Potash Maker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+It has started raining.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+Make leather Backpack (10) has been completed.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+You have struck clear zircon!
+You have struck morion!
+Urist Atåslek, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Tun Razducim, Trapper cancels Make cloth trousers: Needs 1 unused plant cloth.
+Asmel ïnuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Urist Atåslek, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Tun Razducim, Trapper cancels Make cloth robe: Needs 1 unused plant cloth.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Urist Atåslek, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Tun Razducim, Trapper cancels Make cloth shoe: Needs 1 unused plant cloth.
+Tun Razducim, Trapper cancels Make cloth sock: Needs 1 unused plant cloth.
+You have struck bauxite!
+Onget AvÇdrigïth, Animal Dissector cancels Construct Building: Cannot reach site.
+The dwarves suspended the construction of Wall.
+Urist Atåslek, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+Limul Mosuskeng, Engraver cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+Asmel ïnuluthmik has become a broker.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+The merchants from Bomrek Riril will be leaving soon.
+You have struck saltpeter!
+Adil Edâmadag has created a masterpiece hazel wood barrel!
+Adil Edâmadag, Carpenter cancels Make wooden Barrel: Needs logs.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+x3
+Urist Atåslek, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+`Handyman' Duthalurvad, Herbalist cancels Make wooden Barrel: Needs logs.
+Nomal Edtñldeduk, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Asmel ïnuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Limul Mosuskeng, Engraver cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Adil Edâmadag, Carpenter cancels Make wooden Barrel: Needs logs.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+The merchants from Bomrek Riril have embarked on their journey.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+The Stray Horse (Tame) has been slaughtered.
+Tun Razducim, Trapper cancels Make cloth trousers: Needs 1 unused plant cloth.
+Tun Razducim, Trapper cancels Make cloth robe: Needs 1 unused plant cloth.
+Tun Razducim, Trapper cancels Make cloth shoe: Needs 1 unused plant cloth.
+Tun Razducim, Trapper cancels Make cloth sock: Needs 1 unused plant cloth.
+Nomal Edtñldeduk, Planter cancels Plant Seeds: Needs pig tail seeds.
+x2
+x3
+You have struck bauxite!
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Degâl StÉkudmegid, Pump Operator cancels Make wooden Barrel: Needs logs.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Edâm Mîrulakath, Carpenter cancels Make wooden Barrel: Needs logs.
+Limul Mosuskeng, Engraver cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+Urist Atåslek, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+Stray Horse (Tame) has given birth to a horse foal.
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Construct rock Hatch Cover (30) has been completed.
+Ushat Idromtosid, Farmer cancels Plant Seeds: Needs hemp seeds.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth trousers: Needs 1 unused plant cloth.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth robe: Needs 1 unused plant cloth.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth shoe: Needs 1 unused plant cloth.
+Asmel ïnuluthmik, broker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth sock: Needs 1 unused plant cloth.
+Limul Mosuskeng, Engraver cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Limul Mosuskeng, Engraver cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+Adil Edâmadag has created a masterpiece willow barrel!
+Tobul Rodimrimtar has grown to become a Nanny Goat.
+Limul Mosuskeng, Engraver cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+Tun Momuznazush, Carpenter cancels Butcher an Animal: Needs butcherable unrotten nearby item.
+`Lady Chop' Atåstenshed has become a Recruit.
+`Barbie McStrongarm' Logemdesis has become a Recruit.
+`Handyman' Duthalurvad has become a Recruit.
+`Liz McCrafty' Zuntårked has become a Recruit.
+`Lady Stonesmasher' Debbenurist has become a militia commander.
+Tun Momuznazush, Carpenter cancels Butcher an Animal: Needs butcherable unrotten nearby item.
+x2
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth shoe: Needs 1 unused plant cloth.
+Tun Momuznazush, Carpenter cancels Butcher an Animal: Needs butcherable unrotten nearby item.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth sock: Needs 1 unused plant cloth.
+Tun Momuznazush, Carpenter cancels Butcher an Animal: Needs butcherable unrotten nearby item.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth trousers: Needs 1 unused plant cloth.
+Tun Momuznazush, Carpenter cancels Butcher an Animal: Needs butcherable unrotten nearby item.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth robe: Needs 1 unused plant cloth.
+Tun Momuznazush, Carpenter cancels Butcher an Animal: Needs butcherable unrotten nearby item.
+x2
+x3
+The weather has cleared.
+Limul Mosuskeng, Engraver cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Limul Mosuskeng, Engraver cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+Adil Edâmadag has created a masterpiece willow barrel!
+Ushat Idromtosid, Farmer cancels Plant Seeds: Needs hemp seeds.
+x2
+You have struck hornblende!
+Asân Nishtîgum, Planter cancels Plant Seeds: Needs pig tail seeds.
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+You have struck lapis lazuli!
+Asmel ïnuluthmik, broker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Limul Mosuskeng, Engraver cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+The recruit attacks the wild boar but He jumps away!
+The recruit stands up.
+The recruit bashes the wild boar in the left rear leg with her (copper bow), bruising the fat!
+The recruit bites the wild boar in the left rear hoof, but the attack glances away!
+The recruit bashes the wild boar in the right tusk with her (copper bow), but the attack glances away!
+The recruit bashes the wild boar in the right rear hoof with her (copper bow), but the attack glances away!
+The recruit attacks the wild boar but He jumps away!
+The recruit bashes the wild boar in the upper body with her (copper bow), bruising the fat!
+The recruit bashes the wild boar in the lower body with her (copper bow), bruising the fat!
+The recruit bashes the wild boar in the neck with her (copper bow), bruising the muscle!
+The recruit bashes the wild boar in the left front leg with her (copper bow), bruising the fat!
+The recruit attacks the wild boar but He jumps away!
+The recruit bashes the wild boar in the right tusk with her (copper bow), but the attack glances away!
+The recruit stands up.
+The recruit bashes the wild boar in the head with her (copper bow), bruising the fat!
+The recruit bashes the wild boar in the lower body with her (copper bow), bruising the fat!
+The recruit bashes the wild boar in the left front hoof with her (copper bow), but the attack glances away!
+The recruit bashes the wild boar in the left front leg with her (copper bow), bruising the fat!
+The recruit attacks the wild boar but He jumps away!
+`Lady Chop' Atåstenshed, Recruit: I have improved my fighting.  That was very satisfying!
+The recruit attacks the wild boar but He jumps away!
+The recruit bashes the wild boar in the right front hoof with her (copper bow), but the attack glances away!
+The recruit scratches the wild boar in the lower body, tearing the fat and bruising the muscle and bruising the left kidney!
+The recruit scratches the wild boar in the left rear hoof, but the attack glances away!
+The force bends the left rear leg!
+The recruit attacks the wild boar but He jumps away!
+The recruit hacks the wild boar in the head with her (copper battle axe), tearing apart the muscle!
+An artery has been opened by the attack!
+A tendon in the skull has been torn!
+The wild boar collapses and falls to the ground from over-exertion.
+The recruit hacks the wild boar in the left rear leg with her (copper battle axe), tearing apart the muscle and bruising the bone!
+An artery has been opened by the attack, many nerves have been severed and a tendon has been torn!
+The recruit bashes the wild boar in the right front leg with her (copper bow), bruising the muscle!
+The recruit hacks the wild boar in the left tusk with her (copper battle axe) and the severed part sails off in an arc!
+The recruit kicks the wild boar in the right rear leg with her left foot, bruising the muscle!
+The recruit punches the wild boar in the head with her left hand, bruising the muscle!
+The force twists the neck, tearing apart the skin!
+The recruit hacks the wild boar in the right rear hoof with her (copper battle axe), but the attack glances away!
+The recruit hacks the wild boar in the right front leg with her (copper battle axe), tearing apart the muscle!
+A motor nerve has been severed!
+The recruit bashes the wild boar in the lower body with her (copper bow), bruising the fat and bruising the right kidney!
+The recruit bashes the wild boar in the left front hoof with her (copper bow), but the attack glances away!
+The force pulls the left front leg!
+The recruit hacks the wild boar in the right tusk with her (copper battle axe) and the severed part sails off in an arc!
+The recruit bashes the wild boar in the right front leg with her (copper bow), bruising the fat!
+The recruit hacks the wild boar in the neck with her (copper battle axe), tearing apart the muscle!
+A tendon in the upper spine has been torn!
+The recruit bashes the wild boar in the right front hoof with her (copper bow), fracturing it!
+The recruit hacks the wild boar in the right front hoof with her (copper battle axe), but the attack glances away!
+The recruit scratches the wild boar in the right front leg!
+A tendon has been torn!
+The recruit hacks the wild boar in the upper body with her (copper battle axe), tearing apart the muscle and tearing apart the left lung!
+The wild boar is having trouble breathing!
+The (copper battle axe) has lodged firmly in the wound!
+The wild boar gives in to pain.
+The recruit pulls on the embedded (copper battle axe).
+The recruit gains possession of the (copper battle axe).
+The recruit bashes the wild boar in the head with her (copper bow), bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The recruit hacks the wild boar in the head with her (copper battle axe), tearing apart the muscle!
+A tendon in the skull has been torn!
+The force twists the neck, tearing apart the skin and bruising the fat!
+The recruit bashes the wild boar in the head with her (copper bow), bruising the muscle and fracturing the skull!
+The force twists the neck, tearing apart the skin!
+The recruit hacks the wild boar in the head with her (copper battle axe), tearing apart the muscle!
+A tendon in the skull has been torn!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The recruit bashes the wild boar in the head with her (copper bow), bruising the muscle and fracturing the skull!
+The force bends the neck, tearing apart the skin!
+The recruit hacks the wild boar in the head with her (copper battle axe), tearing apart the muscle!
+A tendon in the skull has been torn!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The recruit bashes the wild boar in the head with her (copper bow), bruising the muscle!
+The force twists the neck, tearing apart the skin!
+The recruit hacks the wild boar in the head with her (copper battle axe), tearing apart the muscle!
+An artery has been opened by the attack!
+A tendon in the skull has been torn!
+The force bends the neck, tearing apart the skin!
+The recruit bashes the wild boar in the head with her (copper bow), bruising the muscle!
+The force pulls the neck, tearing apart the skin!
+The recruit hacks the wild boar in the head with her (copper battle axe), tearing apart the muscle!
+An artery has been opened by the attack!
+A tendon in the skull has been torn!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The recruit bashes the wild boar in the head with her (copper bow), bruising the muscle, fracturing the skull!
+The force pulls the neck, tearing apart the skin!
+The recruit hacks the wild boar in the head with her (copper battle axe), tearing apart the muscle!
+An artery has been opened by the attack!
+A tendon in the skull has been torn!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The recruit bashes the wild boar in the head with her (copper bow), bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The recruit hacks the wild boar in the head with her (copper battle axe), tearing apart the muscle!
+A tendon in the skull has been torn!
+The force twists the neck, tearing apart the skin and bruising the fat!
+The recruit bashes the wild boar in the head with her (copper bow), bruising the muscle!
+The force bends the neck, tearing apart the skin!
+The recruit hacks the wild boar in the head with her (copper battle axe), tearing apart the muscle!
+An artery has been opened by the attack!
+A tendon in the skull has been torn!
+The force bends the neck, tearing apart the skin and bruising the fat!
+The recruit bashes the wild boar in the head with her (copper bow), bruising the muscle!
+The force twists the neck, tearing apart the skin!
+The recruit bashes the wild boar in the head with her (copper bow), bruising the muscle, fracturing the skull!
+The force pulls the neck, tearing apart the skin!
+The recruit hacks the wild boar in the head with her (copper battle axe), tearing apart the muscle!
+A tendon in the skull has been torn!
+The force twists the neck, tearing apart the skin and bruising the fat and bruising the upper spine's nervous tissue!
+A tendon in the upper spine has been bruised!
+The recruit bashes the wild boar in the head with her (copper bow) and the injured part explodes into gore!
+An artery has been opened by the attack!
+Momuz Beridash, Potash Maker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+It has started raining.
+An animal has grown to become a Stray Boar.
+Momuz Beridash, Potash Maker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+You have struck honey yellow beryl!
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Asmel ïnuluthmik, broker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+You have struck rose quartz!
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth trousers: Needs 1 unused plant cloth.
+Momuz Beridash, Potash Maker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+You have struck rose quartz!
+You have struck amethyst!
+`Lady Chop' Atåstenshed has become a Planter.
+`Barbie McStrongarm' Logemdesis has become a Miner.
+`Handyman' Duthalurvad has become a Herbalist.
+`Liz McCrafty' Zuntårked has become a Mason.
+`Lady Stonesmasher' Debbenurist has become a militia commander.
+Urist Atåslek, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+You have struck honey yellow beryl!
+Tun Momuznazush, Carpenter cancels Butcher an Animal: Needs butcherable unrotten nearby item.
+Kogan Asoliden, Butcher cancels Butcher an Animal: Needs butcherable unrotten nearby item.
+x2
+Momuz Beridash, Potash Maker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Kogan Asoliden, Butcher cancels Butcher an Animal: Needs butcherable unrotten nearby item.
+Limul Mosuskeng, Engraver cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+The weather has cleared.
+Make wooden Barrel (10) has been completed.
+Nomal Edtñldeduk, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+Momuz Beridash, Potash Maker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Nomal Edtñldeduk, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Asmel ïnuluthmik, broker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Tun Razducim, Trapper cancels Make cloth robe: Needs 1 unused plant cloth.
+Nomal Edtñldeduk, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Tun Razducim, Trapper cancels Make cloth shoe: Needs 1 unused plant cloth.
+Tun Razducim, Trapper cancels Make cloth sock: Needs 1 unused plant cloth.
+Tun Razducim, Trapper cancels Make cloth trousers: Needs 1 unused plant cloth.
+Adil Edâmadag has created a masterpiece enormous willow corkscrew!
+Urist Atåslek, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Urist Atåslek, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Nomal Edtñldeduk, Planter cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Asmel ïnuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Urist Atåslek, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Thob Cattenilrom has grown to become a Turkey Hen.
+Make enormous wooden corkscrew (12) has been completed.
+The Stray Reindeer Bull (Tame) has been slaughtered.
+Asmel ïnuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Asmel ïnuluthmik, broker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Construct rock Door (30) has been completed.
+`Liz McCrafty' Zuntårked, Mason cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+Limul Mosuskeng, Engraver cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+Asmel ïnuluthmik, broker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Nomal Edtñldeduk, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Momuz Beridash, Potash Maker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+`Liz McCrafty' Zuntårked, Mason cancels Make cloth sock: Needs 1 unused plant cloth.
+`Liz McCrafty' Zuntårked, Mason cancels Make cloth trousers: Needs 1 unused plant cloth.
+Bomrek Esoslan, Weaver cancels Make cloth robe: Needs 1 unused plant cloth.
+Bomrek Esoslan, Weaver cancels Make cloth shoe: Needs 1 unused plant cloth.
+`Liz McCrafty' Zuntårked, Mason cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+`Liz McCrafty' Zuntårked, Mason cancels Make soap from oil: Needs lye-containing item.
+`Liz McCrafty' Zuntårked, Mason cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Edâm Mîrulakath has created a masterpiece willow pipe section!
+Asmel ïnuluthmik, broker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+Asmel ïnuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+`Liz McCrafty' Zuntårked, Mason cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+x3
+Adil Edâmadag has created a masterpiece willow barrel!
+Urist Atåslek, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Limul Mosuskeng, Engraver cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Urist Atåslek, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Limul Mosuskeng, Engraver cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Urist Atåslek, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+Zutthan Atzulber, Tanner cancels Tan a hide: Needs unrotten TAN_MAT-producing body part.
+Make wooden Pipe Section (4) has been completed.
+Adil Edâmadag has created a masterpiece willow barrel!
+Urist Atåslek, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+x3
+Asmel ïnuluthmik, broker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Asmel ïnuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+You have struck rose quartz!
+Urist Atåslek, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+x3
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth robe: Needs 1 unused plant cloth.
+Nomal Edtñldeduk, Planter cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+`Liz McCrafty' Zuntårked, Mason cancels Make cloth shoe: Needs 1 unused plant cloth.
+You have struck bauxite!
+x2
+You have struck saltpeter!
+Onget AvÇdrigïth, Animal Dissector cancels Make cloth sock: Needs 1 unused plant cloth.
+You have struck milk quartz!
+Urist Atåslek, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Urist Atåslek, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+You have struck resin opal!
+You have struck hornblende!
+Kib Ducimtholest, Miner cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+`Liz McCrafty' Zuntårked, Mason cancels Make soap from oil: Needs lye-containing item.
+You have struck lapis lazuli!
+`Handyman' Duthalurvad, Herbalist cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Adil Edâmadag has created a masterpiece willow barrel!
+`Handyman' Duthalurvad, Herbalist cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Nomal Edtñldeduk, Planter cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Kogan Asoliden, Butcher cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Kogan Asoliden, Butcher cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+`Liz McCrafty' Zuntårked, Mason cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+`Liz McCrafty' Zuntårked, Mason cancels Make soap from oil: Needs lye-containing item.
+`Liz McCrafty' Zuntårked, Mason cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Urist Atåslek, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Asmel ïnuluthmik, broker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Asmel ïnuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+There is nothing to catch in the eastern swamps.
+Make wooden Barrel (10) has been completed.
+Asmel ïnuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Asmel ïnuluthmik, broker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+`Liz McCrafty' Zuntårked, Mason cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Zuntår Ustutharan has become a Engraver.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+`Liz McCrafty' Zuntårked, Mason cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+The broker has been stung by a honey bee!
+Nomal Edtñldeduk, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth robe: Needs 1 unused plant cloth.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth trousers: Needs 1 unused plant cloth.
+`Janitor Zan' Udiburmim has become a Engraver.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth shoe: Needs 1 unused plant cloth.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth sock: Needs 1 unused plant cloth.
+Asmel ïnuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Asmel ïnuluthmik, broker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+The Stray Yak Calf (Tame) has been found, starved to death.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Asmel ïnuluthmik, broker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+It has started raining.
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Bâmbul Dorenostar has grown to become a Duck.
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Asmel ïnuluthmik, broker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Adil Edâmadag has created a masterpiece willow chest!
+Oddom ìnamlikot, militia captain cancels Spin Thread: Needs unrotten hair/wool body part.
+Winter is upon you.
+Asmel ïnuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Asmel ïnuluthmik, broker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth trousers: Needs 1 unused plant cloth.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth robe: Needs 1 unused plant cloth.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth shoe: Needs 1 unused plant cloth.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth sock: Needs 1 unused plant cloth.
+Adil Edâmadag has created a masterpiece willow bed!
+Doren Erushmezum, Presser cancels Fish: Dangerous terrain.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+Limul Mosuskeng, Engraver cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Adil Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Limul Mosuskeng, Engraver cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+The Stray Ewe (Tame) has been slaughtered.
+You have struck citrine!
+Tun Razducim, Trapper cancels Make cloth sock: Needs 1 unused plant cloth.
+You have struck microcline!
+Tun Razducim, Trapper cancels Make cloth trousers: Needs 1 unused plant cloth.
+Tun Razducim, Trapper cancels Make cloth robe: Needs 1 unused plant cloth.
+Momuz Beridash, Potash Maker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+You have struck microcline!
+Tun Razducim, Trapper cancels Make cloth shoe: Needs 1 unused plant cloth.
+Tun Razducim, Trapper cancels Make cloth sock: Needs 1 unused plant cloth.
+The Stray Water Buffalo Cow (Tame) has been slaughtered.
+There is nothing to catch in the northern swamps.
+You have struck yellow spessartine!
+You have struck mica!
+Kib Ducimtholest, Miner cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+You have struck mica!
+Edâm Mîrulakath, Carpenter cancels Construct Bed: Needs logs.
+The weregila monster bites the sea otter in the left front leg, tearing the fat and bruising the muscle!
+Weregila monster extract is injected into the the sea otter's sea otter blood!
+The weregila monster attacks the sea otter but He jumps away!
+The weregila monster bites the sea otter in the right front leg, tearing the fat!
+Weregila monster extract is injected into the the sea otter's sea otter blood!
+The weregila monster attacks the sea otter but He jumps away!
+The weregila monster bites the sea otter in the right front paw, tearing the fat!
+Weregila monster extract is injected into the the sea otter's sea otter blood!
+Edâm Mîrulakath, Carpenter cancels Construct wooden Chest: Needs logs.
+The weregila monster misses the sea otter!
+The weregila monster bites the sea otter in the left rear paw, tearing the muscle!
+Weregila monster extract is injected into the the sea otter's sea otter blood!
+The weregila monster attacks the sea otter but He jumps away!
+The weregila monster misses the sea otter!
+The weregila monster bites the sea otter in the tail, tearing the fat!
+Weregila monster extract is injected into the the sea otter's sea otter blood!
+The sea otter collapses and falls to the ground from over-exertion.
+The Stray Yak Bull (Tame) has been slaughtered.
+The weregila monster bites the sea otter in the left front paw, tearing the muscle!
+Weregila monster extract is injected into the the sea otter's sea otter blood!
+The weregila monster bites the sea otter in the right front leg, tearing the fat and bruising the muscle!
+Weregila monster extract is injected into the the sea otter's sea otter blood!
+The weregila monster grabs the sea otter by the left ear with its right upper arm!
+The weregila monster releases the grip of The weregila monster's right upper arm on the sea otter's left ear.
+The sea otter attacks the weregila monster but It jumps away!
+The weregila monster grabs the sea otter by the first right front toe with its left hand!
+The weregila monster releases the grip of The weregila monster's left hand on the sea otter's first right front toe.
+The weregila monster bites the sea otter in the left front paw, tearing the muscle!
+An artery has been opened by the attack!
+Weregila monster extract is injected into the the sea otter's sea otter blood!
+The sea otter misses the weregila monster!
+The weregila monster bites the sea otter in the neck, tearing the muscle!
+Weregila monster extract is injected into the the sea otter's sea otter blood!
+The weregila monster latches on firmly!
+The sea otter bites the weregila monster in the left foot, tearing the scale and bruising the fat!
+The weregila monster shakes the sea otter around by the neck and the upper spine collapses!
+An artery in the neck has been opened by the attack!
+A tendon in the upper spine has been torn!
+The weregila monster shakes the sea otter around by the neck, tearing apart the neck's muscle and tearing apart the upper spine's nervous tissue!
+An artery in the neck has been opened by the attack!
+A tendon in the upper spine has been torn!
+The weregila monster grabs the sea otter by the fourth left rear toe with its right lower arm!
+The sea otter misses the weregila monster!
+The weregila monster releases the grip of The weregila monster's right lower arm on the sea otter's fourth left rear toe.
+The weregila monster grabs the sea otter by the left front leg with its left upper arm!
+The weregila monster releases the grip of The weregila monster's left upper arm on the sea otter's left front leg.
+The weregila monster grabs the sea otter by the right front leg with its left upper arm!
+The sea otter misses the weregila monster!
+The weregila monster releases the grip of The weregila monster's left upper arm on the sea otter's right front leg.
+The weregila monster grabs the sea otter by the second left front toe with its right lower arm!
+The weregila monster bites the sea otter in the upper body, tearing the fat and bruising the muscle!
+Weregila monster extract is injected into the the sea otter's sea otter blood!
+The sea otter misses the weregila monster!
+The weregila monster bites the sea otter in the upper body, tearing the fat and bruising the muscle and bruising the right lung!
+Weregila monster extract is injected into the the sea otter's sea otter blood!
+The weregila monster latches on firmly!
+The sea otter misses the weregila monster!
+The weregila monster shakes the sea otter around by the upper body, tearing apart the upper body's fat!
+The sea otter passes out from exhaustion.
+The weregila monster shakes the sea otter around by the upper body, tearing apart the upper body's fat!
+The weregila monster releases the grip of The weregila monster's right lower arm on the sea otter's second left front toe.
+The weregila monster grabs the sea otter by the lower body with its left hand!
+The weregila monster bites the sea otter in the head, tearing the muscle!
+Weregila monster extract is injected into the the sea otter's sea otter blood!
+The weregila monster latches on firmly!
+The weregila monster shakes the sea otter around by the head, tearing apart the head's muscle!
+An artery in the head has been opened by the attack!
+A tendon in the skull has been torn!
+The weregila monster shakes the sea otter around by the head, tearing apart the head's muscle!
+An artery in the head has been opened by the attack!
+A tendon in the skull has been torn!
+The weregila monster shakes the sea otter around by the head, tearing apart the head's muscle!
+An artery in the head has been opened by the attack!
+A tendon in the skull has been torn!
+The weregila monster shakes the sea otter around by the head, tearing apart the head's muscle!
+An artery in the head has been opened by the attack!
+A tendon in the skull has been torn!
+The weregila monster shakes the sea otter around by the head, tearing apart the head's muscle!
+An artery in the head has been opened by the attack!
+A tendon in the skull has been torn!
+The weregila monster releases the grip of The weregila monster's left hand on the sea otter's lower body.
+The weregila monster bites the sea otter in the head, tearing apart the muscle!
+An artery has been opened by the attack!
+Weregila monster extract is injected into the the sea otter's sea otter blood!
+The weregila monster latches on firmly!
+The weregila monster shakes the sea otter around by the head, tearing apart the head's muscle!
+An artery in the head has been opened by the attack!
+A tendon in the skull has been torn!
+The weregila monster shakes the sea otter around by the head, tearing apart the head's muscle and tearing apart the upper spine's nervous tissue!
+An artery in the head has been opened by the attack!
+A tendon in the upper spine has been torn!
+The weregila monster shakes the sea otter around by the head, tearing apart the head's muscle and tearing apart the upper spine's nervous tissue!
+An artery in the head has been opened by the attack!
+A tendon in the upper spine has been torn!
+The weregila monster shakes the sea otter around by the head, tearing apart the head's muscle and tearing apart the upper spine's nervous tissue!
+An artery in the head has been opened by the attack!
+A tendon in the upper spine has been torn!
+The weregila monster shakes the sea otter around by the head, tearing apart the head's muscle!
+An artery in the head has been opened by the attack!
+A tendon in the skull has been torn!
+The weregila monster shakes the sea otter around by the head, tearing apart the head's muscle and tearing apart the upper spine's nervous tissue!
+An artery in the head has been opened by the attack!
+A tendon in the upper spine has been torn!
+The Weregila Monster Cadi Nesimcish has come!  A large gila monster twisted into humanoid form.  It is crazed for blood and flesh.  Its eyes glow yellow.  Its charcoal scales are round and close-set.  Now you will know why you fear the night.
+`Lady Stonesmasher' Debbenurist, militia commander cancels Construct Building: Interrupted by a weregila monster.
+The dwarves suspended the construction of Horizontal willow Axle.
