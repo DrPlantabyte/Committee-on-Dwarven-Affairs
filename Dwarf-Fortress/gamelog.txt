@@ -7174,3 +7174,73 @@ Dumat Rig•thstibmer, Woodcutter cancels Make cloth trousers: Needs 1 unused plan
 Tun Momuznazush, Carpenter cancels Make wooden Barrel: Needs logs.
 Kogan Asoliden, Butcher cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
 Dumat Rig•thstibmer, Woodcutter cancels Make cloth robe: Needs 1 unused plant cloth.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Limul Mosuskeng, Engraver cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Dumat Rig•thstibmer, Woodcutter cancels Make cloth shoe: Needs 1 unused plant cloth.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+Dumat Rig•thstibmer, Woodcutter cancels Make cloth sock: Needs 1 unused plant cloth.
+Nomal Edt–ldeduk, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Dumat Rig•thstibmer, Woodcutter cancels Make cloth trousers: Needs 1 unused plant cloth.
+Nomal Edt–ldeduk, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+Tun Momuznazush, Carpenter cancels Construct Bed: Needs logs.
+Tun Momuznazush, Carpenter cancels Construct wooden Chest: Needs logs.
+Melbil Al†thetur, mayor has ended a mandate.
+Ed‰m M”rulakath, Carpenter cancels Make wooden Barrel: Needs logs.
+`Handyman' Duthalurvad, Herbalist cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+`Handyman' Duthalurvad, Herbalist cancels Construct Bed: Needs logs.
+`Handyman' Duthalurvad, Herbalist cancels Construct wooden Chest: Needs logs.
+`Handyman' Duthalurvad, Herbalist cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+Melbil Al†thetur, mayor has imposed a ban on certain exports.
+`Handyman' Duthalurvad, Herbalist cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+`Handyman' Duthalurvad, Herbalist cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+`Handyman' Duthalurvad, Herbalist cancels Make soap from oil: Needs lye-containing item.
+`Handyman' Duthalurvad, Herbalist cancels Tan a hide: Needs unrotten TAN_MAT-producing body part.
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Onol Ubbulbakust, Herbalist cancels Make wooden Barrel: Needs logs.
+Onol Ubbulbakust, Herbalist cancels Construct Bed: Needs logs.
+Onol Ubbulbakust, Herbalist cancels Construct wooden Chest: Needs logs.
+Kogan Asoliden, Butcher cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+x3
+Limul Mosuskeng, Engraver cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+Solon Ishlumoltar, Miner cancels Make cloth sock: Needs 1 unused plant cloth.
+Solon Ishlumoltar, Miner cancels Make cloth trousers: Needs 1 unused plant cloth.
+Solon Ishlumoltar, Miner cancels Make cloth robe: Needs 1 unused plant cloth.
+Solon Ishlumoltar, Miner cancels Make cloth shoe: Needs 1 unused plant cloth.
+Momuz Beridash, Potash Maker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Ed‰m M”rulakath, Carpenter cancels Make wooden Barrel: Needs logs.
+Ed‰m M”rulakath, Carpenter cancels Construct Bed: Needs logs.
+Limul Mosuskeng, Engraver cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Ed‰m M”rulakath, Carpenter cancels Construct wooden Chest: Needs logs.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+Catten ThŒkutshetbˆth, Fisherdwarf cancels Make soap from oil: Needs lye-containing item.
+Dumat Rig•thstibmer, Woodcutter cancels Make cloth shoe: Needs 1 unused plant cloth.
+Dumat Rig•thstibmer, Woodcutter cancels Make cloth sock: Needs 1 unused plant cloth.
+`Handyman' Duthalurvad, Herbalist cancels Make wooden Barrel: Needs logs.
+`McCrafty' Ed‰madag, Carpenter cancels Construct Bed: Needs logs.
+Dumat Rig•thstibmer, Woodcutter cancels Make cloth trousers: Needs 1 unused plant cloth.
+`Handyman' Duthalurvad, Herbalist cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+`McCrafty' Ed‰madag, Carpenter cancels Construct wooden Chest: Needs logs.
+Dumat Rig•thstibmer, Woodcutter cancels Make cloth robe: Needs 1 unused plant cloth.
+`Handyman' Duthalurvad, Herbalist cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+`McCrafty' Ed‰madag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+`Handyman' Duthalurvad, Herbalist cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+`McArcher' Stƒkudmegid, Pump Operator cancels Pen/Pasture Sea Otter: Animal inaccessible.
+`Handyman' Duthalurvad, Herbalist cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Tun Momuznazush, Carpenter cancels Make wooden Barrel: Needs logs.
+Catten ThŒkutshetbˆth, Fisherdwarf cancels Make soap from oil: Needs lye-containing item.
+Tun Momuznazush, Carpenter cancels Construct Bed: Needs logs.
+Tun Momuznazush, Carpenter cancels Construct wooden Chest: Needs logs.
+Ed‰m M”rulakath, Carpenter cancels Make wooden Barrel: Needs logs.
+Ed‰m M”rulakath, Carpenter cancels Construct Bed: Needs logs.
+Kogan Asoliden, Butcher cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Ed‰m M”rulakath, Carpenter cancels Construct wooden Chest: Needs logs.
+Kogan Asoliden, Butcher cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+Dumat Rig•thstibmer, Woodcutter cancels Make cloth shoe: Needs 1 unused plant cloth.
+Kogan Asoliden, Butcher cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Asmel •nuluthmik, broker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
