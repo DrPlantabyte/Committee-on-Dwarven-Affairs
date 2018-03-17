@@ -6849,3 +6849,12 @@ A tendon in the upper spine has been torn!
 The Weregila Monster Cadi Nesimcish has come!  A large gila monster twisted into humanoid form.  It is crazed for blood and flesh.  Its eyes glow yellow.  Its charcoal scales are round and close-set.  Now you will know why you fear the night.
 `Lady Stonesmasher' Debbenurist, militia commander cancels Construct Building: Interrupted by a weregila monster.
 The dwarves suspended the construction of Horizontal willow Axle.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Kib Ducimtholest, Miner cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+** Loading Fortress **
+`McArcher' Nisht”gum has become a Recruit.
+`McArcher' Erushmezum has become a Recruit.
+`McArcher' Duradoslan has become a militia captain.
+`McArcher' Zanegkulin has become a Recruit.
+`McArcher' Stƒkudmegid has become a Recruit.
