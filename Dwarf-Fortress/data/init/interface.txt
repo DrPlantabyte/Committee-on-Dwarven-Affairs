@@ -53,6 +53,7 @@
 [SYM:0:Page Down]
 [KEY:>]
 [BUTTON:0:4] # mouse scroll wheel
+[SYM:2:Down]
 
 [BIND:CURSOR_DOWN_Z_AUX:REPEAT_SLOW]
 [SYM:2:Page Down]
@@ -98,6 +99,7 @@
 [SYM:0:Page Up]
 [KEY:<]
 [BUTTON:0:5] # mouse scroll wheel
+[SYM:2:Up]
 
 [BIND:CURSOR_UP_Z_AUX:REPEAT_SLOW]
 [SYM:1:Page Up]
