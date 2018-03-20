@@ -7924,3 +7924,92 @@ x3
 x2
 `McCrafty' Ed盈adag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
 Merchants have arrived and are unloading their goods.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Momuz Beridash, Potash Maker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Nomal Edt僕deduk, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Limul Mosuskeng, Engraver cancels Make soap from tallow: Needs lye-containing item.
+Dumat Rig付hstibmer, Woodcutter cancels Make cloth trousers: Needs 1 unused plant cloth.
+Nomal Edt僕deduk, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+Dumat Rig付hstibmer, Woodcutter cancels Make cloth robe: Needs 1 unused plant cloth.
+Nomal Edt僕deduk, Planter cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+The Stray Llama (Tame) has been found, starved to death.
+Dumat Rig付hstibmer, Woodcutter cancels Make cloth sock: Needs 1 unused plant cloth.
+Dumat Rig付hstibmer, Woodcutter cancels Make cloth shoe: Needs 1 unused plant cloth.
+Kogan Asoliden, Butcher cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Limul Mosuskeng, Engraver cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Limul Mosuskeng, Engraver cancels Make soap from tallow: Needs lye-containing item.
+`Handyman' Duthalurvad, Herbalist cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Construct rock Mechanisms (5) has been completed.
+Limul Mosuskeng, Engraver cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+`Handyman' Duthalurvad, Herbalist cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+`Handyman' Duthalurvad, Herbalist cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Kogan Asoliden, Butcher cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+`Handyman' Duthalurvad, Herbalist cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Kogan Asoliden, Butcher cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Limul Mosuskeng, Engraver cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Limul Mosuskeng, Engraver cancels Make soap from tallow: Needs lye-containing item.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+`Handyman' Duthalurvad, Herbalist cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+The Stray Donkey (Tame) has been slaughtered.
+Dumat Rig付hstibmer, Woodcutter cancels Make cloth trousers: Needs 1 unused plant cloth.
+Dumat Rig付hstibmer, Woodcutter cancels Make cloth robe: Needs 1 unused plant cloth.
+Dumat Rig付hstibmer, Woodcutter cancels Make cloth shoe: Needs 1 unused plant cloth.
+Nomal Edt僕deduk, Planter cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+The Stray Blue Peahen (Tame) has been slaughtered.
+Nomal Edt僕deduk, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Kogan Asoliden, Butcher cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Kogan Asoliden, Butcher cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+The Stray Boar (Tame) has been slaughtered.
+Datan Zonvod, Armorer cancels Forge bronze breastplate: Needs 3 bronze bars.
+`McCrafty' Ed盈adag, Carpenter cancels Tan a hide: Needs unrotten TAN_MAT-producing body part.
+Kib Ducimtholest, Miner cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+It has started raining.
+An animal has grown to become a Stray Llama.
+Limul Mosuskeng, Engraver cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Limul Mosuskeng, Engraver cancels Make soap from tallow: Needs lye-containing item.
+The Stray Hen (Tame) has been slaughtered.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+Dumat Rig付hstibmer, Woodcutter cancels Make cloth trousers: Needs 1 unused plant cloth.
+Dumat Rig付hstibmer, Woodcutter cancels Make cloth sock: Needs 1 unused plant cloth.
+Dumat Rig付hstibmer, Woodcutter cancels Make cloth shoe: Needs 1 unused plant cloth.
+Dumat Rig付hstibmer, Woodcutter cancels Make cloth trousers: Needs 1 unused plant cloth.
+Dumat Rig付hstibmer, Woodcutter cancels Make cloth robe: Needs 1 unused plant cloth.
+Solon Ishlumoltar, Miner cancels Dig Channel: Dangerous terrain.
+Olin Konosbuk閣 has become a Miner.
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Nomal Edt僕deduk, Planter cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+x2
+`Handyman' Duthalurvad, Herbalist cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Nomal Edt僕deduk, Planter cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+`AFFLICTED' Atzulber, Tanner has transformed into a weregila monster!
+Nomal Mengreg, Gelder cancels Dig Channel: Dangerous terrain.
+`McCrafty' Ed盈adag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Solon Ishlumoltar, Miner cancels Dig Channel: Dangerous terrain.
+The gelder has been stung by a honey bee!
+Momuz Beridash, Potash Maker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Nomal Edt僕deduk, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Construct rock Weapon Rack (5) has been completed.
+Nomal Edt僕deduk, Planter cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Limul Mosuskeng, Engraver cancels Make soap from tallow: Needs lye-containing item.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+`AFFLICTED' Atzulber, Weregila Monster Tanner has transformed into a dwarf!
+Construct rock Armor Stand (5) has been completed.
+`Handyman' Duthalurvad, Herbalist cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+`Liz McCrafty' Zunt罫ked, Mason cancels Make soap from tallow: Needs lye-containing item.
+Some migrants have arrived.
+Kogan Asoliden, Butcher cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Kogan Asoliden, Butcher cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+`McCrafter' Razducim, Trapper cancels Make cloth trousers: Needs 1 unused plant cloth.
+`McCrafter' Razducim, Trapper cancels Make cloth robe: Needs 1 unused plant cloth.
+`McCrafter' Razducim, Trapper cancels Make cloth shoe: Needs 1 unused plant cloth.
+`McCrafter' Razducim, Trapper cancels Make cloth sock: Needs 1 unused plant cloth.
+Kogan Asoliden, Butcher cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Kogan Asoliden, Butcher cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+`Liz McCrafty' Zunt罫ked, Mason cancels Make soap from oil: Needs lye-containing item.
+`Liz McCrafty' Zunt罫ked, Mason cancels Make soap from tallow: Needs lye-containing item.
+`Liz McCrafty' Zunt罫ked, Mason cancels Make cloth shoe: Needs 1 unused plant cloth.
