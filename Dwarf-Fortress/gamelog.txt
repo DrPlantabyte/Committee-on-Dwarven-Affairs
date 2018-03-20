@@ -7609,3 +7609,318 @@ Kogan Asoliden, Butcher cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-pr
 Edâm Mîrulakath, Carpenter cancels Construct wooden Chest: Needs logs.
 Kogan Asoliden, Butcher cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
 Edâm Mîrulakath, Carpenter cancels Construct wooden Chest: Needs logs.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Kib Ducimtholest, Miner cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+`Janitor Zan' Udiburmim, Engraver cancels Pen/Pasture Sea Otter: Animal inaccessible.
+Tun Momuznazush, Carpenter cancels Make wooden Barrel: Needs logs.
+Edâm Mîrulakath, Carpenter cancels Make wooden Barrel: Needs logs.
+Tun Momuznazush, Carpenter cancels Construct Bed: Needs logs.
+Tun Momuznazush, Carpenter cancels Construct wooden Chest: Needs logs.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from oil: Needs lye-containing item.
+Onol Ubbulbakust, Herbalist cancels Construct Bed: Needs logs.
+Onol Ubbulbakust, Herbalist cancels Construct wooden Chest: Needs logs.
+`McCrafty' Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+Asmel ïnuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+`McCrafty' Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Asmel ïnuluthmik, broker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+You have struck clear zircon!
+Solon Ishlumoltar, Miner cancels Collect Webs: Could not find path.
+`McCrafter' Razducim, Trapper cancels Make cloth sock: Needs 1 unused plant cloth.
+`McCrafter' Razducim, Trapper cancels Make cloth trousers: Needs 1 unused plant cloth.
+`McCrafter' Razducim, Trapper cancels Make cloth robe: Needs 1 unused plant cloth.
+`McCrafter' Razducim, Trapper cancels Make cloth shoe: Needs 1 unused plant cloth.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from oil: Needs lye-containing item.
+Tun Momuznazush, Carpenter cancels Make wooden Barrel: Needs logs.
+Tun Momuznazush, Carpenter cancels Construct Bed: Needs logs.
+`Lady Stonesmasher' Debbenurist has created a masterpiece gabbro cabinet!
+Tun Momuznazush, Carpenter cancels Construct wooden Chest: Needs logs.
+Tun Momuznazush, Carpenter cancels Make wooden Barrel: Needs logs.
+Tun Momuznazush, Carpenter cancels Construct Bed: Needs logs.
+Tun Momuznazush, Carpenter cancels Construct wooden Chest: Needs logs.
+Edâm Mîrulakath, Carpenter cancels Make wooden Barrel: Needs logs.
+x2
+Edâm Mîrulakath, Carpenter cancels Construct Bed: Needs logs.
+Edâm Mîrulakath, Carpenter cancels Construct wooden Chest: Needs logs.
+Edâm Mîrulakath, Carpenter cancels Construct Bed: Needs logs.
+Edâm Mîrulakath, Carpenter cancels Construct wooden Chest: Needs logs.
+Limul Mosuskeng, Engraver cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+Limul Mosuskeng, Engraver cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+x2
+Limul Mosuskeng, Engraver cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from oil: Needs lye-containing item.
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Bomrek Esoslan, Craftsdwarf cancels Weave Yarn into Cloth: Needs 1 unused collected yarn thread.
+Edâm Mîrulakath has created a masterpiece cherry wood bed!
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from oil: Needs lye-containing item.
+x2
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Construct rock Grate (4) has been completed.
+Edâm Mîrulakath has created a masterpiece apple wood bed!
+Construct rock Mechanisms (8) has been completed.
+Kogan Asoliden, Butcher cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Limul Mosuskeng, Engraver cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+`McFarmer' Atåslek, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+`Handyman' Duthalurvad, Herbalist cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+`McFarmer' Atåslek, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Momuz Beridash, Potash Maker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Construct wooden Chest (5) has been completed.
+Urdim Monomthol has grown to become a Dwarven Child.
+Nomal Edtñldeduk, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+Nomal Edtñldeduk, Planter cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Nomal Edtñldeduk, Planter cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Nomal Edtñldeduk, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Mñthkat ¢deshtÉn, Metalcrafter cancels Construct Building: Item blocking site.
+The dwarves suspended the construction of Wall.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+`McArcher' Duradoslan, Archer cancels Construct Building: Item blocking site.
+The dwarves suspended the construction of Wall.
+Kogan Asoliden, Butcher cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Edâm Mîrulakath has created a masterpiece apple wood barrel!
+Kogan Asoliden, Butcher cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+The weather has cleared.
+Kogan Asoliden, Butcher cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Nomal Edtñldeduk, Planter cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from oil: Needs lye-containing item.
+Limul Mosuskeng, Engraver cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Limul Mosuskeng, Engraver cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Lïr Ducimlegon, Woodcutter cancels Store Item in Stockpile: Item inaccessible.
+Make wooden Barrel (10) has been completed.
+Kogan Asoliden, Butcher cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Kogan Asoliden, Butcher cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+x3
+Asmel ïnuluthmik, broker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Weave Thread into Cloth (50) has been completed.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+An animal has grown to become a Stray Hen.
+Kib Ducimtholest, Miner cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Edâm Mîrulakath has created a masterpiece willow bin!
+`Handyman' Duthalurvad, Herbalist cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+`Lady Stonesmasher' Debbenurist has created a masterpiece granite cabinet!
+Kogan Asoliden, Butcher cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+Limul Mosuskeng, Engraver cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Asmel ïnuluthmik, broker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from tallow: Needs lye-containing item.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from oil: Needs lye-containing item.
+`AFFLICTED' Atzulber, Tanner has transformed into a weregila monster!
+`McFarmer' Idromtosid, Farmer cancels Pen/Pasture Bâmbul Dorenostar, Duck (Tame): Animal inaccessible.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from tallow: Needs lye-containing item.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from oil: Needs lye-containing item.
+`AFFLICTED' Atzulber, Weregila Monster Tanner has transformed into a dwarf!
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from tallow: Needs lye-containing item.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from oil: Needs lye-containing item.
+`Handyman' Duthalurvad, Herbalist cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+x3
+`Handyman' Duthalurvad, Herbalist cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+`Handyman' Duthalurvad, Herbalist cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Nomal Edtñldeduk, Planter cancels Plant Seeds: Needs hemp seeds.
+Solon Ishlumoltar, Miner cancels Make cloth sock: Needs 1 unused plant cloth.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth trousers: Needs 1 unused plant cloth.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth robe: Needs 1 unused plant cloth.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth shoe: Needs 1 unused plant cloth.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from tallow: Needs lye-containing item.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from oil: Needs lye-containing item.
+Construct wooden Bin (10) has been completed.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth trousers: Needs 1 unused plant cloth.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth robe: Needs 1 unused plant cloth.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth shoe: Needs 1 unused plant cloth.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth sock: Needs 1 unused plant cloth.
+Edâm Mîrulakath has created a masterpiece willow bed!
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from tallow: Needs lye-containing item.
+`McFarmer' Atåslek, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+`McCrafty' Edâmadag has created a masterpiece cherry wood bed!
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from oil: Needs lye-containing item.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from tallow: Needs lye-containing item.
+`McCrafty' Edâmadag has created a masterpiece cherry wood bed!
+`McCrafty' Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+Construct Bed (34) has been completed.
+`McCrafty' Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Onget AvÇdrigïth, Animal Dissector cancels Make cloth shoe: Needs 1 unused plant cloth.
+Onget AvÇdrigïth, Animal Dissector cancels Make cloth sock: Needs 1 unused plant cloth.
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from tallow: Needs lye-containing item.
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from oil: Needs lye-containing item.
+Nomal Edtñldeduk, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+`McFarmer' Atåslek, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+x3
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from tallow: Needs lye-containing item.
+`McFarmer' Atåslek, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from oil: Needs lye-containing item.
+Construct rock Cabinet (51) has been completed.
+Kib Ducimtholest, Miner cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from tallow: Needs lye-containing item.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from oil: Needs lye-containing item.
+`McFarmer' Atåslek, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Onget AvÇdrigïth, Animal Dissector cancels Make cloth trousers: Needs 1 unused plant cloth.
+Onget AvÇdrigïth, Animal Dissector cancels Make cloth robe: Needs 1 unused plant cloth.
+Onget AvÇdrigïth, Animal Dissector cancels Make cloth shoe: Needs 1 unused plant cloth.
+`Handyman' Duthalurvad, Herbalist cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Onget AvÇdrigïth, Animal Dissector cancels Make cloth sock: Needs 1 unused plant cloth.
+`Handyman' Duthalurvad, Herbalist cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+`Handyman' Duthalurvad, Herbalist cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+`Handyman' Duthalurvad, Herbalist cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Construct Bed (4) has been completed.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from tallow: Needs lye-containing item.
+Momuz Beridash, Potash Maker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from oil: Needs lye-containing item.
+`Liz McCrafty' Zuntårked, Mason cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+x3
+Make wooden Cage (3) has been completed.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from tallow: Needs lye-containing item.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from oil: Needs lye-containing item.
+`McFarmer' Atåslek, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Nomal Edtñldeduk, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Nomal Edtñldeduk, Planter cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Nomal Edtñldeduk, Planter cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from tallow: Needs lye-containing item.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from oil: Needs lye-containing item.
+Kogan Asoliden, Butcher cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Asmel ïnuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Kogan Asoliden, Butcher cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Asmel ïnuluthmik, broker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Kogan Asoliden, Butcher cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from tallow: Needs lye-containing item.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from oil: Needs lye-containing item.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from tallow: Needs lye-containing item.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from oil: Needs lye-containing item.
+Onget AvÇdrigïth, Animal Dissector cancels Make cloth trousers: Needs 1 unused plant cloth.
+Onget AvÇdrigïth, Animal Dissector cancels Make cloth robe: Needs 1 unused plant cloth.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from tallow: Needs lye-containing item.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from oil: Needs lye-containing item.
+Asmel ïnuluthmik, broker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Asmel ïnuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from tallow: Needs lye-containing item.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from oil: Needs lye-containing item.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth shoe: Needs 1 unused plant cloth.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth sock: Needs 1 unused plant cloth.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth trousers: Needs 1 unused plant cloth.
+Olin Konosbukät has become a Engraver.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from tallow: Needs lye-containing item.
+An animal has grown to become a Stray Hen.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from oil: Needs lye-containing item.
+`Liz McCrafty' Zuntårked, Mason cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+Kogan Asoliden, Butcher cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+`Liz McCrafty' Zuntårked, Mason cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Kib Ducimtholest, Miner cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Kogan Asoliden, Butcher cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from tallow: Needs lye-containing item.
+Kogan Asoliden, Butcher cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from oil: Needs lye-containing item.
+Kogan Asoliden, Butcher cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+Rakust Akgosobok, Animal Caretaker cancels Construct Building: Item blocking site.
+The dwarves suspended the construction of Bed.
+Momuz Beridash, Potash Maker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+`McCrafty' Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+x3
+It has started raining.
+Limul Mosuskeng, Engraver cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Limul Mosuskeng, Engraver cancels Make soap from tallow: Needs lye-containing item.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+Goden Shemathel, Fisherdwarf cancels Sleep: Taken by mood.
+Goden Shemathel, Fisherdwarf withdraws from society...
+Solon Urrãthrith, Wood Burner cancels Construct Building: Item blocking site.
+The dwarves suspended the construction of Bed.
+`Butcher Bethy' Rakustakrul, Strand Extractor cancels Construct Building: Item blocking site.
+The dwarves suspended the construction of pear wood Door.
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from tallow: Needs lye-containing item.
+`AFFLICTED' Atzulber, Tanner has transformed into a weregila monster!
+Catten Thåkutshetbàth, Fisherdwarf cancels Make soap from oil: Needs lye-containing item.
+Momuz Beridash, Potash Maker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Limul Mosuskeng, Engraver cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Goden Shemathel has claimed a Craftsdwarf's Workshop.
+`Liz McCrafty' Zuntårked, Mason cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+Spring has arrived!
+`Liz McCrafty' Zuntårked, Mason cancels Make soap from tallow: Needs lye-containing item.
+Asmel ïnuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+`Liz McCrafty' Zuntårked, Mason cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Asmel ïnuluthmik, broker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+`Liz McCrafty' Zuntårked, Mason cancels Make soap from oil: Needs lye-containing item.
+Goden Shemathel has begun a mysterious construction!
+`McCrafty' Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+`AFFLICTED' Atzulber, Weregila Monster Tanner has transformed into a dwarf!
+Momuz Beridash, Potash Maker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+`McCrafty' Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Kib Ducimtholest, Miner cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+`McCrafty' Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+The weather has cleared.
+`McCrafter' Razducim, Trapper cancels Make cloth trousers: Needs 1 unused plant cloth.
+`McCrafter' Razducim, Trapper cancels Make cloth robe: Needs 1 unused plant cloth.
+`McCrafter' Razducim, Trapper cancels Make cloth shoe: Needs 1 unused plant cloth.
+`McCrafter' Razducim, Trapper cancels Make cloth sock: Needs 1 unused plant cloth.
+Asmel ïnuluthmik, broker cancels Make soap from tallow: Needs lye-containing item.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Asmel ïnuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Asmel ïnuluthmik, broker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth shoe: Needs 1 unused plant cloth.
+Asmel ïnuluthmik, broker cancels Make soap from tallow: Needs lye-containing item.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth sock: Needs 1 unused plant cloth.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth trousers: Needs 1 unused plant cloth.
+Kogan Asoliden, Butcher cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+`McCrafty' Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+Asmel ïnuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Asmel ïnuluthmik, broker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Asmel ïnuluthmik, broker cancels Make soap from tallow: Needs lye-containing item.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+`McCrafty' Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+ãteb Nishkegeth has grown to become a Alpaca.
+`McCrafty' Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+Goden Shemathel, Fisherdwarf has created Shin Bukät, a water buffalo bone greaves!  He claims it as a family heirloom.
+Goden Shemathel has become a Bone Carver.
+Kogan Asoliden, Butcher cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+Kogan Asoliden, Butcher cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Kogan Asoliden, Butcher cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+Kogan Asoliden, Butcher cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth sock: Needs 1 unused plant cloth.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth trousers: Needs 1 unused plant cloth.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth robe: Needs 1 unused plant cloth.
+Dumat Rigïthstibmer, Woodcutter cancels Make cloth shoe: Needs 1 unused plant cloth.
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+`Handyman' Duthalurvad, Herbalist cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+x3
+Limul Mosuskeng, Engraver cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Limul Mosuskeng, Engraver cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Limul Mosuskeng, Engraver cancels Make soap from tallow: Needs lye-containing item.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+Kogan Asoliden, Butcher cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+x3
+A elven caravan from Osiula has arrived.
+Asmel ïnuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Asmel ïnuluthmik, broker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Asmel ïnuluthmik, broker cancels Make soap from tallow: Needs lye-containing item.
+Asmel ïnuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Nomal Edtñldeduk, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+x3
+`McFarmer' Atåslek, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+x2
+`McCrafty' Edâmadag, Carpenter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Merchants have arrived and are unloading their goods.
