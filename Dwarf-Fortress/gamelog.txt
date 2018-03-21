@@ -8013,3 +8013,25 @@ Kogan Asoliden, Butcher cancels Press liquid from paste: Needs 150 non-pressed P
 `Liz McCrafty' Zuntårked, Mason cancels Make soap from oil: Needs lye-containing item.
 `Liz McCrafty' Zuntårked, Mason cancels Make soap from tallow: Needs lye-containing item.
 `Liz McCrafty' Zuntårked, Mason cancels Make cloth shoe: Needs 1 unused plant cloth.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+`McCrafter' Razducim, Trapper cancels Remove Stairs/Ramps: Inappropriate dig square.
+x2
+Tobul Lolortishis has become a Recruit.
+Erush Dosåmmîrul has become a Recruit.
+Obok Fikodtekkud has become a Wrestler.
+Fikod R°tzon has become a Macedwarf.
+Kumil Veshsazir has become a Recruit.
+Logem Ginetgeshud has become a Recruit.
+Mafol Tadbomrek has become a Recruit.
+Råsen Nomallaz has become a Recruit.
+Reg Udildäg has become a Recruit.
+`Barbie McStrongarm' Logemdesis has become a militia captain.
+Dastot Edâmmeng, Miner cancels Remove Stairs/Ramps: Inappropriate dig square.
+Olin Konosbukät, Miner cancels Remove Stairs/Ramps: Inappropriate dig square.
+Nomal Edtñldeduk, Planter cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Nomal Edtñldeduk, Planter cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Nomal Edtñldeduk, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
+Olin Konosbukät, Miner cancels Remove Stairs/Ramps: Inappropriate dig square.
+Kogan Asoliden, Butcher cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+`McFarmer' Atåslek, Planter cancels Render fat: Needs 150 unrotten FAT RENDER_MAT-producing glob.
