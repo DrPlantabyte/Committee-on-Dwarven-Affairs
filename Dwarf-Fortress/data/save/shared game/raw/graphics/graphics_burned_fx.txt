@@ -3,7 +3,7 @@ graphics_burned_fx
 burnedfx 12x12 graphics set
 ===================================
 Tilesize: 12x12
-DF Compatibility: 44.05
+DF Compatibility: 44.07
 
 *For personal use in Slaves to Armok: God of Blood Chapter II: Dwarf Fortress.*
 
