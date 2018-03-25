@@ -8117,3 +8117,110 @@ Construct wooden Bin (10) has been completed.
 Kib Ducimtholest, Miner cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
 Nomal Edt–ldeduk, Planter cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
 Render fat (10) has been completed.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+The flying ({bismuth bronze bolt}) strikes the badger boar in the right rear leg, tearing the muscle!
+The flying ({bismuth bronze bolt}) strikes the badger boar in the lower body, tearing the muscle and tearing the guts!
+The badger boar looks sick!
+Kol Œdeshtƒn, Herbalist: I have improved my archery.  That was very satisfying!
+The badger boar vomits.
+Kol Œdeshtƒn, Herbalist: I have improved my crossbow.  That was very satisfying!
+`Liz McCrafty' ZuntŒrked, Mason cancels Make soap from tallow: Needs lye-containing item.
+The badger boar retches.
+The badger boar vomits.
+The flying ({bismuth bronze bolt}) strikes the badger boar in the right front leg, chipping the bone!
+A tendon has been torn!
+The badger boar falls over.
+The badger boar retches.
+`Liz McCrafty' ZuntŒrked, Mason cancels Make soap from oil: Needs lye-containing item.
+The badger boar retches.
+The badger boar vomits.
+The badger boar retches.
+The badger boar vomits.
+The badger boar retches.
+Kogan Asoliden, Butcher cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+The badger boar vomits.
+The badger boar retches.
+The flying ({bismuth bronze bolt}) strikes the badger boar in the left rear leg, chipping the bone!
+A tendon has been torn!
+The badger boar vomits.
+The flying ({bismuth bronze bolt}) strikes the badger boar in the left rear paw, fracturing the bone!
+An artery has been opened by the attack, a sensory nerve has been severed, a ligament has been torn and a tendon has been torn!
+The force bends the left rear leg, tearing apart the skin and bruising the lower spine's nervous tissue!
+A tendon in the lower spine has been bruised!
+The badger boar retches.
+The badger boar vomits.
+The badger boar retches.
+The badger boar vomits.
+The badger boar retches.
+Kib Ducimtholest, Miner cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+The badger boar vomits.
+The badger boar retches.
+The badger boar vomits.
+The badger boar retches.
+The badger boar vomits.
+The badger boar retches.
+The badger boar vomits.
+The badger boar retches.
+The badger boar vomits.
+The badger boar retches.
+The badger boar vomits.
+The badger boar retches.
+The flying ({bismuth bronze bolt}) strikes the badger boar in the left front leg, chipping the bone!
+A motor nerve has been severed and a tendon has been torn!
+The badger boar vomits.
+The badger boar retches.
+The flying ({bismuth bronze bolt}) strikes the badger boar in the left front leg, fracturing the bone!
+A tendon has been torn!
+The badger boar retches.
+The badger boar vomits.
+The badger boar retches.
+The badger boar vomits.
+The flying ({bismuth bronze bolt}) strikes the badger boar in the lower body, tearing the muscle and tearing the guts!
+The badger boar looks even more sick!
+The flying ({bismuth bronze bolt}) strikes the badger boar in the lower body, tearing the muscle and tearing the lower spine's nervous tissue!
+A tendon in the lower spine has been torn!
+The flying ({bismuth bronze bolt}) strikes the badger boar in the right rear leg, chipping the bone!
+A motor nerve has been severed and a tendon has been torn!
+Kogan Asoliden, Butcher cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Nomal Edt–ldeduk, Planter cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Kol Œdeshtƒn, Herbalist cancels Hunt: No ammunition.
+The flying ({bismuth bronze bolt}) strikes the badger boar in the head, tearing the muscle and fracturing the skull!
+An artery has been opened by the attack!
+A tendon in the skull has been torn!
+The force twists the neck, tearing apart the fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+Kol Œdeshtƒn, Herbalist: I must withdraw!
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+`McCrafter' Razducim, Trapper cancels Make cloth sock: Needs 1 unused plant cloth.
+`McCrafter' Razducim, Trapper cancels Make cloth trousers: Needs 1 unused plant cloth.
+`McCrafter' Razducim, Trapper cancels Make cloth robe: Needs 1 unused plant cloth.
+`McCrafter' Razducim, Trapper cancels Make cloth shoe: Needs 1 unused plant cloth.
+Asmel •nuluthmik, broker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+`Lady Stonesmasher' Debbenurist has created a masterpiece granite table!
+•nul Unibtathtat, Thresher cancels Dump Item: Item inaccessible.
+Kogan Asoliden, Butcher cancels Dump Item: Drop-off inaccessible.
+Melbil Al†thetur, mayor cancels Dump Item: Item inaccessible.
+Kogan Asoliden, Butcher cancels Dump Item: Drop-off inaccessible.
+Kib Ducimtholest, Miner cancels Dump Item: Drop-off inaccessible.
+Kogan Asoliden, Butcher cancels Dump Item: Drop-off inaccessible.
+x2
+Nomal Edt–ldeduk, Planter cancels Plant Seeds: Needs hemp seeds.
+Lolor Berm”zir, Cheese Maker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Kogan Asoliden, Butcher cancels Dump Item: Drop-off inaccessible.
+Nomal Edt–ldeduk, Planter cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Kogan Asoliden, Butcher cancels Dump Item: Drop-off inaccessible.
+Asmel •nuluthmik, broker cancels Make soap from tallow: Needs lye-containing item.
+`McCrafter' Razducim, Trapper cancels Make cloth sock: Needs 1 unused plant cloth.
+`McCrafter' Razducim, Trapper cancels Make cloth trousers: Needs 1 unused plant cloth.
+`McCrafter' Razducim, Trapper cancels Make cloth robe: Needs 1 unused plant cloth.
+`McCrafter' Razducim, Trapper cancels Make cloth shoe: Needs 1 unused plant cloth.
+`AFFLICTED' Atzulber, Tanner has transformed into a weregila monster!
+`McCrafter' Razducim, Trapper cancels Make cloth shoe: Needs 1 unused plant cloth.
+`McCrafter' Razducim, Trapper cancels Make cloth sock: Needs 1 unused plant cloth.
+`McCrafter' Razducim, Trapper cancels Make cloth trousers: Needs 1 unused plant cloth.
+Momuz Beridash, Potash Maker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+`Handyman' Duthalurvad, Herbalist cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+`McCrafter' Razducim, Trapper cancels Make cloth robe: Needs 1 unused plant cloth.
+`Handyman' Duthalurvad, Herbalist cancels Make soap from oil: Needs lye-containing item.
+`Handyman' Duthalurvad, Herbalist cancels Make soap from tallow: Needs lye-containing item.
