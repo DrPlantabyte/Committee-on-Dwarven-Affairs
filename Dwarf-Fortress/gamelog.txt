@@ -8224,3 +8224,350 @@ Momuz Beridash, Potash Maker cancels Press liquid from paste: Needs 150 non-pres
 `McCrafter' Razducim, Trapper cancels Make cloth robe: Needs 1 unused plant cloth.
 `Handyman' Duthalurvad, Herbalist cancels Make soap from oil: Needs lye-containing item.
 `Handyman' Duthalurvad, Herbalist cancels Make soap from tallow: Needs lye-containing item.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Momuz Beridash, Potash Maker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+`AFFLICTED' Atzulber, Weregila Monster Tanner has transformed into a dwarf!
+Asmel •nuluthmik, broker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Asmel •nuluthmik, broker cancels Make soap from tallow: Needs lye-containing item.
+Asmel •nuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Nomal Edt–ldeduk, Planter cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Nomal Edt–ldeduk, Planter cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Limul Mosuskeng, Engraver cancels Make soap from tallow: Needs lye-containing item.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+Limul Mosuskeng, Engraver cancels Make soap from tallow: Needs lye-containing item.
+Limul Mosuskeng, Engraver cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Limul Mosuskeng, Engraver cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+Onget Av‚drig•th, Animal Dissector cancels Make cloth sock: Needs 1 unused plant cloth.
+Onget Av‚drig•th, Animal Dissector cancels Make cloth trousers: Needs 1 unused plant cloth.
+Onget Av‚drig•th, Animal Dissector cancels Make cloth robe: Needs 1 unused plant cloth.
+Onget Av‚drig•th, Animal Dissector cancels Make cloth shoe: Needs 1 unused plant cloth.
+Lolor Berm”zir, Cheese Maker cancels Spin Thread: Needs unrotten hair/wool body part.
+Lolor Berm”zir, Cheese Maker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Asmel •nuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Momuz Beridash, Potash Maker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+`Lady Stonesmasher' Debbenurist has created a masterpiece granite table!
+Goden Shemathel has created a masterpiece pond turtle shell ring!
+Asmel •nuluthmik, broker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Asmel •nuluthmik, broker cancels Make soap from tallow: Needs lye-containing item.
+Asmel •nuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Asmel •nuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Goden Shemathel has created a masterpiece pond turtle shell ring!
+Asmel •nuluthmik, broker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Asmel •nuluthmik, broker cancels Make soap from tallow: Needs lye-containing item.
+Asmel •nuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+`Lady Stonesmasher' Debbenurist has created a masterpiece gabbro table!
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+It has started raining.
+Limul Mosuskeng, Engraver cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Limul Mosuskeng, Engraver cancels Make soap from tallow: Needs lye-containing item.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+Melbil Al†thetur, mayor has ended a mandate.
+Dumat Rig•thstibmer, Woodcutter cancels Make cloth robe: Needs 1 unused plant cloth.
+Lolor Berm”zir, Cheese Maker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Dumat Rig•thstibmer, Woodcutter cancels Make cloth shoe: Needs 1 unused plant cloth.
+Asmel •nuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Dumat Rig•thstibmer, Woodcutter cancels Make cloth sock: Needs 1 unused plant cloth.
+Asmel •nuluthmik, broker cancels Make soap from tallow: Needs lye-containing item.
+Dumat Rig•thstibmer, Woodcutter cancels Make cloth trousers: Needs 1 unused plant cloth.
+Asmel •nuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Dumat Rig•thstibmer, Woodcutter cancels Make cloth robe: Needs 1 unused plant cloth.
+`Lady Stonesmasher' Debbenurist has created a masterpiece quartzite table!
+An animal has grown to become a Stray Llama.
+Asmel •nuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Asmel •nuluthmik, broker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Asmel •nuluthmik, broker cancels Make soap from tallow: Needs lye-containing item.
+Asmel •nuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Dumat Rig•thstibmer, Woodcutter cancels Make cloth shoe: Needs 1 unused plant cloth.
+Dumat Rig•thstibmer, Woodcutter cancels Make cloth sock: Needs 1 unused plant cloth.
+Dumat Rig•thstibmer, Woodcutter cancels Make cloth trousers: Needs 1 unused plant cloth.
+Dumat Rig•thstibmer, Woodcutter cancels Make cloth robe: Needs 1 unused plant cloth.
+`Lady Stonesmasher' Debbenurist has created a masterpiece granite throne!
+Momuz Beridash, Potash Maker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Dumat Rig•thstibmer, Woodcutter cancels Make cloth shoe: Needs 1 unused plant cloth.
+Dumat Rig•thstibmer, Woodcutter cancels Make cloth sock: Needs 1 unused plant cloth.
+Cog Kuletudesh, Engraver cancels Pen/Pasture Urvad Mafoludesh, Duck (Tame): Animal inaccessible.
+Lolor Berm”zir, Cheese Maker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+The weather has cleared.
+Lolor Berm”zir, Cheese Maker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+`Handyman' Duthalurvad, Herbalist cancels Make soap from tallow: Needs lye-containing item.
+`Handyman' Duthalurvad, Herbalist cancels Make soap from oil: Needs lye-containing item.
+The badger boar has become enraged!
+The badger boar stands up.
+The badger boar misses the metalcrafter!
+The metalcrafter punches the badger boar in the right eye tooth with his left hand and the severed part sails off in an arc!
+The metalcrafter punches the badger boar in the left front leg with his left hand, bruising the muscle!
+The badger boar misses the metalcrafter!
+The metalcrafter charges at the badger boar!
+The badger boar looks surprised by the ferocity of The metalcrafter's onslaught!
+The metalcrafter collides with the badger boar!
+The badger boar is knocked over!
+The badger boar stands up.
+The metalcrafter punches the badger boar in the left rear leg with his right hand, bruising the muscle!
+The badger boar misses the metalcrafter!
+M–thkat ¢deshtƒn, Metalcrafter: The battle rages...  I laugh in the face of death!
+The metalcrafter grabs the badger boar by the third left rear toe with his left lower arm!
+The metalcrafter charges at the badger boar!
+The metalcrafter collides with the badger boar!
+The badger boar is knocked over!
+The badger boar stands up.
+The badger boar misses the metalcrafter!
+The metalcrafter punches the badger boar in the head with his right hand, bruising the muscle!
+The badger boar has been stunned!
+The badger boar has been stunned again!
+The force pulls the neck, tearing apart the fat and bruising the muscle and bruising the upper spine's nervous tissue!
+A tendon in the upper spine has been bruised!
+The badger boar falls over.
+The metalcrafter releases the grip of The metalcrafter's left lower arm from The badger boar's third left rear toe.
+`McCrafty' Sanrebimush, Woodcutter cancels Pen/Pasture Urvad Mafoludesh, Duck (Tame): Animal inaccessible.
+Dumat Rig•thstibmer, Woodcutter cancels Make cloth robe: Needs 1 unused plant cloth.
+The badger boar is no longer stunned.
+Dumat Rig•thstibmer, Woodcutter cancels Make cloth shoe: Needs 1 unused plant cloth.
+Kogan Asoliden, Butcher cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Dumat Rig•thstibmer, Woodcutter cancels Make cloth sock: Needs 1 unused plant cloth.
+Badger Boar is no longer enraged.
+Asmel •nuluthmik, broker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Asmel •nuluthmik, broker cancels Make soap from tallow: Needs lye-containing item.
+Asmel •nuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+`Lady Stonesmasher' Debbenurist has created a masterpiece granite table!
+The badger boar has become enraged!
+The badger boar misses the turkey hen!
+The turkey hen misses the badger boar!
+The badger boar attacks the turkey hen but She jumps away!
+The badger boar scratches the stray hen in the lower body, lightly tapping the target!
+The stray hen snatches at the badger boar in the upper body with her first toe, left foot, denting the skin and bruising the fat!
+The badger boar scratches the stray hen in the right foot, tearing the fat and bruising the muscle!
+The force bends the right ankle!
+The stray hen misses the badger boar!
+The badger boar misses the stray hen!
+The stray hen snatches at the badger boar in the lower body with her first toe, right foot, denting the skin and bruising the muscle and bruising the spleen!
+The badger boar misses the stray hen!
+The stray hen snatches at the badger boar in the left rear paw with her first toe, left foot, denting the skin and bruising the muscle!
+The force bends the left rear leg!
+The badger boar scratches the stray hen in the upper body, tearing the fat!
+The stray hen snatches at the badger boar in the right rear leg with her first toe, left foot, denting the skin and bruising the fat!
+The badger boar attacks the stray hen but She jumps away!
+The badger boar misses the stray hen!
+The stray hen snatches at the badger boar in the left rear leg with her first toe, right foot, denting the skin and bruising the fat!
+The badger boar misses the stray hen!
+The badger boar leaps at the stray hen!
+The stray hen jumps away!
+The stray hen snatches at the badger boar in the right front paw with her first toe, left foot, denting the skin!
+The badger boar scratches the stray hen in the lower body, tearing the fat and bruising the muscle and bruising the spleen!
+The badger boar scratches the stray hen in the right lower leg, tearing the skin!
+The badger boar charges at the stray hen!
+The stray hen jumps away!
+The badger boar misses the stray hen!
+The badger boar charges at the stray hen!
+The stray hen jumps away!
+The badger boar scratches the stray hen in the upper body, tearing the fat and bruising the muscle and bruising the left true ribs!
+The badger boar attacks the stray hen but She jumps away!
+The badger boar misses the stray hen!
+The badger boar charges at the stray hen!
+The stray hen jumps away!
+The badger boar misses the stray hen!
+The badger boar attacks the stray hen but She jumps away!
+The badger boar scratches the stray hen in the fourth toe, left foot, but the attack glances away!
+The force bends the left foot, bruising the muscle and the bone and bruising the left ankle's muscle and the bone!
+A ligament has been bruised and a tendon has been bruised!
+A ligament in the left ankle has been bruised and a tendon has been bruised!
+The badger boar misses the stray hen!
+The badger boar charges at the stray hen!
+The stray hen jumps away!
+The badger boar misses the stray hen!
+The badger boar attacks the stray hen but She jumps away!
+The badger boar misses the stray hen!
+The badger boar attacks the stray hen but She jumps away!
+The badger boar misses the stray hen!
+The badger boar attacks the stray hen but She jumps away!
+The badger boar misses the stray hen!
+The badger boar charges at the stray hen!
+The stray hen jumps away!
+The badger boar misses the stray hen!
+Lolor Berm”zir, Cheese Maker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Asmel •nuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+The badger boar attacks the stray hen but She jumps away!
+The badger boar misses the stray hen!
+The badger boar charges at the stray hen!
+The stray hen jumps away!
+The badger boar misses the stray hen!
+The badger boar attacks the stray hen but She jumps away!
+The badger boar misses the stray hen!
+The badger boar scratches the stray hen in the left foot, tearing apart the skin!
+The badger boar attacks the stray hen but She jumps away!
+Asmel •nuluthmik, broker cancels Make soap from tallow: Needs lye-containing item.
+The badger boar attacks the stray hen but She jumps away!
+The badger boar misses the stray hen!
+The badger boar attacks the stray hen but She jumps away!
+The badger boar misses the stray hen!
+The badger boar scratches the stray hen in the left lower leg, tearing the skin!
+The badger boar charges at the stray hen!
+The stray hen jumps away!
+The badger boar misses the stray hen!
+The badger boar attacks the stray hen but She jumps away!
+The badger boar misses the stray hen!
+The badger boar charges at the stray hen!
+The stray hen jumps away!
+The badger boar scratches the stray hen in the right lower leg, tearing the fat!
+The badger boar misses the stray hen!
+The badger boar charges at the stray hen!
+The stray hen jumps away!
+The badger boar misses the stray hen!
+The badger boar attacks the stray hen but She jumps away!
+The badger boar scratches the stray hen in the left foot, tearing the fat and bruising the bone!
+The force pulls the left ankle!
+Asmel •nuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+The badger boar scratches the stray hen in the left foot, tearing the fat!
+The badger boar charges at the stray hen!
+The badger boar collides with the stray hen!
+The stray hen is knocked over and tumbles backward!
+The badger boar scratches the manager in the left lower leg, lightly tapping the target!
+The manager punches the badger boar in the right front leg with his right hand, bruising the fat!
+The badger boar attacks the manager but He jumps away!
+Badger Boar is no longer enraged.
+Rith M”rulkel, manager: Has the tide turned?  I laugh in the face of death!
+The manager attacks the badger boar but He jumps away!
+The manager punches the badger boar in the right front paw with his right hand, bruising the fat!
+The manager punches the badger boar in the right rear leg with his right hand, but the attack glances away!
+The manager punches the badger boar in the right front leg with his right hand, bruising the fat!
+The manager grabs the badger boar by the fourth right rear toe with his left lower arm!
+The manager throws the badger boar by the fourth right rear toe with The manager's left lower arm!
+The manager releases the grip of The manager's left lower arm from The badger boar's fourth right rear toe.
+The manager punches the badger boar in the left rear leg with his right hand, bruising the muscle!
+The badger boar's left front leg skids along the ground, bruising the muscle!
+The manager punches the badger boar in the right rear paw with his left hand, bruising the muscle!
+The badger boar slams into an obstacle!
+The badger boar is no longer stunned.
+The badger boar stands up.
+Lolor Berm”zir, Cheese Maker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Nomal Edt–ldeduk, Planter cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Asmel •nuluthmik, broker cancels Make soap from tallow: Needs lye-containing item.
+Asmel •nuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Momuz Beridash, Potash Maker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+`Liz McCrafty' ZuntŒrked, Mason cancels Make soap from tallow: Needs lye-containing item.
+Asmel •nuluthmik, broker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Asmel •nuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Kogan Asoliden, Butcher cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Limul Mosuskeng, Engraver cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Limul Mosuskeng, Engraver cancels Make soap from tallow: Needs lye-containing item.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+Lolor Berm”zir, Cheese Maker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+It has started raining.
+`McCrafty' Ed‰madag has created a masterpiece plum wood bed!
+Limul Mosuskeng, Engraver cancels Make soap from tallow: Needs lye-containing item.
+`McCrafty' Ed‰madag, Carpenter cancels Construct Bed: Needs logs.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+`McCrafty' Ed‰madag, Carpenter cancels Construct Bed: Needs logs.
+`McCrafter' Razducim, Trapper cancels Make cloth trousers: Needs 1 unused plant cloth.
+`McCrafter' Razducim, Trapper cancels Make cloth shoe: Needs 1 unused plant cloth.
+`McCrafter' Razducim, Trapper cancels Make cloth robe: Needs 1 unused plant cloth.
+`AFFLICTED' Atzulber, Tanner has transformed into a weregila monster!
+`McCrafter' Razducim, Trapper cancels Make cloth sock: Needs 1 unused plant cloth.
+At¡r Oddomoshosh, Gem Cutter cancels Make wooden crossbow: Needs logs.
+Lolor Berm”zir, Cheese Maker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+At¡r Oddomoshosh, Gem Cutter cancels Make wooden crossbow: Needs logs.
+`McCrafter' Razducim, Trapper cancels Make cloth shoe: Needs 1 unused plant cloth.
+Ed‰m M”rulakath, Carpenter cancels Construct Bed: Needs logs.
+Limul Mosuskeng, Engraver cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+`McCrafty' Ed‰madag, Carpenter cancels Construct Bed: Needs logs.
+`Liz McCrafty' ZuntŒrked, Mason cancels Make soap from tallow: Needs lye-containing item.
+`McCrafter' Razducim, Trapper cancels Make cloth sock: Needs 1 unused plant cloth.
+`Liz McCrafty' ZuntŒrked, Mason cancels Make soap from oil: Needs lye-containing item.
+`McCrafter' Razducim, Trapper cancels Make cloth trousers: Needs 1 unused plant cloth.
+`McCrafter' Razducim, Trapper cancels Make cloth robe: Needs 1 unused plant cloth.
+Goden Shemathel has created a masterpiece pond turtle shell ring!
+Lolor Berm”zir, Cheese Maker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+At¡r Oddomoshosh, Gem Cutter cancels Make wooden crossbow: Needs logs.
+Ed‰m M”rulakath, Carpenter cancels Construct Bed: Needs logs.
+Momuz Beridash, Potash Maker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Goden Shemathel has created a masterpiece reindeer bone bolts [5]!
+Ed‰m M”rulakath, Carpenter cancels Construct Bed: Needs logs.
+You have struck crystal opal!
+The badger boar has become enraged!
+`AFFLICTED' Atzulber, Weregila Monster Tanner has transformed into a dwarf!
+The badger boar scratches the boar in the left rear leg, tearing the fat and bruising the muscle!
+The boar kicks the badger boar in the right front leg with his right rear hoof, bruising the muscle!
+The badger boar attacks the boar but He jumps away!
+The badger boar misses the boar!
+The boar kicks the badger boar in the upper body with his right rear hoof, bruising the muscle and bruising the heart!
+The badger boar misses the boar!
+The boar kicks the badger boar in the right front leg with his right front hoof, bruising the fat!
+The badger boar scratches the boar in the lower body, tearing the fat!
+The badger boar attacks the boar but He jumps away!
+The boar kicks the badger boar in the head with his right rear hoof, bruising the muscle!
+The force pulls the neck, tearing apart the skin and bruising the fat!
+The badger boar attacks the boar but He jumps away!
+The boar kicks the badger boar in the left rear leg with his right rear hoof, bruising the muscle!
+The boar kicks the badger boar in the upper body with his right front hoof, bruising the muscle, jamming the left true ribs through the left lung and tearing the left lung!
+The badger boar is having trouble breathing!
+The boar kicks the badger boar in the right front paw with his right front hoof, bruising the bone!
+The force twists the right front leg, tearing apart the skin!
+`Handyman' Duthalurvad, Herbalist cancels Make soap from tallow: Needs lye-containing item.
+`Lady Chop' AtŒstenshed, Planter cancels Store Item in Stockpile: Interrupted by a badger boar.
+The badger boar misses the planter!
+The planter grabs the badger boar by the teeth with her left upper arm!
+The planter throws the badger boar by the teeth with The planter's left upper arm!
+The planter punches the badger boar in the first left rear toe with her left hand, shattering the nail!
+The badger boar slams into an obstacle!
+The badger boar stands up.
+`Lady Chop' AtŒstenshed, Planter: In the midst of conflict...  I laugh in the face of death!
+The planter punches the badger boar in the lower body with her left hand, bruising the fat!
+The badger boar misses the planter!
+The planter punches the badger boar in the left front paw with her right hand, bruising the fat!
+The planter charges at the badger boar!
+The planter collides with the badger boar!
+The badger boar is knocked over and tumbles backward!
+The boar kicks the badger boar in the head with his left rear hoof, bruising the muscle and bruising the skull!
+The force bends the neck, tearing apart the fat and bruising the muscle and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+`Handyman' Duthalurvad, Herbalist cancels Make soap from oil: Needs lye-containing item.
+The badger boar is no longer stunned.
+Badger Boar is no longer enraged.
+The planter stands up.
+Lolor Berm”zir, Cheese Maker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Asmel •nuluthmik, broker cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Asmel •nuluthmik, broker cancels Make soap from tallow: Needs lye-containing item.
+Goden Shemathel has created a masterpiece reindeer bone bolts [5]!
+Asmel •nuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Goden Shemathel has created a masterpiece pond turtle shell ring!
+`McCrafter' Razducim, Trapper cancels Make cloth sock: Needs 1 unused plant cloth.
+Goden Shemathel has created a masterpiece reindeer bone bolts [5]!
+`McCrafter' Razducim, Trapper cancels Make cloth trousers: Needs 1 unused plant cloth.
+`McCrafter' Razducim, Trapper cancels Make cloth robe: Needs 1 unused plant cloth.
+`McCrafty' Ed‰madag, Carpenter cancels Construct Bed: Needs logs.
+`McCrafter' Razducim, Trapper cancels Make cloth shoe: Needs 1 unused plant cloth.
+`McCrafty' Ed‰madag, Carpenter cancels Construct Bed: Needs logs.
+`Handyman' Duthalurvad, Herbalist cancels Make wooden crossbow: Needs logs.
+Lolor Berm”zir, Cheese Maker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Kogan Asoliden, Butcher cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+At¡r Oddomoshosh, Gem Cutter cancels Make wooden crossbow: Needs logs.
+Dumat Rig•thstibmer, Woodcutter cancels Make cloth shoe: Needs 1 unused plant cloth.
+Dumat Rig•thstibmer, Woodcutter cancels Make cloth sock: Needs 1 unused plant cloth.
+`Handyman' Duthalurvad, Herbalist cancels Construct Bed: Needs logs.
+Goden Shemathel has created a masterpiece reindeer bone bolts [5]!
+Limul Mosuskeng, Engraver cancels Make soap from tallow: Needs lye-containing item.
+`Lady Chop' AtŒstenshed, Planter cancels Construct Bed: Needs logs.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+Lolor Berm”zir, Cheese Maker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+At¡r Oddomoshosh, Gem Cutter cancels Make wooden crossbow: Needs logs.
+`McCrafty' Ed‰madag, Carpenter cancels Construct Bed: Needs logs.
+Datan Zonvod, Armorer cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Asmel •nuluthmik, broker cancels Make soap from tallow: Needs lye-containing item.
+`McCrafty' Ed‰madag, Carpenter cancels Construct Bed: Needs logs.
+Asmel •nuluthmik, broker cancels Make soap from oil: Needs lye-containing item.
+Dumat Rig•thstibmer, Woodcutter cancels Make cloth robe: Needs 1 unused plant cloth.
+Melbil Al†thetur, mayor has mandated the construction of certain goods.
+Goden Shemathel has created a masterpiece pond turtle shell ring!
+Limul Mosuskeng, Engraver cancels Press liquid from paste: Needs 150 non-pressed PRESS_LIQUID_MAT-producing glob.
+Kib Ducimtholest, Miner cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+`Lady Chop' AtŒstenshed, Planter cancels Construct Bed: Needs logs.
+Limul Mosuskeng, Engraver cancels Make soap from tallow: Needs lye-containing item.
+`Lady Chop' AtŒstenshed, Planter cancels Construct Bed: Needs logs.
+It is now summer.
+Limul Mosuskeng, Engraver cancels Make soap from oil: Needs lye-containing item.
+At¡r Oddomoshosh, Gem Cutter cancels Make wooden crossbow: Needs logs.
+`McArcher' Stƒkudmegid, Pump Operator cancels Assemble wooden ballista arrow: Needs logs.
+The dead walk.  Hide while you still can!

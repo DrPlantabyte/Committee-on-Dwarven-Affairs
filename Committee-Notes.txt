@@ -173,3 +173,14 @@ Elves! There are elves in our trade depot! Well, we'd best give them something a
 	1st of Slate
 Migrants! Excellent! I need fresh recruits for our new military!
 -McFancypants
+
+
+~~~ Year 62 ~~~
+
+	26th of Felsite
+I asked the bookkeeper to tally our drink reserves, and he reported that we are down to a single tankard of wine. Naturally, I finished my tankard and ordered more to be produced!
+-McFancypants
+
+	1st of Hematite
+Another slugman necromancer with goblin zombies! We'll bury them like we did the others. Attack- Oh look, my shift is up! How convenient
+-McFancypants
