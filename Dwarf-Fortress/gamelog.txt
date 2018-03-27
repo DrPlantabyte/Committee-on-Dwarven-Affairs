@@ -24878,3 +24878,101 @@ The mayor loses hold of the (pig tail cap).
 The dwarf swordsdwarf corpse slashes the mayor in the head with his ({bronze short sword}) and the severed part sails off in an arc!
 `AFFLICTED' Atzulber, Tanner has been elected mayor.
 *** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+** Loading Fortress **
+The Stray Horse (Tame) has been missing for a week.
+The dwarf pikedwarf corpse stabs the stray horse in the left front leg with her ({bronze pike}), tearing the muscle!
+The dwarf pikedwarf corpse stabs the stray horse in the lower body with her ({bronze pike}), tearing the muscle and tearing the guts!
+The stray horse looks sick!
+The stray horse vomits.
+The dwarf pikedwarf corpse stabs the stray horse in the right front leg with her ({bronze pike}), tearing the muscle!
+The stray horse falls over.
+The dwarf pikedwarf corpse bashes the stray horse in the upper body with the shaft of her ({bronze pike}), bruising the fat!
+The dwarf pikedwarf corpse stabs the stray horse in the right front leg with her ({bronze pike}), tearing the fat!
+The dwarf pikedwarf corpse stabs the stray horse in the head with her ({bronze pike}), tearing the muscle and fracturing the skull!
+A tendon in the skull has been torn!
+The ({bronze pike}) has lodged firmly in the wound!
+The force twists the neck, tearing apart the skin!
+The dwarf pikedwarf corpse pulls on the embedded ({bronze pike}).
+The dwarf pikedwarf corpse gains possession of the ({bronze pike}).
+The stray horse vomits.
+The dwarf pikedwarf corpse stabs the stray horse in the right rear leg with her ({bronze pike}), tearing the muscle!
+The dwarf pikedwarf corpse stabs the stray horse in the upper body with her ({bronze pike}), tearing the muscle and fracturing the left true ribs!
+A tendon in the left true ribs has been torn!
+The ({bronze pike}) has lodged firmly in the wound!
+The dwarf pikedwarf corpse pulls on the embedded ({bronze pike}).
+The dwarf pikedwarf corpse gains possession of the ({bronze pike}).
+The dwarf pikedwarf corpse scratches the stray horse in the upper body, tearing the fat and bruising the muscle and bruising the right lung!
+The dwarf pikedwarf corpse stabs the stray horse in the left front hoof with her ({bronze pike}), fracturing it!
+The force pulls the left front leg!
+The dwarf pikedwarf corpse stabs the stray horse in the right rear hoof with her ({bronze pike}), fracturing it!
+The Stray Yak Calf (Tame) has been missing for a week.
+The Stray Horse (Tame) has been missing for a week.
+The stray horse retches.
+The dwarf pikedwarf corpse stabs the stray horse in the lower body with her ({bronze pike}), tearing the muscle and tearing the pancreas!
+The ({bronze pike}) has lodged firmly in the wound!
+The dwarf pikedwarf corpse pulls on the embedded ({bronze pike}).
+The dwarf pikedwarf corpse gains possession of the ({bronze pike}).
+The dwarf pikedwarf corpse stabs the stray horse in the right rear hoof with her ({bronze pike}) and the injured part is cloven asunder!
+The ({bronze pike}) has lodged firmly in the wound!
+The force bends the right rear leg!
+The dwarf pikedwarf corpse pulls on the embedded ({bronze pike}).
+The dwarf pikedwarf corpse gains possession of the ({bronze pike}).
+The dwarf pikedwarf corpse stabs the stray horse in the upper body with her ({bronze pike}), tearing the muscle and shattering the right floating ribs!
+A tendon in the right floating ribs has been torn!
+The ({bronze pike}) has lodged firmly in the wound!
+The dwarf pikedwarf corpse stabs the stray horse in the right front hoof with her ({bronze pike}), fracturing it!
+The dwarf pikedwarf corpse stabs the stray horse in the head with her ({bronze pike}), tearing the muscle, fracturing the skull and tearing the brain!
+A tendon in the skull has been torn!
+The stray horse has been knocked unconscious!
+`AFFLICTED' Atzulber, mayor has been re-elected.
+The Stray Llama (Tame) has been missing for a week.
+*** STARTING NEW GAME ***
+** Starting Reclaim **
+`Macey McMacefac' Bekarfikod, Peasant cancels Clean: Horrified.
+`Macer' Ikudrimtar, Peasant cancels Gather Plants: Horrified.
+Datan Zonvod, Armorer has been found dead.
+Something has collapsed on the surface!
+`Lady Mace' Desisrigïth, Peasant cancels Dig: Unconscious.
+The peasant's lower body takes the full force of the impact, but it is deflected by the peasant's (cave spider silk cloak)!
+The peasant's left upper leg takes the full force of the impact, but it is deflected by the peasant's (cave spider silk cloak)!
+ãteb Nishkegeth, Alpaca (Tame) has been found dead.
+The peasant regains consciousness.
+The peasant stands up.
+`Macey McMacefac' Bekarfikod, bookkeeper cancels Store Item in Stockpile: Horrified.
+The peasant is no longer stunned.
+Fath Lasganshorast, Dwarven Child has 
+Kogan Odshithilral, Dog (Tame) has 
+`Macey McMacefac' Bekarfikod, bookkeeper cancels Store Item in Stockpile: Horrified.
+x2
+Bomrek Esoslan, Craftsdwarf has been found dead.
+Rith Mîrulkel, Administrator has been found dead.
+`Macey McMacefac' Bekarfikod, bookkeeper cancels Store Owned Item: Horrified.
+x2
+x3
+You have struck saltpeter!
+`Macey McMacefac' Bekarfikod, bookkeeper cancels Store Owned Item: Horrified.
+x2
+x3
+`Macer' Ikudrimtar, chief medical dwarf cancels Harvest Plants: Horrified.
+`Macey McMacefac' Bekarfikod, bookkeeper cancels Harvest Plants: Horrified.
+`McFarmer' Atåslek, Ghostly Planter has risen and is haunting the fortress!
+`Macer' Ikudrimtar, chief medical dwarf cancels Harvest Plants: Horrified.
+`Macer' Ikudrimtar, chief medical dwarf cancels Store Item in Stockpile: Horrified.
+x2
+x3
+`Macey McMacefac' Bekarfikod, bookkeeper cancels Store Owned Item: Horrified.
+`Macey McMacefac' Bekarfikod, bookkeeper cancels Store Item in Stockpile: Horrified.
+`Macer' Ikudrimtar, chief medical dwarf cancels Drink: Horrified.
+x2
+Melbil Ifinãteb, Shearer has been found dead.
+`Lady Chop' Atåstenshed, Ghostly Recruit has risen and is haunting the fortress!
+Lolor Bermîzir, Ghostly Cheese Maker has risen and is haunting the fortress!
+You have struck native gold!
+`Captain Nil' Kadoldebben has become a militia commander.
+`Lady Mace' Desisrigïth has become a Miner.
+`Ziggy Blackbolt' Tantobul, expedition leader cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+It has started raining.
+`Ziggy Blackbolt' Tantobul, expedition leader cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+`McArcher' StÉkudmegid, Ghostly Pump Operator has risen and is haunting the fortress!
+`Macer' Ikudrimtar, chief medical dwarf cancels Gather Plants: Frightened.
