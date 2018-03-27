@@ -218,3 +218,11 @@ The ghosts of the dead now haunt us, and none of us know how to farm. We're poba
 Time to start building a catacomb to put the dead to rest.
 -Grim McDarkbrood
 
+	9th of Limestone
+We've run out of alcohol. It's only a matter of time before we are paralyzed by water poisoning. The end is near.
+-Grim McDarkbrood
+
+	15th of Limestone
+Trade caravan arrived. We traded the clothes of the dead for food and drink.
+-Grim McDarkbrood
+

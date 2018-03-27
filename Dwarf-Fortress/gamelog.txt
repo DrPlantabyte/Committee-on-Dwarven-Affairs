@@ -24976,3 +24976,24 @@ It has started raining.
 `Ziggy Blackbolt' Tantobul, expedition leader cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
 `McArcher' Stƒkudmegid, Ghostly Pump Operator has risen and is haunting the fortress!
 `Macer' Ikudrimtar, chief medical dwarf cancels Gather Plants: Frightened.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+`Ziggy Blackbolt' Tantobul, expedition leader cancels Brew drink from plant: Needs unrotten DRINK_MAT-producing plants.
+The weather has cleared.
+Tobul Rodimrimtar, Nanny Goat (Tame) has been found dead.
+Autumn has come.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+** Loading Fortress **
+`Mz Longshot' Idenginet, militia captain cancels Brew drink from plant: Needs empty food storage item.
+`Mz Longshot' Idenginet, militia captain cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+`Mz Longshot' Idenginet, militia captain cancels Brew drink from plant: Needs empty food storage item.
+`Mr Crossbow' Zimoddom has become a manager.
+The outpost liaison Kumil Gatizk–buk from Bomrek Riril has arrived.
+A caravan from Bomrek Riril has arrived.
+Their wagons have bypassed your inaccessible site.
+The merchants need a trade depot to unload their goods.
+It has started raining.
+Dumat Rig•thstibmer, Woodcutter has been found dead.
+Merchants have arrived and are unloading their goods.
+`Grower Blackbol' Tantobul has become a expedition leader.
