@@ -25050,3 +25050,15 @@ It has started raining.
 You have struck amethyst!
 Uzol Shovethgeshud, Bowyer cancels Drink: Shaken.
 The weather has cleared.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+`Macey McMacefac' Bekarfikod, bookkeeper cancels Process Plants: Needs unrotten processable plants.
+It has started raining.
+Uzol Shovethgeshud, Bowyer cancels Drink: Shaken.
+Logem Vab“kt”gum, Dyer cancels Brew drink from plant: Needs empty food storage item.
+Logem Vab“kt”gum, Dyer cancels Brew drink from fruit: Needs empty food storage item.
+Litast Isancog, Potash Maker cancels Prepare Lavish Meal: Needs unrotten cookable item.
+Litast Isancog, Potash Maker cancels Brew drink from plant: Needs empty food storage item.
+Litast Isancog, Potash Maker cancels Brew drink from fruit: Needs empty food storage item.
+Kumil Veshsazir, Ghostly Recruit has risen and is haunting the fortress!
+Litast Isancog, Potash Maker cancels Prepare Lavish Meal: Needs unrotten cookable item.
