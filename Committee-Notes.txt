@@ -226,3 +226,7 @@ We've run out of alcohol. It's only a matter of time before we are paralyzed by 
 Trade caravan arrived. We traded the clothes of the dead for food and drink.
 -Grim McDarkbrood
 
+	2nd of Timber
+Some desperate or ignorant souls have arrived. I'll put them to work. Make them useful in their final days before our inevitable destruction in this cruel, joyless world.
+-Grim McDarkbrood
+
