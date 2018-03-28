@@ -25062,3 +25062,18 @@ Litast Isancog, Potash Maker cancels Brew drink from plant: Needs empty food sto
 Litast Isancog, Potash Maker cancels Brew drink from fruit: Needs empty food storage item.
 Kumil Veshsazir, Ghostly Recruit has risen and is haunting the fortress!
 Litast Isancog, Potash Maker cancels Prepare Lavish Meal: Needs unrotten cookable item.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Litast Isancog, Potash Maker cancels Brew drink from plant: Needs empty food storage item.
+Litast Isancog, Potash Maker cancels Brew drink from fruit: Needs empty food storage item.
+Litast Isancog, Potash Maker cancels Brew drink from plant: Needs empty food storage item.
+Litast Isancog, Potash Maker cancels Brew drink from fruit: Needs empty food storage item.
+Litast Isancog, Potash Maker cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+The Stray Water Buffalo Calf (Tame) has been found, starved to death.
+The weather has cleared.
+`Mr Crossbow' Zimoddom, manager cancels Brew drink from plant: Needs empty food storage item.
+`Macey McMaceface' Bekarfikod, bookkeeper cancels Butcher an Animal: Needs butcherable unrotten nearby item.
+`Mz Longshot' Idenginet, militia captain cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Litast Isancog, Potash Maker cancels Brew drink from fruit: Needs empty food storage item.
+** Loading Fortress **
+Litast Isancog, Potash Maker cancels Brew drink from plant: Needs empty food storage item.
