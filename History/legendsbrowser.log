@@ -1,0 +1,29 @@
+[2018-03-29 12:41:53] INFO: loading world: /home/cchall/Documents/Dwarf Fortress/Committee-on-Dwarven-Affairs/History/Archive/shared game-00062-12-08-legends.xml
+[2018-03-29 12:41:53] INFO: legendsPath:       /home/cchall/Documents/Dwarf Fortress/Committee-on-Dwarven-Affairs/History/Archive/shared game-00062-12-08-legends.xml
+legendsPlusPath:   /home/cchall/Documents/Dwarf Fortress/Committee-on-Dwarven-Affairs/History/Archive/shared game-00062-12-08-legends_plus.xml
+worldGenPath       /home/cchall/Documents/Dwarf Fortress/Committee-on-Dwarven-Affairs/History/Archive/shared game-world_gen_param.txt
+historyPath:       /home/cchall/Documents/Dwarf Fortress/Committee-on-Dwarven-Affairs/History/Archive/shared game-00062-12-08-world_history.txt
+sitesAndPropsPath: /home/cchall/Documents/Dwarf Fortress/Committee-on-Dwarven-Affairs/History/Archive/shared game-00062-12-08-world_sites_and_pops.txt
+imagePath:         /home/cchall/Documents/Dwarf Fortress/Committee-on-Dwarven-Affairs/History/Archive/shared game-00062-12-08-detailed.bmp
+
+[2018-03-29 12:41:53] INFO: server started on localhost:58881
+[2018-03-29 12:41:53] INFO: load legends: /home/cchall/Documents/Dwarf Fortress/Committee-on-Dwarven-Affairs/History/Archive/shared game-00062-12-08-legends.xml
+[2018-03-29 12:41:53] WARNING: site - unknown element: rectangle = 103,300:105,302
+[2018-03-29 12:41:53] WARNING: structure - unknown element: local_id = 0
+[2018-03-29 12:41:53] WARNING: structure - unknown element: subtype = catacombs
+[2018-03-29 12:41:53] WARNING: artifact - unknown element: name_string = lozgomux
+[2018-03-29 12:41:53] WARNING: artifact - unknown element: site_id = 10
+[2018-03-29 12:41:53] WARNING: artifact - unknown element: holder_hfid = 125
+[2018-03-29 12:41:53] WARNING: historical_figure - unknown element: relationship_profile_hf_visual = 100
+[2018-03-29 12:41:54] WARNING: historical_event - unknown element: plundered site - detected = 
+[2018-03-29 12:41:54] WARNING: historical_event - unknown element: artifact possessed - subregion_id = -1
+[2018-03-29 12:41:54] WARNING: historical_event - unknown element: artifact possessed - feature_layer_id = -1
+[2018-03-29 12:41:54] WARNING: historical_event - unknown element: artifact created - name_only = 
+[2018-03-29 12:41:54] WARNING: historical_event - unknown element: merchant - trader_entity_id = 11
+[2018-03-29 12:41:54] WARNING: historical_event - unknown element: merchant - depot_entity_id = 178
+[2018-03-29 12:41:54] WARNING: historical_event - unknown element: merchant - site_id = 178
+[2018-03-29 12:41:54] WARNING: historical_event - unknown element: site tribute forced - season = Spring
+[2018-03-29 12:41:54] WARNING: historical_event - UNKNOWN SUBTYPE: tactical situation
+[2018-03-29 12:41:54] WARNING: historical_event - UNKNOWN SUBTYPE: squad vs squad
+[2018-03-29 12:41:54] WARNING: written_content - unknown element: author_roll = 7
+[2018-03-29 12:41:55] INFO: world ready
