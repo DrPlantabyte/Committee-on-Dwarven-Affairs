@@ -25077,3 +25077,349 @@ The weather has cleared.
 Litast Isancog, Potash Maker cancels Brew drink from fruit: Needs empty food storage item.
 ** Loading Fortress **
 Litast Isancog, Potash Maker cancels Brew drink from plant: Needs empty food storage item.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+Kivish Œm„zbomrek has become a Carpenter.
+`Mz Longshot' Idenginet, militia captain cancels Brew drink from plant: Needs empty food storage item.
+`Mz Longshot' Idenginet, militia captain cancels Brew drink from fruit: Needs empty food storage item.
+`Mz Longshot' Idenginet, militia captain cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+`AFFLICTED' Atzulber, Ghostly Tanner has 
+Kol Œdeshtƒn, Ghostly Herbalist has risen and is haunting the fortress!
+`Mz Longshot' Idenginet, militia captain cancels Brew drink from plant: Needs empty food storage item.
+`Mz Longshot' Idenginet, militia captain cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+`Mz Longshot' Idenginet, militia captain cancels Brew drink from fruit: Needs empty food storage item.
+`Mr Crossbow' Zimoddom, manager cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Litast Isancog, Potash Maker cancels Brew drink from plant: Needs empty food storage item.
+Litast Isancog, Potash Maker cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Litast Isancog, Potash Maker cancels Brew drink from fruit: Needs empty food storage item.
+Litast Isancog, Potash Maker cancels Brew drink from plant: Needs empty food storage item.
+Litast Isancog, Potash Maker cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Litast Isancog, Potash Maker cancels Brew drink from plant: Needs empty food storage item.
+Litast Isancog, Potash Maker cancels Brew drink from fruit: Needs empty food storage item.
+`Mr Crossbow' Zimoddom, manager cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Litast Isancog, Potash Maker cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Litast Isancog, Potash Maker cancels Brew drink from plant: Needs empty food storage item.
+Litast Isancog, Potash Maker cancels Brew drink from fruit: Needs empty food storage item.
+`Mr Crossbow' Zimoddom, manager cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+x2
+Litast Isancog, Potash Maker cancels Brew drink from plant: Needs empty food storage item.
+Litast Isancog, Potash Maker cancels Brew drink from fruit: Needs empty food storage item.
+Litast Isancog, Potash Maker cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+It has started raining.
+Spring has arrived!
+`Mz Longshot' Idenginet, militia captain cancels Brew drink from plant: Needs empty food storage item.
+`Mz Longshot' Idenginet, militia captain cancels Brew drink from fruit: Needs empty food storage item.
+`Mz Longshot' Idenginet, militia captain cancels Brew drink from plant: Needs empty food storage item.
+`Mz Longshot' Idenginet, militia captain cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Make wooden Barrel (5) has been completed.
+Obok Fikodtekkud, Ghostly Wrestler has risen and is haunting the fortress!
+Construct wooden Bin (12) has been completed.
+`Mz Longshot' Idenginet, militia captain cancels Brew drink from plant: Needs empty food storage item.
+`Mz Longshot' Idenginet, militia captain cancels Brew drink from fruit: Needs empty food storage item.
+Logem Vab“kt”gum, Dyer cancels Brew drink from plant: Needs empty food storage item.
+Logem Vab“kt”gum, Dyer cancels Brew drink from fruit: Needs empty food storage item.
+Logem Vab“kt”gum, Dyer cancels Brew drink from plant: Needs empty food storage item.
+Logem Vab“kt”gum, Dyer cancels Brew drink from fruit: Needs empty food storage item.
+`AFFLICTED' Atzulber, Ghostly Tanner has risen and is haunting the fortress!
+The weather has cleared.
+A elven caravan from Osiula has arrived.
+The merchants need a trade depot to unload their goods.
+Prepare Lavish Meal (5) has been completed.
+Make wooden Barrel (5) has been completed.
+Kivish Œm„zbomrek, Carpenter cancels Construct Building: Item blocking site.
+The dwarves suspended the construction of Carpenter's Workshop.
+Logem Vab“kt”gum, Dyer cancels Brew drink from plant: Needs empty food storage item.
+Logem Vab“kt”gum, Dyer cancels Brew drink from fruit: Needs empty food storage item.
+Logem Vab“kt”gum, Dyer cancels Brew drink from plant: Needs empty food storage item.
+Logem Vab“kt”gum, Dyer cancels Brew drink from fruit: Needs empty food storage item.
+Logem Vab“kt”gum, Dyer cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+`Mr Crossbow' Zimoddom, manager cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+Brew drink from plant (10) has been completed.
+Litast Isancog, Potash Maker cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+Logem Vab“kt”gum, Dyer cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+x2
+x3
+Erush Ish‰miden, Ghostly Wrestler batters Kikrost K¡ddireral, Soap Maker!
+Kikrost K¡ddireral, Soap Maker cancels Drink: Resting injury.
+Logem Vab“kt”gum, Dyer cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+Uzol Shovethgeshud, Bowyer cancels Drink: Shaken.
+It has started raining.
+Logem Vab“kt”gum, Dyer cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+The merchants from Osiula will be leaving soon.
+Litast Isancog, Potash Maker cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+The weather has cleared.
+Logem Vab“kt”gum, Dyer cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+x2
+Some migrants have arrived.
+Merchants have arrived and are unloading their goods.
+Logem Vab“kt”gum, Dyer cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+The merchants from Osiula have embarked on their journey.
+Litast Isancog, Potash Maker cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+Logem Vab“kt”gum, Dyer cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+x2
+Kivish Œm„zbomrek, Carpenter cancels Construct Building: Item blocking site.
+The dwarves suspended the construction of Rough granite Bridge.
+Litast Isancog, Potash Maker cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+Logem Vab“kt”gum, Dyer cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+Litast Isancog, Potash Maker cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+`Mr Crossbow' Zimoddom, manager cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+It has started raining.
+Logem Vab“kt”gum, Dyer cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+`Mr Crossbow' Zimoddom, manager cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+Litast Isancog, Potash Maker cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+`AFFLICTED' Zanegkulin, Ghostly Trapper has been put to rest.
+Logem Vab“kt”gum, Dyer cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+x2
+`McArcher' Ustutharan, Ghostly Engraver has been put to rest.
+The weather has cleared.
+Uzol Shovethgeshud, Bowyer cancels Drink: Shaken.
+Litast Isancog, Potash Maker cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+x2
+x3
+Logem Vab“kt”gum, Dyer cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+x2
+x3
+`Mr Crossbow' Zimoddom, manager cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+Geshud Rig•thsigun, Clothier cancels Construct Building: Could not find path.
+The dwarves suspended the construction of Wall.
+`Mr Crossbow' Zimoddom, manager cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+`Builder Bea' Idenginet has become a militia captain.
+`Mr Crossbow' Zimoddom, manager cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+It has started raining.
+An animal has grown to become a Stray Donkey.
+Litast Isancog, Potash Maker cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+Construct rock Coffin (100) has been completed.
+Litast Isancog, Potash Maker cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+Logem Vab“kt”gum, Dyer cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+Mistˆm Al†thlibash, Gem Setter cancels Weave Yarn into Cloth: Needs 1 unused collected yarn thread.
+Uzol Shovethgeshud, Bowyer cancels Drink: Shaken.
+Litast Isancog, Potash Maker cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+The weather has cleared.
+It is now summer.
+Brew drink from fruit (10) has been completed.
+`Carpenter Kivis' Œm„zbomrek, Carpenter cancels Store Item in Stockpile: Item inaccessible.
+It has started raining.
+`Tailor Kol' Inethiseth, Dyer cancels Weave Yarn into Cloth: Needs 1 unused collected yarn thread.
+Likot Sokankogan, Animal Caretaker cancels Construct Building: Item blocking site.
+The dwarves suspended the construction of rhyolite Cabinet.
+A human caravan from Omon Idem has arrived.
+Merchants have arrived and are unloading their goods.
+`Mason Endok' Asmel–z, Stonecrafter cancels Store Item in Stockpile: Taken by mood.
+`Mason Endok' Asmel–z, Stonecrafter has been possessed!
+Endok Asmel–z has claimed a Craftsdwarf's Workshop.
+`Grower Blackbol' Tantobul has become a expedition leader.
+`Smith Uzol' Shovethgeshud, Bowyer cancels Drink: Shaken.
+The weather has cleared.
+`Tailor Kol' Inethiseth, Dyer cancels Weave Yarn into Cloth: Needs 1 unused collected yarn thread.
+It has started raining.
+`Macey McMaceface' Bekarfikod, bookkeeper cancels Place Item in Tomb: Interrupted by a rhesus macaque.
+The rhesus macaque misses the human lasher!
+The human lasher lashes the rhesus macaque in the left front foot with her ({silver whip}), but the attack glances away!
+The human spearman bashes the rhesus macaque in the head with the shaft of his ({bronze spear}) and the injured part is crushed!
+An artery has been opened by the attack!
+The rhesus macaque has been knocked unconscious!
+The human spearman charges at the human lasher!
+The human spearman collides with the human lasher!
+They tangle together and tumble forward!
+The human lasher stands up.
+The bookkeeper charges at the rhesus macaque!
+The bookkeeper collides with the rhesus macaque!
+The rhesus macaque is knocked over!
+The human spearman stands up.
+The human lasher lashes the rhesus macaque in the upper body with her ({silver whip}), bruising the muscle and tearing the middle spine's nervous tissue!
+The rhesus macaque is propelled away by the force of the blow!
+The rhesus macaque's right rear leg skids along the ground, bruising the muscle!
+The rhesus macaque slams into an obstacle!
+The human spearman stabs the rhesus macaque in the head with his ({bronze spear}) and the severed part sails off in an arc!
+The adder bites the rhesus macaque in the upper body, lightly tapping the target!
+The adder bites the rhesus macaque in the left front leg, denting the skin and bruising the muscle!
+The adder bites the rhesus macaque in the right front leg, denting the skin and bruising the fat!
+The human lasher stands up.
+Legu Gasomfel, Human Lasher: I have a part in this.  I will take revenge!
+The human spearman stabs the rhesus macaque in the left front foot with his ({bronze spear}) and the severed part sails off in an arc!
+The human spearman stabs the rhesus macaque in the upper body with his ({bronze spear}) and the injured part is cloven asunder!
+An artery has been opened by the attack!
+A tendon in the middle spine has been torn!
+The rhesus macaque is propelled away by the force of the blow!
+The rhesus macaque's left rear leg skids along the ground, bruising the muscle!
+The rhesus macaque slams into an obstacle!
+Legu Gasomfel, Human Lasher: I have a part in this.  There is no need to feel vengeful.
+`AFFLICTED' Atzulber, Ghostly Tanner has been put to rest.
+`Smith Ducim' Bomreklek, Metalcrafter cancels Construct Building: Item blocking site.
+The dwarves suspended the construction of granite Coffin.
+`McFarmer' AtŒslek, Ghostly Planter has been put to rest.
+The flying ({iron arrow}) strikes the rhesus macaque in the left cheek, tearing apart the skin!
+The force pulls the head, tearing apart the fat and tearing apart the upper spine's nervous tissue!
+A tendon in the upper spine has been torn!
+The rhesus macaque falls over.
+Erush Ish‰miden, Ghostly Wrestler batters `Engineer Geshud' Rig•thsigun, Clothier!
+`Engineer Geshud' Rig•thsigun, Clothier cancels Load Cage Trap: Resting injury.
+Nubi Umcited, Human Bowman: I have improved my bow.  That was not satisfying.
+The human spearman stabs the rhesus macaque in the left rear foot with his ({bronze spear}) and the severed part sails off in an arc!
+The human spearman stabs the rhesus macaque in the lower body with his ({bronze spear}), tearing apart the muscle and spilling her guts!
+The human spearman stabs the rhesus macaque in the head with his ({bronze spear}) and the severed part sails off in an arc!
+The rhesus macaque has been knocked unconscious!
+Obok Okunlimul has become a Planter.
+The weather has cleared.
+Construct rock Mechanisms (10) has been completed.
+phyllite Floor Hatch destroyed.
+Kol Œdeshtƒn, Ghostly Herbalist has been put to rest.
+An animal has grown to become a Stray Mule.
+The merchants from Omon Idem will be leaving soon.
+`Chef Logem' Vab“kt”gum, Dyer cancels Brew drink from fruit: Needs empty food storage item.
+Make wooden Cage (4) has been completed.
+It has started raining.
+Erush Ish‰miden, Ghostly Wrestler has been put to rest.
+`Mr Crossbow' Zimoddom, manager cancels Brew drink from fruit: Needs empty food storage item.
+`Smith Uzol' Shovethgeshud, Bowyer cancels Drink: Shaken.
+The merchants from Omon Idem have embarked on their journey.
+The weather has cleared.
+Some migrants have arrived.
+`Mr Crossbow' Zimoddom, manager cancels Brew drink from fruit: Needs empty food storage item.
+x2
+An animal has grown to become a Stray Cavy Boar.
+Endok Asmel–z has begun a mysterious construction!
+Kadol Oltar•nul has grown to become a Buck Rabbit.
+`Chef Litast' Isancog, Potash Maker cancels Brew drink from fruit: Needs empty food storage item.
+x2
+Make wooden Barrel (10) has been completed.
+`Mason Endok' Asmel–z, Stonecrafter has created Ner Fak, a gabbro figurine of humans!  She offers it to The Golden Spear.
+Construct wooden Bin (10) has been completed.
+`Chef Litast' Isancog, Potash Maker cancels Brew drink from fruit: Needs empty food storage item.
+x2
+`Chef Logem' Vab“kt”gum has become a Farmer.
+`Mr Crossbow' Zimoddom, manager cancels Brew drink from fruit: Needs empty food storage item.
+You have struck citrine!
+`Chef Litast' Isancog, Potash Maker cancels Brew drink from fruit: Needs empty food storage item.
+`Smith Uzol' Shovethgeshud, Bowyer cancels Drink: Shaken.
+`Chef Litast' Isancog, Potash Maker cancels Brew drink from fruit: Needs empty food storage item.
+You have struck microcline!
+It has started raining.
+`Mr Crossbow' Zimoddom, manager cancels Brew drink from fruit: Needs empty food storage item.
+`Chef Litast' Isancog, Potash Maker cancels Brew drink from fruit: Needs empty food storage item.
+You have struck milk quartz!
+Thob Udstukos has grown to become a Ewe.
+Lolor Berm”zir, Ghostly Cheese Maker has been put to rest.
+`Chef Litast' Isancog, Potash Maker cancels Brew drink from fruit: Needs empty food storage item.
+Make wooden Cage (5) has been completed.
+`Chef Litast' Isancog, Potash Maker cancels Brew drink from fruit: Needs empty food storage item.
+The weather has cleared.
+`Chef Litast' Isancog, Potash Maker cancels Brew drink from fruit: Needs empty food storage item.
+x2
+An animal has grown to become a Stray Water Buffalo Cow.
+`Chef Litast' Isancog, Potash Maker cancels Brew drink from fruit: Needs empty food storage item.
+The dog attacks the giant jumping spider but She jumps away!
+The giant jumping spider misses the dog!
+The giant jumping spider attacks the dog but He jumps away!
+The dog attacks the giant jumping spider but She jumps away!
+The giant jumping spider bites the dog in the neck, tearing apart the muscle and shattering the upper spine's bone!
+An artery has been opened by the attack!
+A tendon in the upper spine has been torn!
+The dog attacks the giant jumping spider but She jumps away!
+The giant jumping spider misses the dog!
+The giant jumping spider attacks the dog but He jumps away!
+The dog misses the giant jumping spider!
+Make wooden Barrel (10) has been completed.
+The dog attacks the giant jumping spider but She jumps away!
+The giant jumping spider misses the dog!
+The giant jumping spider attacks the dog but He jumps away!
+The dog scratches the giant jumping spider in the left first foot, chipping the chitin!
+A tendon has been torn!
+The giant jumping spider misses the dog!
+The dog misses the giant jumping spider!
+The dog scratches the giant jumping spider in the abdomen, fracturing the chitin!
+A tendon has been strained!
+The giant jumping spider misses the dog!
+The dog misses the giant jumping spider!
+The giant jumping spider attacks the dog but He jumps away!
+The dog attacks the giant jumping spider but She jumps away!
+The dog scratches the giant jumping spider in the right third leg, chipping the chitin!
+A tendon has been torn!
+The giant jumping spider attacks the dog but He jumps away!
+The giant jumping spider misses the dog!
+The dog scratches the giant jumping spider in the abdomen, chipping the chitin and bruising the fat!
+A tendon has been torn!
+The giant jumping spider bites the dog in the lower body, tearing apart the fat!
+The dog scratches the giant jumping spider in the right third leg, chipping the chitin and bruising the fat!
+A tendon has been strained!
+The dog misses the giant jumping spider!
+The giant jumping spider bites the dog in the left rear leg, tearing apart the muscle!
+An artery has been opened by the attack and a sensory nerve has been severed!
+The dog attacks the giant jumping spider but She jumps away!
+The giant jumping spider attacks the dog but He jumps away!
+The dog scratches the giant jumping spider in the left first leg, chipping the chitin and bruising the fat!
+A tendon has been torn!
+The giant jumping spider attacks the dog but He jumps away!
+The dog attacks the giant jumping spider but She jumps away!
+The giant jumping spider attacks the dog but He jumps away!
+The dog scratches the giant jumping spider in the right third leg, chipping the chitin and bruising the fat!
+A tendon has been strained!
+The giant jumping spider bites the dog in the left front leg, lightly tapping the target!
+The dog attacks the giant jumping spider but She jumps away!
+The giant jumping spider misses the dog!
+The dog scratches the giant jumping spider in the right first foot, chipping the chitin and bruising the muscle!
+A tendon has been strained!
+The giant jumping spider bites the dog in the left rear leg, tearing apart the muscle!
+An artery has been opened by the attack!
+The dog scratches the giant jumping spider in the right second foot, chipping the chitin!
+A tendon has been strained!
+The giant jumping spider falls over.
+`Chef Logem' Vab“kt”gum, Farmer cancels Brew drink from fruit: Needs empty food storage item.
+`Chef Logem' Vab“kt”gum, Farmer cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Construct wooden Bin (10) has been completed.
+Construct rock Table (8) has been completed.
+`Mr Crossbow' Zimoddom, manager cancels Brew drink from fruit: Needs empty food storage item.
+`Mr Crossbow' Zimoddom, manager cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+`Mr Crossbow' Zimoddom, manager cancels Brew drink from fruit: Needs empty food storage item.
+Make wooden Wheelbarrow (5) has been completed.
+`Chef Logem' Vab“kt”gum, Farmer cancels Brew drink from fruit: Needs empty food storage item.
+`Chef Logem' Vab“kt”gum, Farmer cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+`Smith Uzol' Shovethgeshud, Bowyer cancels Drink: Shaken.
+`Chef Litast' Isancog, Potash Maker cancels Brew drink from fruit: Needs empty food storage item.
+`Chef Litast' Isancog, Potash Maker cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Construct rock Statue (25) has been completed.
+Rakust Cattenbubnus, Glassmaker cancels Eat: Item inaccessible.
+`Chef Logem' Vab“kt”gum, Farmer cancels Brew drink from fruit: Needs empty food storage item.
+`Chef Logem' Vab“kt”gum, Farmer cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+`Tailor Kol' Inethiseth has become a Weaver.
+Autumn has come.
+`Chef Logem' Vab“kt”gum, Farmer cancels Brew drink from fruit: Needs empty food storage item.
+`Chef Logem' Vab“kt”gum, Farmer cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Construct cloth Bag (5) has been completed.
+`Chef Logem' Vab“kt”gum, Farmer cancels Brew drink from fruit: Needs empty food storage item.
+Construct leather Bag (5) has been completed.
+`Mr Crossbow' Zimoddom, manager cancels Brew drink from fruit: Needs empty food storage item.
+`Tailor Fikod' Nekutm”rul, Dyer cancels Weave Thread into Cloth: Needs 1 unused collected plant thread.
+`Tailor Kol' Inethiseth, Weaver cancels Weave Thread into Cloth: Needs 1 unused collected plant thread.
+`Macey McMaceface' Bekarfikod, bookkeeper cancels Construct Building: Item blocking site.
+The dwarves suspended the construction of oaken Chest.
+`Smith Ducim' Bomreklek, Metalcrafter cancels Construct Building: Item blocking site.
+The dwarves suspended the construction of oaken Chest.
+Construct rock Throne (20) has been completed.
+`Mr Crossbow' Zimoddom, manager cancels Weave Thread into Cloth: Needs 1 unused collected plant thread.
+`Chef Litast' Isancog, Potash Maker cancels Brew drink from fruit: Needs empty food storage item.
+`Monger Likot' Tathurlogem has become a Fish Cleaner.
+`Chef Litast' Isancog, Potash Maker cancels Brew drink from fruit: Needs empty food storage item.
+It has started raining.
+Prepare Lavish Meal (3) has been completed.
+`Chef Litast' Isancog, Potash Maker cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+`Chef Litast' Isancog, Potash Maker cancels Brew drink from fruit: Needs empty food storage item.
+`Operator Erush' Amaskilrud, Glazer cancels Fill Pond: Inappropriate building.
+`Tailor Kol' Inethiseth, Weaver cancels Weave Thread into Cloth: Needs 1 unused collected plant thread.
+x2
+x3
+`Macer' Ikudrimtar, Herbalist cancels Fill Pond: Inappropriate building.
+`Mr Crossbow' Zimoddom, manager cancels Weave Thread into Cloth: Needs 1 unused collected plant thread.
+`Mr Crossbow' Zimoddom, manager cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+`Mr Crossbow' Zimoddom, manager cancels Weave Thread into Cloth: Needs 1 unused collected plant thread.
+`Mr Crossbow' Zimoddom, manager cancels Prepare Lavish Meal: Needs unrotten cookable solid item.
+Make rock Pot (5) has been completed.
+Besmar Uristecem has become a Herbalist.
+`Chef Logem' Vab“kt”gum, Farmer cancels Brew drink from fruit: Needs empty food storage item.
+`Mr Crossbow' Zimoddom, manager cancels Weave Thread into Cloth: Needs 1 unused collected plant thread.
+Construct wooden Chest (2) has been completed.
+The outpost liaison Kumil Gatizk–buk from Bomrek Riril has arrived.
+A caravan from Bomrek Riril has arrived.
+The weather has cleared.
+Merchants have arrived and are unloading their goods.
+Make yarn Rope (3) has been completed.
