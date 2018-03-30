@@ -25423,3 +25423,521 @@ A caravan from Bomrek Riril has arrived.
 The weather has cleared.
 Merchants have arrived and are unloading their goods.
 Make yarn Rope (3) has been completed.
+*** STARTING NEW GAME ***
+** Loading Fortress **
+`Smith Uzol' Shovethgeshud, Bowyer cancels Drink: Shaken.
+`Tailor Fikod' Nekutmîrul, Dyer cancels Weave Yarn into Cloth: Needs 1 unused collected yarn thread.
+Make wooden Barrel (5) has been completed.
+`Mr Crossbow' Zimoddom, manager cancels Weave Thread into Cloth: Needs 1 unused collected plant thread.
+`Mr Crossbow' Zimoddom, manager cancels Weave Yarn into Cloth: Needs 1 unused collected yarn thread.
+AlÜth Melbiletost has created a masterpiece plum wood crossbow!
+Mafol Akrulritan has become a Fisherdwarf.
+AlÜth Melbiletost has created a masterpiece alder crossbow!
+Make wooden Bucket (5) has been completed.
+Prepare Lavish Meal (3) has been completed.
+Make large clay pot (5) has been completed.
+`Operator Erush' Amaskilrud, Glazer cancels Glaze clay/stone jug: Needs empty unimproved CAN_GLAZE jug.
+`Mason Anul' Zonãlun, Gem Setter cancels Glaze clay/stone jug: Needs empty unimproved CAN_GLAZE jug.
+Brew drink from fruit (20) has been completed.
+It has started raining.
+Deler Ustuthçnal, Stonecrafter cancels Store Item in Barrel: Taken by mood.
+Deler Ustuthçnal, Stonecrafter is taken by a fey mood!
+Make clay jug (5) has been completed.
+Deler Ustuthçnal has claimed a Craftsdwarf's Workshop.
+Deler Ustuthçnal has begun a mysterious construction!
+`Tailor Fikod' Nekutmîrul, Dyer cancels Weave Yarn into Cloth: Needs 1 unused collected yarn thread.
+`Tailor Kol' Inethiseth, Weaver cancels Spin Thread: Needs unrotten hair/wool body part.
+`Tailor Fikod' Nekutmîrul, Dyer cancels Weave Yarn into Cloth: Needs 1 unused collected yarn thread.
+Prepare Lavish Meal (3) has been completed.
+`Smith Uzol' Shovethgeshud, Bowyer cancels Drink: Shaken.
+`Tailor Kol' Inethiseth, Weaver cancels Weave Yarn into Cloth: Needs 1 unused collected yarn thread.
+Deler Ustuthçnal, Stonecrafter has created åmÑzottan Arruginem, a gabbro figurine of dwarves!  She claims it as a family heirloom.
+`Tailor Kol' Inethiseth, Weaver cancels Weave Yarn into Cloth: Needs 1 unused collected yarn thread.
+`Tailor Fikod' Nekutmîrul, Dyer cancels Weave Yarn into Cloth: Needs 1 unused collected yarn thread.
+Some migrants have arrived.
+Glaze clay/stone jug (5) has been completed.
+`Tailor Fikod' Nekutmîrul, Dyer cancels Weave Yarn into Cloth: Needs 1 unused collected yarn thread.
+x2
+The weather has cleared.
+The merchants from Bomrek Riril will be leaving soon.
+`Chemist Kikrost' K°ddireral, Soap Maker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+`Tailor Fikod' Nekutmîrul, Dyer cancels Weave Yarn into Cloth: Needs 1 unused collected yarn thread.
+Glaze large clay/stone pot (5) has been completed.
+`Tailor Fikod' Nekutmîrul, Dyer cancels Weave Yarn into Cloth: Needs 1 unused collected yarn thread.
+x2
+The merchants from Bomrek Riril have embarked on their journey.
+`Tailor Fikod' Nekutmîrul, Dyer cancels Weave Yarn into Cloth: Needs 1 unused collected yarn thread.
+You have struck schorl!
+You have struck milk quartz!
+It has started raining.
+`Janitor Jim' Olonthosbut, Pump Operator cancels Dump Item: Horrified.
+You have struck mica!
+ãteb Momuzberdan has grown to become a Ram.
+You have struck mica!
+x2
+You have struck olivine!
+x2
+`Mr Crossbow' Zimoddom, manager cancels Weave Yarn into Cloth: Needs 1 unused collected yarn thread.
+You have struck olivine!
+You have struck bauxite!
+You have struck purple spinel!
+`Mr Crossbow' Zimoddom, manager cancels Weave Yarn into Cloth: Needs 1 unused collected yarn thread.
+You have struck mica!
+Collect Clay (10) has been completed.
+You have struck mica!
+x2
+You have struck yellow zircon!
+You have struck mica!
+`Mr Crossbow' Zimoddom, manager cancels Weave Yarn into Cloth: Needs 1 unused collected yarn thread.
+You have struck mica!
+`Smith Uzol' Shovethgeshud, Bowyer cancels Drink: Shaken.
+The weather has cleared.
+You have struck mica!
+`Mr Crossbow' Zimoddom, manager cancels Weave Yarn into Cloth: Needs 1 unused collected yarn thread.
+You have struck sphalerite!
+You have struck rose quartz!
+You have struck sphalerite!
+`Mr Crossbow' Zimoddom, manager cancels Weave Yarn into Cloth: Needs 1 unused collected yarn thread.
+`Macey McMaceface' Bekarfikod has become a bookkeeper.
+You have struck sphalerite!
+You have struck fire agate!
+`Mr Crossbow' Zimoddom, manager cancels Weave Yarn into Cloth: Needs 1 unused collected yarn thread.
+`Grower Obok' Okunlimul, Planter has been elected mayor.
+An animal has grown to become a Stray Boar.
+`Tailor Fikod' Nekutmîrul, Dyer cancels Weave Yarn into Cloth: Needs 1 unused collected yarn thread.
+x2
+`Archer Solon' Estunlolor has become a Axedwarf.
+Zon Thåkutmeng has become a Recruit.
+Reg Olinlegon has become a Recruit.
+Ducim Limulnosing has become a Recruit.
+Asob Alisoltar has become a Hammerdwarf.
+`Archer Iton' Fikodigâr has become a Recruit.
+`Archer Nil' Zefonmîrul has become a Recruit.
+`Archer Adil' Gemsitedâm has become a Recruit.
+`Engineer Idengi' Idenginet has become a militia captain.
+`Tailor Fikod' Nekutmîrul, Dyer cancels Weave Yarn into Cloth: Needs 1 unused collected yarn thread.
+Forge steel war hammer (1) has been completed.
+`Smith Ducim' Bomreklek, Metalcrafter cancels Forge bronze short sword: Needs 1 bronze bars.
+`Tailor Fikod' Nekutmîrul, Dyer cancels Weave Yarn into Cloth: Needs 1 unused collected yarn thread.
+`Smith Ducim' Bomreklek, Metalcrafter cancels Forge bismuth bronze spear: Needs 1 bismuth bronze bars.
+Sazir Zatthudnish has become a Thresher.
+`Tailor Fikod' Nekutmîrul, Dyer cancels Weave Yarn into Cloth: Needs 1 unused collected yarn thread.
+An animal has grown to become a Stray Bull.
+`Archer Zon' Thåkutmeng, Recruit cancels Pickup Equipment: Equipment mismatch.
+`Tailor Fikod' Nekutmîrul, Dyer cancels Weave Yarn into Cloth: Needs 1 unused collected yarn thread.
+`Grower Obok' Okunlimul, mayor has mandated the construction of certain goods.
+`Archer Asob' Alisoltar, Hammerdwarf cancels Pickup Equipment: Equipment mismatch.
+`Smith Ducim' Bomreklek, Metalcrafter cancels Forge bronze short sword: Needs 1 bronze bars.
+`Smith Ducim' Bomreklek, Metalcrafter cancels Forge bismuth bronze spear: Needs 1 bismuth bronze bars.
+`Mr Crossbow' Zimoddom, manager cancels Weave Yarn into Cloth: Needs 1 unused collected yarn thread.
+x2
+`Smith Ducim' Bomreklek, Metalcrafter cancels Forge bronze short sword: Needs 1 bronze bars.
+`Smith Ducim' Bomreklek, Metalcrafter cancels Forge bismuth bronze spear: Needs 1 bismuth bronze bars.
+`Tailor Kol' Inethiseth, Weaver cancels Weave Yarn into Cloth: Needs 1 unused collected yarn thread.
+Udil Godenkivish has become a Leatherworker.
+`Tailor Fikod' Nekutmîrul, Dyer cancels Dig Channel: Inappropriate dig square.
+x2
+`Tailor Fikod' Nekutmîrul, Dyer cancels Weave Yarn into Cloth: Needs 1 unused collected yarn thread.
+`Monger Likot' Tathurlogem, Fish Cleaner cancels Prepare a Raw Fish: Needs unrotten raw fish.
+`Ranger Avuz' Cilobegath, Tanner cancels Make bone bolts: Interrupted by a rhesus macaque.
+The rhesus macaque misses the tanner!
+`Ranger Avuz' Cilobegath, Tanner: Has the tide turned?  I laugh in the face of death!
+`Grunt Ezum' Kollånem, Fisherdwarf cancels Store Item in Barrel: Interrupted by a rhesus macaque.
+The tanner stands up.
+Forge fine pewter Jug (1) has been completed.
+An animal has grown to become a Stray Horse.
+`Smith Uzol' Shovethgeshud, Bowyer cancels Drink: Shaken.
+There is nothing to catch in the northern swamps.
+`Chef Litast' Isancog, Potash Maker cancels Harvest Plants: Interrupted by a rhesus macaque.
+`Grunt Dodok' Besmarthad, militia captain cancels Store Item in Stockpile: Interrupted by a rhesus macaque.
+The rhesus macaque misses the militia captain!
+The militia captain attacks the rhesus macaque but She jumps away!
+`Grunt Dodok' Besmarthad, militia captain: In the midst of conflict...  I laugh in the face of death!
+`Carpenter Alath' Melbiletost, Bowyer cancels Detail Wall: Interrupted by a rhesus macaque.
+`Dr Etlolor' Etlolor, chief medical dwarf cancels Store Item in Barrel: Interrupted by a rhesus macaque.
+The bowyer scratches the rhesus macaque in the right front leg, tearing the muscle!
+The rhesus macaque collapses and falls to the ground from over-exertion.
+The rhesus macaque stands up.
+The bowyer attacks the rhesus macaque but She jumps away!
+`Grunt Dodok' Besmarthad, militia captain: I have a part in this.  There is no need to feel vengeful.
+The rhesus macaque attacks the bowyer but He jumps away!
+The bowyer misses the rhesus macaque!
+The bowyer punches the rhesus macaque in the lower body with his left hand, bruising the muscle and bruising the guts!
+The rhesus macaque looks sick!
+The rhesus macaque collapses and falls to the ground from over-exertion.
+The rhesus macaque misses the bowyer!
+The rhesus macaque vomits.
+`Carpenter Alath' Melbiletost, Bowyer: I was attacked.  I am not exhilarated.
+The rhesus macaque vomits.
+The rhesus macaque retches.
+The rhesus macaque vomits.
+The rhesus macaque retches.
+The rhesus macaque vomits.
+`Tailor Fikod' Nekutmîrul, Dyer cancels Weave Yarn into Cloth: Needs 1 unused collected yarn thread.
+The rhesus macaque vomits.
+The rhesus macaque retches.
+`Grunt Ezum' Kollånem, Fisherdwarf cancels Store Item in Stockpile: Interrupted by a rhesus macaque.
+The rhesus macaque vomits.
+The rhesus macaque retches.
+The rhesus macaque stands up.
+The rhesus macaque vomits.
+`Grower Anul' Zonãlun, Gem Setter cancels Drink: Interrupted by a rhesus macaque.
+The rhesus macaque jumps away from The flying {reindeer bone bolt}!
+`Fisher Mafol' Akrulritan, Fisherdwarf cancels Dump Item: Interrupted by a rhesus macaque.
+The gem setter attacks the rhesus macaque but She jumps away!
+`Grower Anul' Zonãlun, Gem Setter: I cannot just stand by.  There is no need to feel vengeful.
+`Archer Solon' Estunlolor, Axedwarf: I have a part in this.  I will take revenge!
+The rhesus macaque attacks the gem setter but She jumps away!
+The gem setter attacks the rhesus macaque but She jumps away!
+The rhesus macaque misses the gem setter!
+`Mason Deler' Ustuthçnal, Stonecrafter cancels Glaze clay/stone jug: Needs empty unimproved CAN_GLAZE jug.
+The gem setter grabs the rhesus macaque by the neck with her left hand!
+The gem setter releases the grip of The gem setter's left hand from The rhesus macaque's neck.
+The rhesus macaque attacks the gem setter but She jumps away!
+The gem setter attacks the rhesus macaque but She jumps away!
+The rhesus macaque misses the gem setter!
+The gem setter punches the rhesus macaque in the fourth right toe with her left hand, shattering the nail!
+The force bends the right rear foot, tearing apart the muscle and bruising the bone!
+An artery has been opened by the attack, many nerves have been severed, a ligament has been torn and a tendon has been torn!
+The rhesus macaque falls over.
+The gem setter attacks the rhesus macaque but She scrambles away!
+The gem setter grabs the rhesus macaque by the tail with her left upper arm!
+The gem setter releases the grip of The gem setter's left upper arm on the rhesus macaque's tail.
+The rhesus macaque attacks the gem setter but She jumps away!
+The fisherdwarf grabs the rhesus macaque by the third left toe with her right lower arm!
+The fisherdwarf releases the grip of The fisherdwarf's right lower arm on the rhesus macaque's third left toe.
+The rhesus macaque bites the fisherdwarf in the right upper leg, bruising the muscle through the x(giant cave spider silk cloak)x!
+The fisherdwarf punches the rhesus macaque in the left rear leg with her right hand, bruising the muscle!
+The fisherdwarf attacks the rhesus macaque but She scrambles away!
+The gem setter grabs the rhesus macaque by the third right toe with her right lower arm!
+The gem setter releases the grip of The gem setter's right lower arm on the rhesus macaque's third right toe.
+`Grower Anul' Zonãlun, Gem Setter: I cannot just stand by.  There is no need to feel vengeful.
+The fisherdwarf grabs the rhesus macaque by the second right finger with her right upper arm!
+The rhesus macaque attacks the gem setter but She jumps away!
+The gem setter grabs the rhesus macaque by the left eye tooth with her left lower arm!
+The rhesus macaque's attack is interrupted!
+The fisherdwarf releases the grip of The fisherdwarf's right upper arm on the rhesus macaque's second right finger.
+`Archer Solon' Estunlolor, Axedwarf: I have a part in this.  I will take revenge!
+The gem setter releases the grip of The gem setter's left lower arm on the rhesus macaque's left eye tooth.
+The fisherdwarf grabs the rhesus macaque by the right front foot with her left hand!
+The gem setter punches the rhesus macaque in the right rear foot with her right hand, but the attack glances away!
+The fisherdwarf releases the grip of The fisherdwarf's left hand on the rhesus macaque's right front foot.
+The rhesus macaque misses the gem setter!
+The fisherdwarf punches the rhesus macaque in the upper body with her right hand, bruising the muscle and bruising the left lung!
+The gem setter grabs the rhesus macaque by the fifth left finger with her left lower arm!
+The fisherdwarf grabs the rhesus macaque by the throat with her right hand!
+The fisherdwarf places a chokehold on the rhesus macaque's throat with The fisherdwarf's right hand!
+The rhesus macaque scratches the gem setter in the right upper arm, bruising the muscle through the x(cave spider silk cloak)x!
+The force pulls the right shoulder!
+The gem setter punches the rhesus macaque in the fourth right toe with her right hand, shattering the nail!
+The force pulls the right rear foot, tearing apart the muscle and bruising the bone!
+An artery has been opened by the attack, many nerves have been severed, a ligament has been torn and a tendon has been torn!
+The fisherdwarf strangles the rhesus macaque's throat and the part splits in gore!
+A major artery has been opened by the attack!
+A tendon in the upper spine has been bruised!
+The rhesus macaque passes out.
+The fisherdwarf strangles the rhesus macaque's throat, tearing apart the skin and bruising the upper spine's nervous tissue!
+A major artery has been opened by the attack!
+A tendon in the upper spine has been bruised!
+The gem setter releases the grip of The gem setter's left lower arm on the rhesus macaque's fifth left finger.
+The fisherdwarf strangles the rhesus macaque's throat, tearing apart the skin and bruising the upper spine's nervous tissue!
+A major artery has been opened by the attack!
+A tendon in the upper spine has been bruised!
+The fisherdwarf strangles the rhesus macaque's throat, tearing apart the skin and bruising the upper spine's nervous tissue!
+A major artery has been opened by the attack!
+A tendon in the upper spine has been bruised!
+The gem setter punches the rhesus macaque in the head with her left hand and the injured part explodes into gore!
+An artery has been opened by the attack!
+`Forager Likot' Sokankogan, Animal Caretaker cancels Store Item in Barrel: Interrupted by a rhesus macaque.
+`Monger Likot' Tathurlogem, Fish Cleaner cancels Prepare a Raw Fish: Interrupted by a rhesus macaque.
+`Grower Anul' Zonãlun, Gem Setter: I cannot just stand by.  I will take revenge!
+`Fisher Mafol' Akrulritan, Fisherdwarf: I have a part in this.  I will take revenge!
+The fisherdwarf stands up.
+The gem setter stands up.
+The animal caretaker attacks the rhesus macaque but She jumps away!
+The animal caretaker grabs the rhesus macaque by the third left toe with her left hand!
+The rhesus macaque bites the animal caretaker in the lower body, bruising the fat through the (alpaca wool cloak)!
+The animal caretaker takes the rhesus macaque down by the third left toe with The animal caretaker's left hand!
+The animal caretaker releases the grip of The animal caretaker's left hand on the rhesus macaque's third left toe.
+The animal caretaker grabs the rhesus macaque by the third right toe with her left hand!
+The animal caretaker releases the grip of The animal caretaker's left hand on the rhesus macaque's third right toe.
+The rhesus macaque attacks the animal caretaker but She jumps away!
+The animal caretaker scratches the rhesus macaque in the tail and the injured part is torn apart!
+An artery has been opened by the attack!
+The animal caretaker punches the rhesus macaque in the right rear foot with her left hand and the injured part explodes into gore!
+An artery has been opened by the attack!
+The force bends the right rear leg, bruising the skin!
+The animal caretaker grabs the rhesus macaque by the right eye tooth with her right hand!
+The animal caretaker releases the grip of The animal caretaker's right hand on the rhesus macaque's right eye tooth.
+The rhesus macaque misses the animal caretaker!
+The animal caretaker grabs the rhesus macaque by the first right toe with her left upper arm!
+The animal caretaker releases the grip of The animal caretaker's left upper arm on the rhesus macaque's first right toe.
+The animal caretaker grabs the rhesus macaque by the neck with her left lower arm!
+The animal caretaker releases the grip of The animal caretaker's left lower arm on the rhesus macaque's neck.
+The animal caretaker grabs the rhesus macaque by the teeth with her right hand!
+The rhesus macaque bites the animal caretaker in the right lower leg, bruising the skin through the (wild boar leather robe)!
+The animal caretaker releases the grip of The animal caretaker's right hand on the rhesus macaque's teeth.
+The animal caretaker grabs the rhesus macaque by the right rear leg with her right hand!
+The animal caretaker releases the grip of The animal caretaker's right hand on the rhesus macaque's right rear leg.
+The rhesus macaque misses the animal caretaker!
+The animal caretaker grabs the rhesus macaque by the lower body with her right upper arm!
+The animal caretaker releases the grip of The animal caretaker's right upper arm on the rhesus macaque's lower body.
+The animal caretaker punches the rhesus macaque in the left rear foot with her left hand, but the attack glances away!
+`Forager Likot' Sokankogan, Animal Caretaker: I have improved my fighting.  That was not satisfying.
+The animal caretaker punches the rhesus macaque in the neck with her right hand and the injured part is smashed into the body, an unrecognizable mass!
+An artery has been opened by the attack!
+The animal caretaker grabs the rhesus macaque by the fifth left toe with her right upper arm!
+The animal caretaker releases the grip of The animal caretaker's right upper arm on the rhesus macaque's fifth left toe.
+The rhesus macaque misses the animal caretaker!
+The animal caretaker punches the rhesus macaque in the upper body with her right hand, bruising the muscle and bruising the left lung!
+The rhesus macaque is having more trouble breathing!
+The animal caretaker punches the rhesus macaque in the head with her right hand and the injured part explodes into gore!
+An artery has been opened by the attack!
+The rhesus macaque has been knocked unconscious!
+The gem setter grabs the rhesus macaque by the second right finger with her left lower arm!
+The rhesus macaque is unable to break the grip of The gem setter's left lower arm on The rhesus macaque's second right finger!
+The rhesus macaque bites the gem setter in the lower body, bruising the fat through the x(cave spider silk cloak)x!
+The gem setter punches the rhesus macaque in the left front foot with her right hand, but the attack glances away!
+`Forager Likot' Sokankogan, Animal Caretaker: I have improved my wrestling.  That was not satisfying.
+The rhesus macaque scratches the gem setter in the left cheek, bruising it through the X(cave spider silk cloak)X!
+The force bends the head!
+The gem setter punches the rhesus macaque in the right front foot with her right hand and the injured part explodes into gore!
+An artery has been opened by the attack!
+The force pulls the right front leg, tearing apart the skin!
+The gem setter releases the grip of The gem setter's left lower arm on the rhesus macaque's second right finger.
+The gem setter grabs the rhesus macaque by the third left finger with her left hand!
+The gem setter releases the grip of The gem setter's left hand on the rhesus macaque's third left finger.
+The gem setter grabs the rhesus macaque by the right front foot with her right lower arm!
+The rhesus macaque bites the gem setter in the lower body, bruising the fat through the XX(cave spider silk cloak)XX!
+The gem setter releases the grip of The gem setter's right lower arm on the rhesus macaque's right front foot.
+The gem setter grabs the rhesus macaque by the left ear with her right lower arm!
+The rhesus macaque bites the gem setter in the head, bruising the muscle through the (cat leather hood)!
+The gem setter has been stunned!
+The force pulls the neck!
+The gem setter kicks the rhesus macaque in the right rear foot with her left foot, bruising the muscle!
+The force bends the right rear leg, tearing apart the skin!
+The rhesus macaque bites the gem setter in the head, bruising the muscle through the (cat leather hood)!
+The force bends the neck!
+The gem setter releases the grip of The gem setter's right lower arm on the rhesus macaque's left ear.
+`Grower Anul' Zonãlun, Gem Setter: Our time in The Revolutionary Lands is so brief...  This does not scare me.
+The gem setter grabs the rhesus macaque by the right ear with her left lower arm!
+The rhesus macaque misses the gem setter!
+The gem setter releases the grip of The gem setter's left lower arm on the rhesus macaque's right ear.
+The gem setter grabs the rhesus macaque by the second right finger with her right lower arm!
+The gem setter releases the grip of The gem setter's right lower arm on the rhesus macaque's second right finger.
+The rhesus macaque bites the gem setter in the right hand, bruising the muscle through the (chicken leather right mitten)!
+The gem setter grabs the rhesus macaque by the fourth right finger with her left upper arm!
+The fisherdwarf grabs the rhesus macaque by the left front leg with her right upper arm!
+The gem setter releases the grip of The gem setter's left upper arm on the rhesus macaque's fourth right finger.
+The fisherdwarf releases the grip of The fisherdwarf's right upper arm on the rhesus macaque's left front leg.
+The gem setter grabs the rhesus macaque by the right ear with her right upper arm!
+The fisherdwarf grabs the rhesus macaque by the left front leg with her right lower arm!
+The gem setter releases the grip of The gem setter's right upper arm on the rhesus macaque's right ear.
+The fisherdwarf releases the grip of The fisherdwarf's right lower arm on the rhesus macaque's left front leg.
+The gem setter grabs the rhesus macaque by the tongue with her right upper arm!
+The fisherdwarf grabs the rhesus macaque by the first left finger with her right upper arm!
+The rhesus macaque bites the gem setter in the upper body, bruising the fat and bruising the heart through the XX(cave spider silk cloak)XX!
+The XX(cave spider silk cloak)XX is ripped to shreds!
+The gem setter releases the grip of The gem setter's right upper arm on the rhesus macaque's tongue.
+`Grower Anul' Zonãlun, Gem Setter: I have improved my fighting.  I am very satisfied.
+The fisherdwarf releases the grip of The fisherdwarf's right upper arm on the rhesus macaque's first left finger.
+The gem setter grabs the rhesus macaque by the second left finger with her right lower arm!
+The fisherdwarf grabs the rhesus macaque by the third left finger with her left hand!
+The gem setter releases the grip of The gem setter's right lower arm on the rhesus macaque's second left finger.
+The fisherdwarf punches the rhesus macaque in the left front leg with her left hand and the injured part is smashed into the body, an unrecognizable mass!
+An artery has been opened by the attack!
+The rhesus macaque gives in to pain.
+The gem setter grabs the rhesus macaque by the right ear with her right upper arm!
+The gem setter releases the grip of The gem setter's right upper arm on the rhesus macaque's right ear.
+The fisherdwarf releases the grip of The fisherdwarf's left hand on the rhesus macaque's third left finger.
+The gem setter punches the rhesus macaque in the head with her right hand and the injured part collapses into a lump of gore!
+An artery has been opened by the attack!
+The gem setter is no longer stunned.
+`Grower Anul' Zonãlun, Gem Setter: I've been injured badly.  There is no hope!
+The animal caretaker grabs the rhesus macaque by the head with her right hand!
+The animal caretaker gouges the rhesus macaque's right cheek with The animal caretaker's right hand and the skull splits in gore!
+A tendon in the skull has been torn!
+The rhesus macaque scratches the animal caretaker in the upper body, bruising the skin through the x(alpaca wool cloak)x!
+The animal caretaker gouges the rhesus macaque's left cheek with The animal caretaker's right hand and the part splits in gore!
+A tendon in the skull has been torn!
+The rhesus macaque collapses and falls to the ground from over-exertion.
+The animal caretaker stands up.
+The animal caretaker gouges the rhesus macaque's lower lip with The animal caretaker's right hand and the part splits in gore!
+A tendon in the skull has been torn!
+The rhesus macaque misses the animal caretaker!
+The animal caretaker gouges the rhesus macaque's right eye with The animal caretaker's right hand and the part splits in gore!
+A tendon in the skull has been torn!
+The rhesus macaque gives in to pain.
+The animal caretaker gouges the rhesus macaque's right eyelid with The animal caretaker's right hand and the part splits in gore!
+A tendon in the skull has been torn!
+The animal caretaker gouges the rhesus macaque's left eye with The animal caretaker's right hand and the part splits in gore!
+A tendon in the skull has been torn!
+The animal caretaker punches the rhesus macaque in the head with her left hand and the injured part collapses!
+An artery has been opened by the attack!
+The fisherdwarf stands up.
+`Tailor Fikod' Nekutmîrul, Dyer cancels Weave Yarn into Cloth: Needs 1 unused collected yarn thread.
+`Archer Solon' Estunlolor has become a Trader.
+Zon Thåkutmeng has become a Fish Dissector.
+Reg Olinlegon has become a Beekeeper.
+Ducim Limulnosing has become a Potter.
+Asob Alisoltar has become a Surgeon.
+`Archer Iton' Fikodigâr has become a Shearer.
+`Archer Nil' Zefonmîrul has become a Bone Doctor.
+`Archer Adil' Gemsitedâm has become a Soap Maker.
+`Engineer Idengi' Idenginet has become a militia captain.
+Asmel AlÜthked has become a Recruit.
+Råsen äzumlisat has become a Recruit.
+Solon Veteklogem has become a Recruit.
+`Grunt Besmar' Uristecem has become a Recruit.
+`Grunt Ezum' Kollånem has become a Wrestler.
+Winter is upon you.
+`Archer Solon' Estunlolor has become a Axedwarf.
+Asmel AlÜthked has become a Miner.
+Råsen äzumlisat has become a Clothier.
+Zon Thåkutmeng has become a Recruit.
+Reg Olinlegon has become a Recruit.
+Ducim Limulnosing has become a Recruit.
+Solon Veteklogem has become a Pump Operator.
+Asob Alisoltar has become a Hammerdwarf.
+`Grunt Besmar' Uristecem has become a Herbalist.
+`Grunt Ezum' Kollånem has become a Fisherdwarf.
+Make leather Quiver (5) has been completed.
+You have struck tetrahedrite!
+`Tailor Kol' Inethiseth has become a Miner.
+Construct Bed (12) has been completed.
+There is nothing to catch in the northern swamps.
+You have struck tetrahedrite!
+Brew drink from fruit (5) has been completed.
+It has started raining.
+`Archer Reg' Olinlegon, Recruit cancels Pickup Equipment: Equipment mismatch.
+`Archer Asob' Alisoltar, Hammerdwarf cancels Pickup Equipment: Equipment mismatch.
+Brew drink from plant (5) has been completed.
+`Smith Uzol' Shovethgeshud, Bowyer cancels Drink: Shaken.
+`Mason Endok' Asmelñz, Stonecrafter cancels Store Item in Stockpile: Item inaccessible.
+`Fisher Mafol' Akrulritan, Fisherdwarf cancels Store Item in Stockpile: Item inaccessible.
+`Engineer Geshud' Rigïthsigun, Clothier cancels Construct Building: Could not find path.
+The dwarves suspended the construction of ashen Bridge.
+`Mason Deler' Ustuthçnal, Stonecrafter cancels Glaze large clay/stone pot: Needs empty unimproved CAN_GLAZE large pot.
+`Macey McMaceface' Bekarfikod, bookkeeper cancels Drink: Water source vanished.
+Collect Clay (10) has been completed.
+Construct wooden Floodgate (4) has been completed.
+`Carpenter Kivis' åmÑzbomrek has created a masterpiece sand pear wood chest!
+Make leather armor (10) has been completed.
+The weather has cleared.
+Construct rock Mechanisms (5) has been completed.
+The stray mule has been stung by a bumblebee!
+`Archer Solon' Estunlolor has become a Administrator.
+Råsen äzumlisat has become a Recruit.
+Tekkud Othilmafol has become a Recruit.
+Zon Thåkutmeng has become a Fish Dissector.
+Reg Olinlegon has become a Beekeeper.
+Ducim Limulnosing has become a Potter.
+Asob Alisoltar has become a Surgeon.
+`Grunt Rakust' Cattenbubnus has become a Recruit.
+`Grunt Dodok' Besmarthad has become a militia captain.
+`Grunt Mistem' Asmelthibam has become a Recruit.
+It has started raining.
+Collect Clay (10) has been completed.
+`Smith Uzol' Shovethgeshud, Bowyer cancels Drink: Shaken.
+Make leather Backpack (15) has been completed.
+Construct rock Door (20) has been completed.
+The weather has cleared.
+Etur Mosusdostob has grown to become a Cat.
+Collect Clay (10) has been completed.
+`Grunt Besmar' Uristecem, Herbalist cancels Spin Thread: Needs unrotten hair/wool body part.
+Make leather Waterskin (25) has been completed.
+`Processor Sazir' Zatthudnish, Thresher cancels Process Plants: Needs unrotten processable plants.
+Construct rock Mechanisms (4) has been completed.
+`Tailor Fikod' Nekutmîrul, Dyer cancels Spin Thread: Needs unrotten hair/wool body part.
+It has started raining.
+Construct rock Cabinet (45) has been completed.
+`Smith Uzol' Shovethgeshud, Bowyer cancels Drink: Shaken.
+`Carpenter Kivis' åmÑzbomrek has created a masterpiece peach wood bed!
+`Chemist Kikrost' K°ddireral, Soap Maker cancels Store Item in Stockpile: Item inaccessible.
+`Archer Reg' Olinlegon, Beekeeper cancels Pickup Equipment: Equipment mismatch.
+`Archer Nil' Zefonmîrul, Bone Doctor cancels Pickup Equipment: Equipment mismatch.
+Brew drink from fruit (5) has been completed.
+Construct Bed (6) has been completed.
+`Archer Nil' Zefonmîrul, Bone Doctor cancels Pickup Equipment: Equipment mismatch.
+Brew drink from plant (5) has been completed.
+`Archer Solon' Estunlolor has become a Axedwarf.
+Råsen äzumlisat has become a Clothier.
+Tekkud Othilmafol has become a Armorer.
+Zon Thåkutmeng has become a Recruit.
+Reg Olinlegon has become a Recruit.
+Ducim Limulnosing has become a Recruit.
+`Grunt Rakust' Cattenbubnus has become a Glassmaker.
+`Grunt Dodok' Besmarthad has become a militia captain.
+`Grunt Mistem' Asmelthibam has become a Trapper.
+`Archer Adil' Gemsitedâm has become a Recruit.
+`Archer Solon' Estunlolor, Axedwarf cancels Pickup Equipment: Equipment mismatch.
+x2
+`Archer Reg' Olinlegon, Recruit cancels Pickup Equipment: Equipment mismatch.
+Reg Udildäg, Ghostly Recruit has risen and is haunting the fortress!
+`Archer Solon' Estunlolor, Axedwarf cancels Pickup Equipment: Equipment mismatch.
+The weather has cleared.
+Sibrek Stibmermîrul has grown to become a Blue Peacock.
+`Smith Uzol' Shovethgeshud, Bowyer cancels Drink: Shaken.
+`Chemist Kikrost' K°ddireral, Soap Maker cancels Collect Clay: Taken by mood.
+`Chemist Kikrost' K°ddireral, Soap Maker is taken by a fey mood!
+`Chemist Kikrost' K°ddireral has claimed a Craftsdwarf's Workshop.
+`Chemist Kikrost' K°ddireral has begun a mysterious construction!
+It has started raining.
+An animal has grown to become a Stray Rooster.
+`Mr Crossbow' Zimoddom has become a manager.
+`Chemist Kikrost' K°ddireral, Soap Maker has created K†nzes Elikvozbel, a horse bone figurine of Rith Furnacedrilled!  She claims it as an heirloom in the name of the family ancestor `Tailor Fikod' Secretpages.
+`Chemist Kikrost' K°ddireral has become a Bone Carver.
+`Chemist Kikrost' K°ddireral, Bone Carver cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+`Chemist Kikrost' K°ddireral, Bone Carver cancels Make soap from oil: Needs lye-containing item.
+`Grunt Besmar' Uristecem, Herbalist cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+x2
+Digging designation cancelled: damp stone located.
+`Operator Feb' Rçtharurist, Papermaker cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+x2
+`Chemist Kikrost' K°ddireral, Bone Carver cancels Make soap from oil: Needs lye-containing item.
+`Operator Erush' Amaskilrud, Glazer cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+Spring has arrived!
+`Archer Solon' Estunlolor has become a Administrator.
+Asmel AlÜthked has become a Recruit.
+Zon Thåkutmeng has become a Fish Dissector.
+Reg Olinlegon has become a Beekeeper.
+Ducim Limulnosing has become a Potter.
+Solon Veteklogem has become a Recruit.
+`Grunt Rakust' Cattenbubnus has become a Lasher.
+`Grunt Dodok' Besmarthad has become a militia captain.
+`Grunt Mistem' Asmelthibam has become a Recruit.
+`Archer Adil' Gemsitedâm has become a Soap Maker.
+`Archer Adil' Gemsitedâm, Soap Maker cancels Make soap from oil: Needs lye-containing item.
+Make Lye (2) has been completed.
+The Stray Water Buffalo Bull (Tame) has been found, starved to death.
+`Chemist Alath' Ekastcatten, Presser cancels Mill seeds/nuts to paste: Needs unrotten PRESS_LIQUID_MAT-producing seeds.
+`Chemist Kikrost' K°ddireral, Bone Carver cancels Make soap from oil: Needs lye-containing item.
+`Ranger Avuz' Cilobegath, Tanner cancels Make bone bolts: Needs unrotten bone body part.
+`Engineer Idengi' Idenginet has become a militia captain.
+Press liquid from paste (2) has been completed.
+`Grunt Mistem' Asmelthibam has become a Swordsdwarf.
+`Archer Ducim' Limulnosing, Potter cancels Make soap from oil: Needs lye-containing item.
+Make wooden Bucket (4) has been completed.
+Mill seeds/nuts to paste (2) has been completed.
+The weather has cleared.
+`Archer Ducim' Limulnosing, Potter cancels Make soap from oil: Needs lye-containing item.
+`Tailor Fikod' Nekutmîrul has become a Weaver.
+`Chef Litast' Isancog, Potash Maker cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+`Archer Zon' Thåkutmeng, Fish Dissector cancels Make soap from oil: Needs lye-containing item.
+`Tailor Fikod' Nekutmîrul has created a masterpiece pig tail cloth!
+`Smith Uzol' Shovethgeshud, Bowyer cancels Drink: Shaken.
+`Chef Litast' Isancog, Potash Maker cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+`Chemist Kikrost' K°ddireral, Bone Carver cancels Construct Building: Dangerous terrain.
+The dwarves suspended the construction of Floor.
+A elven caravan from Osiula has arrived.
+`Chef Litast' Isancog, Potash Maker cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+Cog Kuletudesh, Ghostly Recruit has risen and is haunting the fortress!
+It has started raining.
+Merchants have arrived and are unloading their goods.
+Brew drink from plant (5) has been completed.
+`Chef Litast' Isancog, Potash Maker cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+`Chef Logem' Vabìktîgum, Farmer cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+`Grower Obok' Okunlimul, mayor has ended a mandate.
+`Archer Zon' Thåkutmeng, Fish Dissector cancels Brew drink from fruit: Needs unrotten DRINK_MAT-producing leaf.
+Collect Clay (50) has been completed.
+Mebzuth Obokstågil has grown to become a Billy Goat.
